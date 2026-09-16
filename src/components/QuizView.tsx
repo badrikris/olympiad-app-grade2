@@ -12,6 +12,8 @@ interface Question {
   correctAnswer: number;
   hint: string;
   explanation: string;
+  imageUrl?: string;
+  pdfSource?: string;
 }
 
 interface BookData {
