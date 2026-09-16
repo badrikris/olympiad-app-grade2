@@ -456,6 +456,676 @@
               "explanation": "Food is the fuel for your body! Just like a car needs fuel to run, your body needs food to have energy and grow."
             }
           ]
+        },
+        {
+          "id": "human-body",
+          "title": "Human Body",
+          "description": "Learn about your amazing body!",
+          "icon": "👤",
+          "lessons": [
+            {
+              "id": "lesson-1-body-parts",
+              "title": "Body Parts & Functions",
+              "hook": "Your body has amazing parts that work together! Let's discover them! 🧠",
+              "explanation": "Our body has many parts. Each part does a special job to keep us alive and healthy.",
+              "content": "Main body parts and what they do:\n\n1. **Head** 🧠 - Contains brain (thinking) and eyes (seeing)\n2. **Heart** ❤️ - Pumps blood around our body\n3. **Lungs** 💨 - Help us breathe air\n4. **Stomach** 🍽️ - Digests (breaks down) food\n5. **Bones** 🦴 - Give our body shape and support\n6. **Muscles** 💪 - Help us move and stay strong",
+              "examples": [
+                {
+                  "title": "Brain 🧠",
+                  "description": "Helps us think, remember, and make decisions",
+                  "visual": "Smart child thinking"
+                },
+                {
+                  "title": "Heart ❤️",
+                  "description": "Pumps blood to every part of body",
+                  "visual": "Heart beating inside chest"
+                },
+                {
+                  "title": "Lungs 💨",
+                  "description": "Help us breathe fresh air",
+                  "visual": "Deep breath of fresh air"
+                },
+                {
+                  "title": "Bones 🦴",
+                  "description": "Hold our body up and protect organs",
+                  "visual": "Strong skeleton frame"
+                }
+              ]
+            },
+            {
+              "id": "lesson-2-senses",
+              "title": "Our Five Senses",
+              "hook": "You can see, hear, smell, taste, and touch! These are your superpowers! 👀",
+              "explanation": "We have five senses that help us understand the world around us.",
+              "content": "Our five senses:\n\n1. **Sight** 👀 - Eyes let us see colors and shapes\n2. **Hearing** 👂 - Ears let us hear sounds\n3. **Smell** 👃 - Nose lets us smell things\n4. **Taste** 👅 - Tongue lets us taste sweet, sour, salty, bitter\n5. **Touch** ✋ - Skin lets us feel hot, cold, soft, hard",
+              "examples": [
+                {
+                  "title": "Eyes See 👀",
+                  "description": "Help us see colors, shapes, and people",
+                  "items": ["Red apple", "Blue sky", "Happy face"]
+                },
+                {
+                  "title": "Ears Hear 👂",
+                  "description": "Help us listen to music and voices",
+                  "items": ["Music notes", "Mother's voice", "Birds singing"]
+                },
+                {
+                  "title": "Nose Smells 👃",
+                  "description": "Help us smell flowers and food",
+                  "items": ["Rose flower", "Cooking food", "Fresh air"]
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which body part helps us THINK?",
+              "options": [
+                "Heart ❤️",
+                "Brain 🧠",
+                "Stomach 🍽️",
+                "Bones 🦴"
+              ],
+              "correctAnswer": 1,
+              "hint": "It's inside your head!",
+              "explanation": "Brain helps us think, remember, and make decisions! It's the smartest part of our body."
+            },
+            {
+              "id": "q2",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which sense helps you SEE?",
+              "options": [
+                "Ears 👂",
+                "Nose 👃",
+                "Eyes 👀",
+                "Tongue 👅"
+              ],
+              "correctAnswer": 2,
+              "hint": "You use this to watch TV and read books!",
+              "explanation": "Eyes help us see! They let us see colors, people, and everything around us."
+            },
+            {
+              "id": "q3",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "What does your HEART do?",
+              "options": [
+                "Digests food 🍽️",
+                "Pumps blood around body ❤️",
+                "Helps you think 🧠",
+                "Helps you smell 👃"
+              ],
+              "correctAnswer": 1,
+              "hint": "It beats 'boom boom' inside your chest!",
+              "explanation": "Heart pumps blood to every part of your body! Blood carries oxygen and nutrients."
+            },
+            {
+              "id": "q4",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which sense helps you TASTE food?",
+              "options": [
+                "Eyes 👀",
+                "Ears 👂",
+                "Tongue 👅",
+                "Bones 🦴"
+              ],
+              "correctAnswer": 2,
+              "hint": "It's the part of your mouth that helps you taste!",
+              "explanation": "Tongue helps us taste! It can taste sweet, sour, salty, and bitter flavors."
+            },
+            {
+              "id": "q5",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Why do we need BONES?",
+              "options": [
+                "To taste food",
+                "To hold up body and protect organs 🦴",
+                "To pump blood",
+                "To breathe air"
+              ],
+              "correctAnswer": 1,
+              "hint": "They give your body shape and structure!",
+              "explanation": "Bones hold up our body and give it shape! They also protect important organs like the heart and brain."
+            }
+          ]
+        },
+        {
+          "id": "safety",
+          "title": "Good Habits & Safety",
+          "description": "Learn healthy and safe habits!",
+          "icon": "🛡️",
+          "lessons": [
+            {
+              "id": "lesson-1-hygiene",
+              "title": "Personal Hygiene",
+              "hook": "Keeping clean helps you stay healthy and strong! Let's learn good habits! 🧼",
+              "explanation": "Good hygiene means keeping your body clean and healthy. This stops germs from making us sick.",
+              "content": "Important hygiene habits:\n\n1. **Wash Hands** 🚰 - Before eating and after bathroom (kills germs)\n2. **Brush Teeth** 🪥 - Twice a day to keep them strong\n3. **Take Bath** 🚿 - Wash your whole body with soap\n4. **Trim Nails** 💅 - Keep them short and clean\n5. **Wash Hair** 💇 - Keep scalp clean and healthy",
+              "examples": [
+                {
+                  "title": "Wash Hands 🚰",
+                  "description": "Before eating and after toilet",
+                  "visual": "Clean hands with soap and water"
+                },
+                {
+                  "title": "Brush Teeth 🪥",
+                  "description": "Morning and before bed",
+                  "visual": "Shiny white healthy teeth"
+                },
+                {
+                  "title": "Take Bath 🚿",
+                  "description": "Use soap to clean whole body",
+                  "visual": "Clean fresh body"
+                }
+              ]
+            },
+            {
+              "id": "lesson-2-safety",
+              "title": "Safety Rules",
+              "hook": "Playing safe keeps you from getting hurt! Learn these important rules! ⚠️",
+              "explanation": "Safety rules help protect us from accidents and injuries.",
+              "content": "Important safety rules:\n\n1. **Cross Roads Safely** 🚦 - Look both ways, hold adult's hand\n2. **Don't Talk to Strangers** 🚫 - Stay close to trusted adults\n3. **Wear Helmet** 🪖 - When riding bike or scooter\n4. **Don't Play With Fire** 🔥 - Fire is dangerous!\n5. **Wear Seat Belt** 🚗 - When in a car",
+              "examples": [
+                {
+                  "title": "Road Safety 🚦",
+                  "description": "Look left, right, left before crossing",
+                  "visual": "Safe crossing at zebra crossing"
+                },
+                {
+                  "title": "Wear Helmet 🪖",
+                  "description": "Protects your head when cycling",
+                  "visual": "Helmet on head"
+                },
+                {
+                  "title": "Fire Safety 🔥",
+                  "description": "Never play with fire or matches",
+                  "visual": "Fire is dangerous"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "When should you WASH your hands?",
+              "options": [
+                "Before bed",
+                "Before eating 🚰",
+                "After playing",
+                "Never"
+              ],
+              "correctAnswer": 1,
+              "hint": "Think about germs on food!",
+              "explanation": "Wash hands before eating! This removes germs and keeps you healthy. Also wash after toilet and playing."
+            },
+            {
+              "id": "q2",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "How many times should you BRUSH teeth?",
+              "options": [
+                "Once a week",
+                "Once a day",
+                "Twice a day 🪥",
+                "Never"
+              ],
+              "correctAnswer": 2,
+              "hint": "Morning and before sleep!",
+              "explanation": "Brush teeth twice a day - morning and before bed! This keeps your teeth strong and healthy."
+            },
+            {
+              "id": "q3",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "What should you do before CROSSING the road?",
+              "options": [
+                "Run fast",
+                "Look both ways 🚦",
+                "Play in road",
+                "Don't cross"
+              ],
+              "correctAnswer": 1,
+              "hint": "Check for cars coming!",
+              "explanation": "Look left, right, then left again before crossing! Hold an adult's hand and cross at zebra crossing."
+            },
+            {
+              "id": "q4",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "What should you wear when riding a bike?",
+              "options": [
+                "Nothing",
+                "Helmet 🪖",
+                "Sunglasses",
+                "Shoes only"
+              ],
+              "correctAnswer": 1,
+              "hint": "It protects your head!",
+              "explanation": "Wear a helmet when riding bike or scooter! It protects your head if you fall."
+            },
+            {
+              "id": "q5",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Why is hygiene important?",
+              "options": [
+                "To look pretty",
+                "To kill germs and stay healthy 🧼",
+                "To waste time",
+                "For no reason"
+              ],
+              "correctAnswer": 1,
+              "hint": "Think about what happens when you don't wash!",
+              "explanation": "Good hygiene kills germs and prevents sickness! It keeps your body clean and healthy."
+            }
+          ]
+        },
+        {
+          "id": "environment",
+          "title": "Air, Water & Rocks",
+          "description": "Discover our natural world!",
+          "icon": "🌍",
+          "lessons": [
+            {
+              "id": "lesson-1-air",
+              "title": "Air We Breathe",
+              "hook": "You breathe air every second, but can you see it? No! But it's everywhere! 💨",
+              "explanation": "Air is all around us. We can't see it, but we need it to live.",
+              "content": "Facts about air:\n\n1. **Invisible** - We can't see air, but it's everywhere\n2. **We Breathe It** 💨 - Our lungs need oxygen from air\n3. **Wind** 🌪️ - Moving air is called wind\n4. **Has Weight** ⚖️ - Air has weight and pushes on us\n5. **Plants Need It** 🌿 - Plants use air to make food",
+              "examples": [
+                {
+                  "title": "We Breathe Air 💨",
+                  "description": "In and out, all day and night",
+                  "visual": "Deep breath of fresh air"
+                },
+                {
+                  "title": "Wind Moves Air 🌪️",
+                  "description": "Moving air pushes things",
+                  "visual": "Leaves blowing in wind"
+                },
+                {
+                  "title": "Air is Invisible 👻",
+                  "description": "We can't see it but it's there",
+                  "visual": "Clear but present"
+                }
+              ]
+            },
+            {
+              "id": "lesson-2-water",
+              "title": "Water We Need",
+              "hook": "Water is everywhere! In rain, rivers, ocean - and inside you! 💧",
+              "explanation": "Water is essential for all life. We can see it and it has many forms.",
+              "content": "Facts about water:\n\n1. **Essential** 💧 - We need water to survive\n2. **States** 🌡️ - Ice (solid), Water (liquid), Steam (gas)\n3. **Covers Earth** 🌊 - Most of Earth is water (oceans, rivers)\n4. **In Our Body** 👤 - We are mostly water\n5. **Rain** 🌧️ - Water falls from clouds as rain",
+              "examples": [
+                {
+                  "title": "Water States 🌡️",
+                  "description": "Ice cold, water liquid, steam hot",
+                  "items": ["Ice cube", "Drinking water", "Hot steam"]
+                },
+                {
+                  "title": "Water Bodies 🌊",
+                  "description": "Ocean, river, lake, pond",
+                  "items": ["Big ocean", "Flowing river", "Calm lake"]
+                },
+                {
+                  "title": "Rain 🌧️",
+                  "description": "Water falls from clouds",
+                  "visual": "Raindrops falling"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Can you SEE air?",
+              "options": [
+                "Yes, it's blue",
+                "Yes, it's white",
+                "No, it's invisible 💨",
+                "Sometimes"
+              ],
+              "correctAnswer": 2,
+              "hint": "Think about looking at the sky!",
+              "explanation": "Air is invisible! We can't see it, but it's everywhere around us. We can only see what air moves (like leaves blowing)."
+            },
+            {
+              "id": "q2",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Why do we NEED water?",
+              "options": [
+                "To play",
+                "To survive 💧",
+                "To swim",
+                "For fun"
+              ],
+              "correctAnswer": 1,
+              "hint": "What happens if you don't drink water?",
+              "explanation": "We need water to survive! Water is in our body and keeps us healthy."
+            },
+            {
+              "id": "q3",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "What is moving AIR called?",
+              "options": [
+                "Breeze",
+                "Wind 🌪️",
+                "Air flow",
+                "All of above"
+              ],
+              "correctAnswer": 1,
+              "hint": "When air moves, trees sway!",
+              "explanation": "Wind is moving air! When air moves fast, we call it wind. Wind can blow leaves and move things."
+            },
+            {
+              "id": "q4",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which is a STATE of water?",
+              "options": [
+                "India",
+                "Ice, water, steam 🌡️",
+                "Ocean",
+                "Rain"
+              ],
+              "correctAnswer": 1,
+              "hint": "Water can be solid, liquid, or gas!",
+              "explanation": "Water has three states: Ice (solid, cold), Water (liquid, normal), Steam (gas, hot). Water changes between these states."
+            },
+            {
+              "id": "q5",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Where does RAIN come from?",
+              "options": [
+                "From rivers",
+                "From clouds 🌧️",
+                "From ocean only",
+                "From mountains"
+              ],
+              "correctAnswer": 1,
+              "hint": "Look up when it rains!",
+              "explanation": "Rain comes from clouds! Water evaporates from oceans and rivers, forms clouds, and falls as rain."
+            }
+          ]
+        },
+        {
+          "id": "transport",
+          "title": "Transport & Communication",
+          "description": "Travel and connect with others!",
+          "icon": "🚗",
+          "lessons": [
+            {
+              "id": "lesson-1-transport",
+              "title": "Types of Transport",
+              "hook": "We use different vehicles to travel from place to place! 🚗",
+              "explanation": "Transport is how we move from one place to another. There are many types.",
+              "content": "Types of transport:\n\n1. **Land Transport** 🚗 - Car, bus, train, bicycle\n2. **Water Transport** 🚢 - Boat, ship, ferry\n3. **Air Transport** ✈️ - Airplane, helicopter\n4. **Public Transport** 🚌 - Buses, trains, metro for many people\n5. **Personal Transport** 🚲 - Bicycle, scooter, personal car",
+              "examples": [
+                {
+                  "title": "Land Transport 🚗",
+                  "description": "Travel on roads and rails",
+                  "items": ["Car", "Bus", "Train", "Bicycle"]
+                },
+                {
+                  "title": "Water Transport 🚢",
+                  "description": "Travel on water",
+                  "items": ["Boat", "Ship", "Ferry", "Yacht"]
+                },
+                {
+                  "title": "Air Transport ✈️",
+                  "description": "Travel in the sky",
+                  "items": ["Airplane", "Helicopter", "Hot air balloon"]
+                }
+              ]
+            },
+            {
+              "id": "lesson-2-communication",
+              "title": "Ways to Communicate",
+              "hook": "How do you talk to your friends and family? There are so many ways! 📱",
+              "explanation": "Communication is how we share information and talk to each other.",
+              "content": "Ways to communicate:\n\n1. **Face to Face** 👥 - Talk directly with people\n2. **Phone** ☎️ - Call or text messages\n3. **Letter** ✉️ - Written message sent by mail\n4. **Internet** 💻 - Email, video call, chat\n5. **Sign Language** 🙋 - Using hands to communicate",
+              "examples": [
+                {
+                  "title": "Face to Face 👥",
+                  "description": "Talk to people directly",
+                  "visual": "Friends talking together"
+                },
+                {
+                  "title": "Phone & Text ☎️",
+                  "description": "Call or message someone",
+                  "visual": "Talking on phone"
+                },
+                {
+                  "title": "Letter ✉️",
+                  "description": "Written message by mail",
+                  "visual": "Envelope with letter"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which is LAND transport?",
+              "options": [
+                "Boat 🚢",
+                "Airplane ✈️",
+                "Bus 🚌",
+                "Ship"
+              ],
+              "correctAnswer": 2,
+              "hint": "It travels on roads!",
+              "explanation": "Bus is land transport! It travels on roads. Boat, ship are water transport. Airplane is air transport."
+            },
+            {
+              "id": "q2",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which is WATER transport?",
+              "options": [
+                "Car 🚗",
+                "Train 🚂",
+                "Boat 🚢",
+                "Bicycle"
+              ],
+              "correctAnswer": 2,
+              "hint": "It travels on water!",
+              "explanation": "Boat is water transport! It travels on water, rivers, and oceans."
+            },
+            {
+              "id": "q3",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "How do we COMMUNICATE over distance?",
+              "options": [
+                "Face to face only",
+                "Phone or internet 📱",
+                "Letter only",
+                "Sign language"
+              ],
+              "correctAnswer": 1,
+              "hint": "When someone is far away!",
+              "explanation": "Phone and internet help us communicate when we're far apart! We can call, text, or video chat."
+            },
+            {
+              "id": "q4",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "What is a PUBLIC transport?",
+              "options": [
+                "Your car only",
+                "Bus for many people 🚌",
+                "Bicycle",
+                "Motorcycle"
+              ],
+              "correctAnswer": 1,
+              "hint": "Many people use it together!",
+              "explanation": "Public transport like bus and train carries many people! It's cheaper than using your own car."
+            },
+            {
+              "id": "q5",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Which transport is fastest for long distance?",
+              "options": [
+                "Bicycle 🚲",
+                "Car 🚗",
+                "Airplane ✈️",
+                "Bus 🚌"
+              ],
+              "correctAnswer": 2,
+              "hint": "It travels through the sky!",
+              "explanation": "Airplane is fastest for long distances! It can travel across countries in a few hours."
+            }
+          ]
+        },
+        {
+          "id": "earth",
+          "title": "Earth & Universe",
+          "description": "Explore our planet and space!",
+          "icon": "🌎",
+          "lessons": [
+            {
+              "id": "lesson-1-earth",
+              "title": "Our Planet Earth",
+              "hook": "We live on a planet called Earth! It's round and very special! 🌍",
+              "explanation": "Earth is our home planet. It has everything we need to survive.",
+              "content": "Facts about Earth:\n\n1. **Round Planet** 🌍 - Earth is a sphere\n2. **Has Land & Water** 🏞️ - Continents, islands, and oceans\n3. **Rotates** 🌪️ - Turns to create day and night\n4. **Has Atmosphere** 💨 - Air around Earth protects us\n5. **Has Life** 🌿 - Plants, animals, and people live here",
+              "examples": [
+                {
+                  "title": "Earth is Round 🌍",
+                  "description": "Like a big ball in space",
+                  "visual": "Blue and green planet"
+                },
+                {
+                  "title": "Land & Ocean 🌊",
+                  "description": "Continents, mountains, and water",
+                  "items": ["Continents", "Mountains", "Oceans", "Rivers"]
+                },
+                {
+                  "title": "Day & Night 🌙",
+                  "description": "Earth rotates to create day and night",
+                  "visual": "Sun and moon"
+                }
+              ]
+            },
+            {
+              "id": "lesson-2-space",
+              "title": "Space & Stars",
+              "hook": "Beyond Earth is a huge space with stars, moon, and planets! 🌟",
+              "explanation": "Space is everything beyond Earth. It's full of amazing things.",
+              "content": "Space includes:\n\n1. **Sun** ☀️ - Star that gives us light and heat\n2. **Moon** 🌙 - Orbits Earth, creates tides\n3. **Stars** ⭐ - Distant suns very far away\n4. **Planets** 🪐 - Orbit the sun (Mercury, Venus, Mars)\n5. **Galaxy** 🌌 - Millions of stars together",
+              "examples": [
+                {
+                  "title": "The Sun ☀️",
+                  "description": "Gives us light and warmth",
+                  "visual": "Bright yellow star"
+                },
+                {
+                  "title": "The Moon 🌙",
+                  "description": "Orbits Earth, lights night sky",
+                  "visual": "Silver moon in night"
+                },
+                {
+                  "title": "Stars ⭐",
+                  "description": "Sparkle in night sky",
+                  "visual": "Twinkling stars"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "What is the shape of Earth?",
+              "options": [
+                "Flat 📄",
+                "Square 📦",
+                "Round sphere 🌍",
+                "Triangle △"
+              ],
+              "correctAnswer": 2,
+              "hint": "Like a ball!",
+              "explanation": "Earth is round like a sphere! It's not flat. Astronauts can see it's round from space."
+            },
+            {
+              "id": "q2",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "What gives us LIGHT and HEAT?",
+              "options": [
+                "Moon 🌙",
+                "Stars ⭐",
+                "Sun ☀️",
+                "Fire 🔥"
+              ],
+              "correctAnswer": 2,
+              "hint": "It's bright during the day!",
+              "explanation": "Sun gives us light and heat! It's a star very close to Earth. Without sun, we couldn't survive."
+            },
+            {
+              "id": "q3",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Why do we have DAY and NIGHT?",
+              "options": [
+                "Sun disappears",
+                "Earth rotates 🌪️",
+                "Moon covers earth",
+                "Clouds come"
+              ],
+              "correctAnswer": 1,
+              "hint": "Earth is always spinning!",
+              "explanation": "Day and night happen because Earth rotates (spins)! When your place faces the sun = day. When it faces away = night."
+            },
+            {
+              "id": "q4",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "What is the MOON?",
+              "options": [
+                "A planet",
+                "A star ⭐",
+                "Orbits Earth 🌙",
+                "Hot like sun"
+              ],
+              "correctAnswer": 2,
+              "hint": "You see it at night!",
+              "explanation": "Moon orbits Earth! It's smaller than Earth and doesn't make its own light. It reflects light from the sun."
+            },
+            {
+              "id": "q5",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "What is a GALAXY?",
+              "options": [
+                "A planet",
+                "One star",
+                "Millions of stars together 🌌",
+                "The sun"
+              ],
+              "correctAnswer": 2,
+              "hint": "Look at night sky with stars!",
+              "explanation": "Galaxy is millions or billions of stars together! Our sun is one star in the Milky Way galaxy."
+            }
+          ]
         }
       ]
     }
