@@ -53,9 +53,16 @@ export default function QuizView({
   }, [timeLeft]);
 
   const topic = bookData.subjects[0].topics.find(t => t.id === topicId);
-  const questions = topic?.questions || [];
-  const currentQuestion = questions[currentQuestionIndex];
-  const totalQuestions = Math.min(questions.length, 8); // Show max 8 questions
+  const allQuestions = topic?.questions || [];
+
+  // Randomize and select up to 8 questions
+  const [selectedQuestions] = useState(() => {
+    const shuffled = [...allQuestions].sort(() => Math.random() - 0.5);
+    return shuffled.slice(0, Math.min(8, shuffled.length));
+  });
+
+  const currentQuestion = selectedQuestions[currentQuestionIndex];
+  const totalQuestions = selectedQuestions.length;
 
   if (!currentQuestion) return <div>Loading...</div>;
 
@@ -80,6 +87,15 @@ export default function QuizView({
       onComplete(score + (isCorrect ? 1 : 0));
     } else {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
+      setSelectedAnswer(null);
+      setShowFeedback(false);
+      setShowHint(false);
+    }
+  };
+
+  const handlePreviousQuestion = () => {
+    if (currentQuestionIndex > 0) {
+      setCurrentQuestionIndex(currentQuestionIndex - 1);
       setSelectedAnswer(null);
       setShowFeedback(false);
       setShowHint(false);
@@ -217,14 +233,24 @@ export default function QuizView({
           )}
         </div>
 
-        {/* Next button */}
+        {/* Navigation buttons */}
         {showFeedback && (
-          <button
-            onClick={handleNextQuestion}
-            className="w-full bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 text-white font-bold text-xl py-6 px-8 rounded-2xl hover:shadow-2xl transition-all transform hover:scale-105"
-          >
-            {isLastQuestion ? '✨ See My Score!' : '➡️ Next Question'}
-          </button>
+          <div className="flex gap-4">
+            {currentQuestionIndex > 0 && (
+              <button
+                onClick={handlePreviousQuestion}
+                className="flex-1 bg-gray-500 text-white font-bold py-6 px-8 rounded-2xl hover:shadow-lg transition-all transform hover:scale-105"
+              >
+                ⬅️ Previous
+              </button>
+            )}
+            <button
+              onClick={handleNextQuestion}
+              className={`flex-1 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 text-white font-bold text-xl py-6 px-8 rounded-2xl hover:shadow-2xl transition-all transform hover:scale-105 ${currentQuestionIndex > 0 ? '' : 'w-full'}`}
+            >
+              {isLastQuestion ? '✨ See My Score!' : '➡️ Next Question'}
+            </button>
+          </div>
         )}
       </div>
     </div>
