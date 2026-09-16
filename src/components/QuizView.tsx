@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { ChevronLeft } from 'lucide-react';
+import { ChevronLeft, Clock } from 'lucide-react';
 
 interface Question {
   id: string;
@@ -44,11 +44,18 @@ export default function QuizView({
   const [score, setScore] = useState(0);
   const [showHint, setShowHint] = useState(false);
   const [answers, setAnswers] = useState<Array<{ questionId: string; answer: number }>>([]);
+  const [timeLeft, setTimeLeft] = useState(480); // 8 minutes for 8 questions
+
+  useEffect(() => {
+    if (timeLeft <= 0) return;
+    const timer = setInterval(() => setTimeLeft(t => t - 1), 1000);
+    return () => clearInterval(timer);
+  }, [timeLeft]);
 
   const topic = bookData.subjects[0].topics.find(t => t.id === topicId);
   const questions = topic?.questions || [];
   const currentQuestion = questions[currentQuestionIndex];
-  const totalQuestions = questions.length;
+  const totalQuestions = Math.min(questions.length, 8); // Show max 8 questions
 
   if (!currentQuestion) return <div>Loading...</div>;
 
@@ -103,6 +110,15 @@ export default function QuizView({
           >
             <ChevronLeft size={24} /> Home
           </button>
+
+          {/* Timer */}
+          <div className={`flex items-center gap-2 text-lg font-bold px-4 py-2 rounded-full ${
+            timeLeft > 60 ? 'bg-blue-100 text-blue-700' : 'bg-red-100 text-red-700'
+          }`}>
+            <Clock size={20} />
+            {Math.floor(timeLeft / 60)}:{(timeLeft % 60).toString().padStart(2, '0')}
+          </div>
+
           <div className="text-sm font-semibold text-gray-600">
             Question {currentQuestionIndex + 1} of {totalQuestions}
           </div>
