@@ -6,43 +6,43 @@
       "id": "science",
       "title": "Science",
       "description": "Learn amazing science concepts!",
-      "icon": "🔬",
+      "icon": "\ud83d\udd2c",
       "topics": [
         {
           "id": "plants",
           "title": "Plants",
           "description": "Discover the world of plants around us!",
-          "icon": "🌿",
+          "icon": "\ud83c\udf3f",
           "lessons": [
             {
               "id": "lesson-1-types",
               "title": "Types of Plants",
-              "hook": "Did you know plants come in many different sizes? Some are tiny, some are HUGE! 🌳",
+              "hook": "Did you know plants come in many different sizes? Some are tiny, some are HUGE! \ud83c\udf33",
               "explanation": "Plants can be very big or very small. We divide them into different groups based on their size and the type of stem they have. Let's explore!",
               "content": "There are 5 main types of plants:\n\n1. **Trees** - Very big and tall with hard, brown stems called trunks. They live for many years!\n2. **Shrubs** - Medium-sized plants with strong woody stems\n3. **Herbs** - Small plants with soft green stems\n4. **Climbers** - Weak plants that need support to grow up\n5. **Creepers** - Weak plants that grow along the ground",
               "examples": [
                 {
-                  "title": "Trees 🌳",
+                  "title": "Trees \ud83c\udf33",
                   "description": "Big, tall plants like neem, banyan, mango, and coconut trees",
                   "visual": "Tree with brown trunk and green leaves"
                 },
                 {
-                  "title": "Shrubs 🌸",
+                  "title": "Shrubs \ud83c\udf38",
                   "description": "Medium-sized like rose, sunflower, cotton, and hibiscus",
                   "visual": "Medium-sized plant with branches"
                 },
                 {
-                  "title": "Herbs 🌱",
+                  "title": "Herbs \ud83c\udf31",
                   "description": "Small plants like spinach, mint, and coriander - some we eat!",
                   "visual": "Small green leafy plant"
                 },
                 {
-                  "title": "Climbers 🏃",
+                  "title": "Climbers \ud83c\udfc3",
                   "description": "Weak plants that climb like money plant and grapevine",
                   "visual": "Plant climbing up a stick"
                 },
                 {
-                  "title": "Creepers 🎃",
+                  "title": "Creepers \ud83c\udf83",
                   "description": "Spread on ground like pumpkin and watermelon",
                   "visual": "Plant spreading along ground"
                 }
@@ -51,32 +51,32 @@
             {
               "id": "lesson-2-parts",
               "title": "Parts of a Plant",
-              "hook": "Every plant is like a small factory with special parts that do different jobs! 🏭",
+              "hook": "Every plant is like a small factory with special parts that do different jobs! \ud83c\udfed",
               "explanation": "Plants have many parts, and each part has an important job to help the plant grow and survive.",
-              "content": "The main parts of a plant are:\n\n1. **Root** 📍 - Holds plant in soil, absorbs water and minerals\n2. **Stem** 🌿 - Carries water and food to all parts, supports the plant\n3. **Leaf** 🍃 - Makes food for the plant using air, water, and sunlight\n4. **Flower** 💐 - Produces fruits and seeds\n5. **Fruit** 🍎 - Contains seeds that grow into new plants",
+              "content": "The main parts of a plant are:\n\n1. **Root** \ud83d\udccd - Holds plant in soil, absorbs water and minerals\n2. **Stem** \ud83c\udf3f - Carries water and food to all parts, supports the plant\n3. **Leaf** \ud83c\udf43 - Makes food for the plant using air, water, and sunlight\n4. **Flower** \ud83d\udc90 - Produces fruits and seeds\n5. **Fruit** \ud83c\udf4e - Contains seeds that grow into new plants",
               "examples": [
                 {
-                  "title": "Root - Underground Workers 📍",
+                  "title": "Root - Underground Workers \ud83d\udccd",
                   "description": "Roots drink water from soil and keep plant standing tall",
                   "food_example": "Carrot, radish, turnip - we eat roots!"
                 },
                 {
-                  "title": "Stem - The Delivery System 🌿",
+                  "title": "Stem - The Delivery System \ud83c\udf3f",
                   "description": "Stems carry water from roots to leaves and food from leaves to roots",
                   "food_example": "Potato, sugarcane - we eat stems!"
                 },
                 {
-                  "title": "Leaf - The Kitchen 🍃",
+                  "title": "Leaf - The Kitchen \ud83c\udf43",
                   "description": "Leaves make food for plants using sunlight. It's like a plant's kitchen!",
                   "food_example": "Cabbage, lettuce - we eat leaves!"
                 },
                 {
-                  "title": "Flower - The Fruit Maker 💐",
+                  "title": "Flower - The Fruit Maker \ud83d\udc90",
                   "description": "Flowers are beautiful and they make fruits and seeds",
                   "food_example": "Cauliflower, broccoli - we eat flowers!"
                 },
                 {
-                  "title": "Fruit - Seed Container 🍎",
+                  "title": "Fruit - Seed Container \ud83c\udf4e",
                   "description": "Fruits protect seeds inside. When seeds fall, new plants grow!",
                   "food_example": "Apple, mango, cherry - we eat fruits!"
                 }
@@ -85,25 +85,43 @@
             {
               "id": "lesson-3-usefulness",
               "title": "Things We Get From Plants",
-              "hook": "Plants give us SO many things we use every day! Let's discover them! 🎁",
+              "hook": "Plants give us SO many things we use every day! Let's discover them! \ud83c\udf81",
               "explanation": "Plants are super useful! They give us food, clothes, medicine, and many other things we need.",
               "content": "We get many important things from plants:\n\n**Food**: Rice, wheat, vegetables, fruits, spices\n**Clothes**: Cotton, jute, linen\n**Medicine**: Tulsi, neem, clove\n**Other things**: Wood, oil, rubber, paper, perfume, soap\n\nPlants also give us oxygen to breathe!",
               "examples": [
                 {
-                  "title": "Food from Plants 🍚🥬",
-                  "items": ["Rice", "Wheat", "Vegetables", "Fruits", "Spices"]
+                  "title": "Food from Plants \ud83c\udf5a\ud83e\udd6c",
+                  "items": [
+                    "Rice",
+                    "Wheat",
+                    "Vegetables",
+                    "Fruits",
+                    "Spices"
+                  ]
                 },
                 {
-                  "title": "Clothes from Plants 👕",
-                  "items": ["Cotton shirts", "Jute bags", "Linen clothes"]
+                  "title": "Clothes from Plants \ud83d\udc55",
+                  "items": [
+                    "Cotton shirts",
+                    "Jute bags",
+                    "Linen clothes"
+                  ]
                 },
                 {
-                  "title": "Medicine from Plants 💊",
-                  "items": ["Tulsi for cough", "Neem for skin", "Clove for teeth"]
+                  "title": "Medicine from Plants \ud83d\udc8a",
+                  "items": [
+                    "Tulsi for cough",
+                    "Neem for skin",
+                    "Clove for teeth"
+                  ]
                 },
                 {
-                  "title": "Other Things 🛋️",
-                  "items": ["Wood for furniture", "Paper for writing", "Oil for cooking"]
+                  "title": "Other Things \ud83d\udecb\ufe0f",
+                  "items": [
+                    "Wood for furniture",
+                    "Paper for writing",
+                    "Oil for cooking"
+                  ]
                 }
               ]
             }
@@ -115,14 +133,14 @@
               "difficulty": "easy",
               "question": "Which of these is a TREE?",
               "options": [
-                "Neem 🌳",
-                "Mint 🌱",
-                "Rose 🌸",
-                "Pumpkin 🎃"
+                "Neem \ud83c\udf33",
+                "Mint \ud83c\udf31",
+                "Rose \ud83c\udf38",
+                "Pumpkin \ud83c\udf83"
               ],
               "correctAnswer": 0,
-              "hint": "Think of the biggest plants. Which one grows very tall and lives for many years?",
-              "explanation": "Neem is a tree! It's big, tall, and has a hard trunk. Mint is a herb, rose is a shrub, and pumpkin is a creeper."
+              "hint": "Trees are big and tall.",
+              "explanation": "Neem is a tree! Trees are big and tall with hard trunks."
             },
             {
               "id": "q2",
@@ -130,59 +148,209 @@
               "difficulty": "easy",
               "question": "What does a ROOT do?",
               "options": [
-                "Makes food for the plant",
-                "Absorbs water from soil 💧",
-                "Holds flowers and leaves",
-                "Spreads leaves in the sun"
+                "Makes food",
+                "Absorbs water from soil \ud83d\udca7",
+                "Holds flowers",
+                "Spreads leaves"
               ],
               "correctAnswer": 1,
-              "hint": "Roots are underground. What do they drink?",
-              "explanation": "Roots absorb water and minerals from the soil! They also hold the plant firmly in the ground."
+              "hint": "Roots are underground.",
+              "explanation": "Roots absorb water and minerals from soil!"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "We eat the STEM of which plant?",
+              "difficulty": "easy",
+              "question": "Which is a SHRUB?",
               "options": [
-                "Apple 🍎",
-                "Spinach 🥬",
-                "Potato 🥔",
-                "Carrot 🥕"
+                "Neem tree",
+                "Rose plant \ud83c\udf38",
+                "Grass",
+                "Pumpkin"
               ],
-              "correctAnswer": 2,
-              "hint": "Think about what you eat as a vegetable that grows underground but isn't a root.",
-              "explanation": "Potato is a stem! It grows underground and we eat it. A carrot is a root, spinach is a leaf, and apple is a fruit."
+              "correctAnswer": 1,
+              "hint": "Shrubs are medium-sized.",
+              "explanation": "Rose is a shrub! Shrubs are medium-sized with woody stems."
             },
             {
               "id": "q4",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Which plant needs a STICK to grow up?",
+              "difficulty": "easy",
+              "question": "What is the STEM?",
               "options": [
-                "Pumpkin (spreads on ground)",
-                "Money plant (climbs up) 🏃",
-                "Mint (small herb)",
-                "Coconut (tall tree)"
+                "Underground part",
+                "Green above-ground part that carries water \ud83c\udf3f",
+                "Flower part",
+                "Seed holder"
               ],
               "correctAnswer": 1,
-              "hint": "Some plants have weak stems and need help to climb up.",
-              "explanation": "Money plant is a climber! It has a weak stem and uses a stick or wall to climb up. Pumpkin is a creeper that spreads on the ground."
+              "hint": "Stems carry water and food.",
+              "explanation": "The stem carries water and food to all parts of the plant."
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "challenge",
-              "question": "We wear clothes made from COTTON. Cotton comes from...",
+              "difficulty": "easy",
+              "question": "Which PLANT part do we EAT as a root?",
               "options": [
-                "The root of the plant",
-                "The flower of the plant 🌸",
-                "The leaves of the plant",
-                "The stem of the plant"
+                "Spinach",
+                "Carrot \ud83e\udd55",
+                "Apple",
+                "Banana"
               ],
               "correctAnswer": 1,
-              "hint": "Cotton is a soft, fluffy fiber. It surrounds the seeds. What part of the plant has this?",
-              "explanation": "Cotton comes from the flower! The fluffy cotton fibers surround the seeds inside the flower. These are spun into thread to make clothes."
+              "hint": "Orange and crunchy!",
+              "explanation": "Carrot is a root we eat! Spinach is a leaf, apple is a fruit."
+            },
+            {
+              "id": "q6",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Select the INCORRECT pair.",
+              "options": [
+                "Root - absorbs water",
+                "Stem - fixes plant to soil",
+                "Leaf - makes food",
+                "Flower - produces seeds"
+              ],
+              "correctAnswer": 1,
+              "hint": "What REALLY fixes plant to soil?",
+              "explanation": "Stem does NOT fix the plant - that's the ROOT's job! Stem carries water."
+            },
+            {
+              "id": "q7",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which plant part do we EAT as a STEM?",
+              "options": [
+                "Apple",
+                "Potato \ud83e\udd54",
+                "Spinach",
+                "Carrot"
+              ],
+              "correctAnswer": 1,
+              "hint": "Underground and grows underground.",
+              "explanation": "Potato is a stem! It stores food underground."
+            },
+            {
+              "id": "q8",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which plant needs a STICK to grow UP?",
+              "options": [
+                "Pumpkin",
+                "Money plant \ud83c\udfc3",
+                "Mint",
+                "Coconut"
+              ],
+              "correctAnswer": 1,
+              "hint": "Climbers need support.",
+              "explanation": "Money plant is a climber! It has weak stems and needs support."
+            },
+            {
+              "id": "q9",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "We wear clothes made from COTTON. What part is it?",
+              "options": [
+                "Root",
+                "Flower \ud83c\udf38",
+                "Leaf",
+                "Stem"
+              ],
+              "correctAnswer": 1,
+              "hint": "Fluffy and surrounds seeds.",
+              "explanation": "Cotton comes from the flower! The fluffy fibers are spun into thread."
+            },
+            {
+              "id": "q10",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which part of the plant is BARK?",
+              "options": [
+                "Hard skin of tree \ud83c\udf33",
+                "Soft inside",
+                "Green leaf",
+                "Root"
+              ],
+              "correctAnswer": 0,
+              "hint": "Outer covering of trunk.",
+              "explanation": "Bark is the hard outer skin of tree trunk! It protects the tree."
+            },
+            {
+              "id": "q11",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Which is NOT a SPICE?",
+              "options": [
+                "Cinnamon",
+                "Almond \ud83e\udd5c",
+                "Coriander",
+                "Cumin"
+              ],
+              "correctAnswer": 1,
+              "hint": "Spices are used in cooking for flavor.",
+              "explanation": "Almond is a nut/seed, not a spice! Cinnamon, coriander, and cumin are spices."
+            },
+            {
+              "id": "q12",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Which part of plant makes FOOD for the plant?",
+              "options": [
+                "Root",
+                "Stem",
+                "Leaf \ud83c\udf43",
+                "Fruit"
+              ],
+              "correctAnswer": 2,
+              "hint": "Green and makes food with sunlight.",
+              "explanation": "Leaf makes food! It's called the 'kitchen of the plant' because it uses sunlight to make food."
+            },
+            {
+              "id": "q13",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Which plant part stores FOOD for later use?",
+              "options": [
+                "Potato \ud83e\udd54",
+                "Leaf",
+                "Flower",
+                "Root"
+              ],
+              "correctAnswer": 0,
+              "hint": "Underground food storage.",
+              "explanation": "Potato is a special stem that stores food! This helps the plant survive."
+            },
+            {
+              "id": "q14",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "What is the function of FLOWERS?",
+              "options": [
+                "Store food",
+                "Absorb water",
+                "Make fruits and seeds \ud83c\udf3c",
+                "Carry water"
+              ],
+              "correctAnswer": 2,
+              "hint": "Flowers eventually become fruits.",
+              "explanation": "Flowers make fruits and seeds! Inside fruits are seeds that grow into new plants."
+            },
+            {
+              "id": "q15",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Which plant is a CREEPER?",
+              "options": [
+                "Rose tree",
+                "Mint plant",
+                "Pumpkin \ud83c\udf83",
+                "Neem tree"
+              ],
+              "correctAnswer": 2,
+              "hint": "Creepers spread on the ground.",
+              "explanation": "Pumpkin is a creeper! It spreads along the ground with heavy fruits."
             }
           ]
         },
@@ -190,32 +358,32 @@
           "id": "animals",
           "title": "Animals",
           "description": "Learn about creatures big and small!",
-          "icon": "🦁",
+          "icon": "\ud83e\udd81",
           "lessons": [
             {
               "id": "lesson-1-types",
               "title": "Types of Animals",
-              "hook": "The world is full of amazing animals! Some walk, some fly, some swim! 🌍",
+              "hook": "The world is full of amazing animals! Some walk, some fly, some swim! \ud83c\udf0d",
               "explanation": "Animals are living things that can move around. We can group them by what they eat or where they live.",
               "content": "Main groups of animals:\n\n1. **Wild Animals** - Live in forests, jungles, and deserts (lion, tiger, bear)\n2. **Domestic Animals** - Live with humans (dog, cat, cow)\n3. **Birds** - Have wings and can fly (parrot, crow, eagle)\n4. **Water Animals** - Live in water (fish, dolphin, crocodile)\n5. **Insects** - Tiny creatures with 6 legs (butterfly, bee, ant)",
               "examples": [
                 {
-                  "title": "Wild Animals 🦁",
+                  "title": "Wild Animals \ud83e\udd81",
                   "description": "Tiger, lion, elephant - live in nature",
                   "visual": "Big powerful animal in jungle"
                 },
                 {
-                  "title": "Domestic Animals 🐕",
+                  "title": "Domestic Animals \ud83d\udc15",
                   "description": "Dog, cat, cow - live with people",
                   "visual": "Friendly pet animal with family"
                 },
                 {
-                  "title": "Birds 🦅",
+                  "title": "Birds \ud83e\udd85",
                   "description": "Parrot, crow, peacock - have feathers and wings",
                   "visual": "Colorful bird flying in sky"
                 },
                 {
-                  "title": "Water Animals 🐠",
+                  "title": "Water Animals \ud83d\udc20",
                   "description": "Fish, turtle, crocodile - live in water",
                   "visual": "Animal swimming in water"
                 }
@@ -224,24 +392,39 @@
             {
               "id": "lesson-2-habitat",
               "title": "Where Animals Live",
-              "hook": "Different animals live in different places! Where would YOU find a fish? 🏜️",
+              "hook": "Different animals live in different places! Where would YOU find a fish? \ud83c\udfdc\ufe0f",
               "explanation": "Animals live in homes called habitats. Each habitat has what the animal needs to survive.",
               "content": "Different habitats:\n\n1. **Forest** - Trees, shade, wet ground (monkeys, deer, birds)\n2. **Desert** - Hot, dry, sandy (camel, snake, scorpion)\n3. **Ocean** - Salt water (whale, shark, octopus)\n4. **Pond/Lake** - Fresh water (frog, duck, fish)\n5. **Mountain** - High, cold (eagle, snow leopard, yak)",
               "examples": [
                 {
-                  "title": "Forest Habitat 🌳",
+                  "title": "Forest Habitat \ud83c\udf33",
                   "description": "Wet, shady with lots of trees",
-                  "items": ["Monkeys", "Tigers", "Birds", "Deer"]
+                  "items": [
+                    "Monkeys",
+                    "Tigers",
+                    "Birds",
+                    "Deer"
+                  ]
                 },
                 {
-                  "title": "Desert Habitat 🏜️",
+                  "title": "Desert Habitat \ud83c\udfdc\ufe0f",
                   "description": "Hot, dry with sand",
-                  "items": ["Camel", "Snake", "Scorpion", "Lizard"]
+                  "items": [
+                    "Camel",
+                    "Snake",
+                    "Scorpion",
+                    "Lizard"
+                  ]
                 },
                 {
-                  "title": "Ocean Habitat 🌊",
+                  "title": "Ocean Habitat \ud83c\udf0a",
                   "description": "Deep salt water",
-                  "items": ["Whale", "Shark", "Octopus", "Dolphin"]
+                  "items": [
+                    "Whale",
+                    "Shark",
+                    "Octopus",
+                    "Dolphin"
+                  ]
                 }
               ]
             }
@@ -251,16 +434,16 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which animal is a WILD animal?",
+              "question": "Which is a WILD animal?",
               "options": [
-                "Dog 🐕",
-                "Tiger 🐯",
-                "Cat 🐱",
-                "Cow 🐄"
+                "Dog \ud83d\udc15",
+                "Tiger \ud83d\udc2f",
+                "Cat \ud83d\udc31",
+                "Cow \ud83d\udc04"
               ],
               "correctAnswer": 1,
-              "hint": "Wild animals live in forests, not with people.",
-              "explanation": "Tiger is a wild animal! It lives in forests and jungles. Dog, cat, and cow live with people - they are domestic animals."
+              "hint": "Wild animals live in forests.",
+              "explanation": "Tiger is wild! It lives in jungles."
             },
             {
               "id": "q2",
@@ -268,59 +451,134 @@
               "difficulty": "easy",
               "question": "Where do FISH live?",
               "options": [
-                "In trees 🌳",
-                "In water 💧",
-                "In sand 🏜️",
-                "In air ☁️"
+                "In trees \ud83c\udf33",
+                "In water \ud83d\udca7",
+                "In sand \ud83c\udfdc\ufe0f",
+                "In air \u2601\ufe0f"
               ],
               "correctAnswer": 1,
-              "hint": "Think about where you see fish!",
-              "explanation": "Fish live in water! They need water to breathe and survive."
+              "hint": "Fish need water.",
+              "explanation": "Fish live in water!"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Which animal would you find in a DESERT?",
+              "difficulty": "easy",
+              "question": "Which animal is DOMESTIC?",
               "options": [
-                "Penguin ❄️",
-                "Camel 🐪",
-                "Dolphin 🐬",
-                "Duck 🦆"
+                "Tiger",
+                "Lion",
+                "Dog \ud83d\udc15",
+                "Elephant"
               ],
-              "correctAnswer": 1,
-              "hint": "Deserts are hot and dry. Which animal can live without much water?",
-              "explanation": "Camels live in deserts! They can go without water for a long time and their feet are perfect for walking on sand."
+              "correctAnswer": 2,
+              "hint": "Lives with people.",
+              "explanation": "Dog is domestic! It lives with humans."
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "What do we call the place where an animal lives?",
+              "question": "What do we call where an animal lives?",
               "options": [
-                "Home 🏠",
-                "Habitat 🌍",
-                "Zoo 🦁",
-                "School 🎓"
+                "Home",
+                "Habitat \ud83c\udf0d",
+                "Zoo",
+                "Park"
               ],
               "correctAnswer": 1,
-              "hint": "It's a special word for where wild animals live.",
-              "explanation": "Habitat is the home of a wild animal! It has everything the animal needs like food, water, and shelter."
+              "hint": "Special word for wild animal homes.",
+              "explanation": "Habitat is where wild animals live!"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "challenge",
-              "question": "Which animal can live in BOTH water and on land?",
+              "difficulty": "think",
+              "question": "Which animal lives in DESERT?",
               "options": [
-                "Eagle 🦅",
-                "Snake 🐍",
-                "Frog 🐸",
-                "Elephant 🐘"
+                "Penguin",
+                "Camel \ud83d\udc2a",
+                "Dolphin",
+                "Duck"
+              ],
+              "correctAnswer": 1,
+              "hint": "Can live without much water.",
+              "explanation": "Camels live in deserts!"
+            },
+            {
+              "id": "q6",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which animal can fly?",
+              "options": [
+                "Horse",
+                "Eagle \ud83e\udd85",
+                "Fish",
+                "Turtle"
+              ],
+              "correctAnswer": 1,
+              "hint": "Has wings.",
+              "explanation": "Eagles can fly!"
+            },
+            {
+              "id": "q7",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which is a BIRD?",
+              "options": [
+                "Dog",
+                "Parrot \ud83e\udd9c",
+                "Fish",
+                "Tiger"
+              ],
+              "correctAnswer": 1,
+              "hint": "Has feathers and wings.",
+              "explanation": "Parrot is a bird!"
+            },
+            {
+              "id": "q8",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Which animal lives in WATER?",
+              "options": [
+                "Lion",
+                "Eagle",
+                "Crocodile \ud83d\udc0a",
+                "Rabbit"
               ],
               "correctAnswer": 2,
-              "hint": "It starts as a tadpole in water, then grows legs!",
-              "explanation": "Frogs live in both water and on land! Baby frogs (tadpoles) live in water with a tail. Adult frogs jump on land but need to stay near water."
+              "hint": "Water reptile.",
+              "explanation": "Crocodiles live in water!"
+            },
+            {
+              "id": "q9",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "How many legs do INSECTS have?",
+              "options": [
+                "4",
+                "6 \ud83e\udd97",
+                "8",
+                "10"
+              ],
+              "correctAnswer": 1,
+              "hint": "Small creatures.",
+              "explanation": "Insects have 6 legs!"
+            },
+            {
+              "id": "q10",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Which animal gives us MILK?",
+              "options": [
+                "Chicken",
+                "Cow \ud83d\udc04",
+                "Sheep",
+                "Horse"
+              ],
+              "correctAnswer": 1,
+              "hint": "Farm animal.",
+              "explanation": "Cows give us milk!"
             }
           ]
         },
@@ -328,51 +586,66 @@
           "id": "food",
           "title": "Food & Nutrition",
           "description": "Discover the food we eat and why we need it!",
-          "icon": "🍎",
+          "icon": "\ud83c\udf4e",
           "lessons": [
             {
               "id": "lesson-1-types",
               "title": "Types of Food",
-              "hook": "What's your favorite food? Every food helps your body in a special way! 🍽️",
+              "hook": "What's your favorite food? Every food helps your body in a special way! \ud83c\udf7d\ufe0f",
               "explanation": "We eat different types of food. Each type helps our body in different ways.",
-              "content": "Main food groups:\n\n1. **Fruits & Vegetables** 🥬 - Give us vitamins and energy (apple, carrot, spinach)\n2. **Grains & Cereals** 🌾 - Give us energy (rice, wheat, bread)\n3. **Protein Foods** 🥚 - Help our body grow (egg, milk, beans)\n4. **Healthy Fats** 🥑 - Keep our body warm (nuts, oil)\n5. **Sugars & Sweets** 🍪 - Give quick energy (but eat less of these!)",
+              "content": "Main food groups:\n\n1. **Fruits & Vegetables** \ud83e\udd6c - Give us vitamins and energy (apple, carrot, spinach)\n2. **Grains & Cereals** \ud83c\udf3e - Give us energy (rice, wheat, bread)\n3. **Protein Foods** \ud83e\udd5a - Help our body grow (egg, milk, beans)\n4. **Healthy Fats** \ud83e\udd51 - Keep our body warm (nuts, oil)\n5. **Sugars & Sweets** \ud83c\udf6a - Give quick energy (but eat less of these!)",
               "examples": [
                 {
-                  "title": "Fruits & Vegetables 🥕",
+                  "title": "Fruits & Vegetables \ud83e\udd55",
                   "description": "Colorful and full of vitamins",
-                  "items": ["Apple", "Carrot", "Spinach", "Banana"]
+                  "items": [
+                    "Apple",
+                    "Carrot",
+                    "Spinach",
+                    "Banana"
+                  ]
                 },
                 {
-                  "title": "Grains 🌾",
+                  "title": "Grains \ud83c\udf3e",
                   "description": "Give us energy for running and playing",
-                  "items": ["Rice", "Wheat", "Bread", "Cereal"]
+                  "items": [
+                    "Rice",
+                    "Wheat",
+                    "Bread",
+                    "Cereal"
+                  ]
                 },
                 {
-                  "title": "Proteins 🥚",
+                  "title": "Proteins \ud83e\udd5a",
                   "description": "Help our body grow strong",
-                  "items": ["Eggs", "Milk", "Beans", "Chicken"]
+                  "items": [
+                    "Eggs",
+                    "Milk",
+                    "Beans",
+                    "Chicken"
+                  ]
                 }
               ]
             },
             {
               "id": "lesson-2-nutrition",
               "title": "Why We Need Food",
-              "hook": "Your body is like a machine! Food is the fuel that keeps it running! ⚡",
+              "hook": "Your body is like a machine! Food is the fuel that keeps it running! \u26a1",
               "explanation": "Food gives our body energy and helps it grow, stay healthy, and fight sickness.",
               "content": "Food helps us:\n\n1. **Grow** - Our bones, muscles, and body need food to get bigger\n2. **Get Energy** - We need energy to run, play, study, and think\n3. **Stay Healthy** - Food keeps our skin, teeth, and eyes strong\n4. **Fight Sickness** - Healthy food helps our body fight germs\n5. **Repair** - When we get hurt, food helps our body heal",
               "examples": [
                 {
-                  "title": "For Growing 📏",
+                  "title": "For Growing \ud83d\udccf",
                   "description": "Milk, eggs, beans help us get taller",
                   "visual": "Child growing taller"
                 },
                 {
-                  "title": "For Energy ⚡",
+                  "title": "For Energy \u26a1",
                   "description": "Rice, bread, fruit give us power",
                   "visual": "Child running and playing"
                 },
                 {
-                  "title": "To Stay Healthy 💪",
+                  "title": "To Stay Healthy \ud83d\udcaa",
                   "description": "Vegetables and fruits keep us strong",
                   "visual": "Healthy strong child"
                 }
@@ -384,76 +657,121 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which food is a FRUIT?",
+              "question": "Which is a FRUIT?",
               "options": [
-                "Rice 🍚",
-                "Apple 🍎",
-                "Bread 🍞",
-                "Milk 🥛"
+                "Rice",
+                "Apple \ud83c\udf4e",
+                "Bread",
+                "Milk"
               ],
               "correctAnswer": 1,
-              "hint": "Fruits grow on trees and are usually sweet!",
-              "explanation": "Apple is a fruit! It grows on trees and is full of vitamins. Rice, bread, and milk are other food types."
+              "hint": "Sweet and grows on trees.",
+              "explanation": "Apple is a fruit!"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Why do we need to eat food?",
+              "question": "Why do we eat FOOD?",
               "options": [
-                "To play video games",
-                "To get energy and grow 💪",
-                "To sleep better",
+                "For fun",
+                "To get energy and grow \ud83d\udcaa",
+                "To sleep",
                 "To look pretty"
               ],
               "correctAnswer": 1,
-              "hint": "Food gives our body power!",
-              "explanation": "We eat food to get energy for running, playing, studying, and growing! Food keeps our body healthy and strong."
+              "hint": "Food gives power.",
+              "explanation": "Food gives energy and helps us grow!"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Which food helps your body GROW strong?",
+              "difficulty": "easy",
+              "question": "Which food helps us GROW?",
               "options": [
-                "Candy 🍬",
-                "Soda 🥤",
-                "Milk & Eggs 🥚",
-                "Ice cream 🍦"
+                "Candy",
+                "Soda",
+                "Milk & Eggs \ud83e\udd5a",
+                "Ice cream"
               ],
               "correctAnswer": 2,
-              "hint": "What helps your bones and muscles grow?",
-              "explanation": "Milk and eggs have protein! Protein helps your body grow and become strong. Candy and sweets taste good but don't help you grow."
+              "hint": "Protein helps growth.",
+              "explanation": "Milk and eggs have protein!"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "Which is a HEALTHY lunch?",
+              "question": "Which is a VEGETABLE?",
               "options": [
-                "Only candy",
-                "Only soda",
-                "Rice, vegetables, and egg 🍚",
-                "Only chocolate"
+                "Apple",
+                "Carrot \ud83e\udd55",
+                "Banana",
+                "Mango"
               ],
-              "correctAnswer": 2,
-              "hint": "A healthy meal has different types of food.",
-              "explanation": "Rice, vegetables, and egg make a healthy meal! You get grains, vitamins, and protein all together."
+              "correctAnswer": 1,
+              "hint": "Grows in gardens.",
+              "explanation": "Carrot is a vegetable!"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "challenge",
-              "question": "Your body is like a machine. What is food?",
+              "difficulty": "think",
+              "question": "What is a healthy meal?",
               "options": [
-                "The water",
-                "The fuel ⛽",
-                "The wheels",
-                "The brakes"
+                "Only candy",
+                "Only soda",
+                "Rice, vegetables, egg \ud83c\udf5a",
+                "Only chocolate"
+              ],
+              "correctAnswer": 2,
+              "hint": "Different food types.",
+              "explanation": "Balanced meals have different foods!"
+            },
+            {
+              "id": "q6",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which food is a GRAIN?",
+              "options": [
+                "Apple",
+                "Milk",
+                "Rice \ud83c\udf5a",
+                "Egg"
+              ],
+              "correctAnswer": 2,
+              "hint": "Gives energy.",
+              "explanation": "Rice is a grain!"
+            },
+            {
+              "id": "q7",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Which food group gives us PROTEIN?",
+              "options": [
+                "Fruits",
+                "Vegetables",
+                "Eggs \ud83e\udd5a",
+                "Bread"
+              ],
+              "correctAnswer": 2,
+              "hint": "Helps muscles grow.",
+              "explanation": "Eggs have protein!"
+            },
+            {
+              "id": "q8",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Why is water important?",
+              "options": [
+                "For taste",
+                "To survive \ud83d\udca7",
+                "To sleep",
+                "For decoration"
               ],
               "correctAnswer": 1,
-              "hint": "What makes a machine run? What makes your body run?",
-              "explanation": "Food is the fuel for your body! Just like a car needs fuel to run, your body needs food to have energy and grow."
+              "hint": "Essential for life.",
+              "explanation": "Water is essential for survival!"
             }
           ]
         },
@@ -461,32 +779,32 @@
           "id": "human-body",
           "title": "Human Body",
           "description": "Learn about your amazing body!",
-          "icon": "👤",
+          "icon": "\ud83d\udc64",
           "lessons": [
             {
               "id": "lesson-1-body-parts",
               "title": "Body Parts & Functions",
-              "hook": "Your body has amazing parts that work together! Let's discover them! 🧠",
+              "hook": "Your body has amazing parts that work together! Let's discover them! \ud83e\udde0",
               "explanation": "Our body has many parts. Each part does a special job to keep us alive and healthy.",
-              "content": "Main body parts and what they do:\n\n1. **Head** 🧠 - Contains brain (thinking) and eyes (seeing)\n2. **Heart** ❤️ - Pumps blood around our body\n3. **Lungs** 💨 - Help us breathe air\n4. **Stomach** 🍽️ - Digests (breaks down) food\n5. **Bones** 🦴 - Give our body shape and support\n6. **Muscles** 💪 - Help us move and stay strong",
+              "content": "Main body parts and what they do:\n\n1. **Head** \ud83e\udde0 - Contains brain (thinking) and eyes (seeing)\n2. **Heart** \u2764\ufe0f - Pumps blood around our body\n3. **Lungs** \ud83d\udca8 - Help us breathe air\n4. **Stomach** \ud83c\udf7d\ufe0f - Digests (breaks down) food\n5. **Bones** \ud83e\uddb4 - Give our body shape and support\n6. **Muscles** \ud83d\udcaa - Help us move and stay strong",
               "examples": [
                 {
-                  "title": "Brain 🧠",
+                  "title": "Brain \ud83e\udde0",
                   "description": "Helps us think, remember, and make decisions",
                   "visual": "Smart child thinking"
                 },
                 {
-                  "title": "Heart ❤️",
+                  "title": "Heart \u2764\ufe0f",
                   "description": "Pumps blood to every part of body",
                   "visual": "Heart beating inside chest"
                 },
                 {
-                  "title": "Lungs 💨",
+                  "title": "Lungs \ud83d\udca8",
                   "description": "Help us breathe fresh air",
                   "visual": "Deep breath of fresh air"
                 },
                 {
-                  "title": "Bones 🦴",
+                  "title": "Bones \ud83e\uddb4",
                   "description": "Hold our body up and protect organs",
                   "visual": "Strong skeleton frame"
                 }
@@ -495,24 +813,36 @@
             {
               "id": "lesson-2-senses",
               "title": "Our Five Senses",
-              "hook": "You can see, hear, smell, taste, and touch! These are your superpowers! 👀",
+              "hook": "You can see, hear, smell, taste, and touch! These are your superpowers! \ud83d\udc40",
               "explanation": "We have five senses that help us understand the world around us.",
-              "content": "Our five senses:\n\n1. **Sight** 👀 - Eyes let us see colors and shapes\n2. **Hearing** 👂 - Ears let us hear sounds\n3. **Smell** 👃 - Nose lets us smell things\n4. **Taste** 👅 - Tongue lets us taste sweet, sour, salty, bitter\n5. **Touch** ✋ - Skin lets us feel hot, cold, soft, hard",
+              "content": "Our five senses:\n\n1. **Sight** \ud83d\udc40 - Eyes let us see colors and shapes\n2. **Hearing** \ud83d\udc42 - Ears let us hear sounds\n3. **Smell** \ud83d\udc43 - Nose lets us smell things\n4. **Taste** \ud83d\udc45 - Tongue lets us taste sweet, sour, salty, bitter\n5. **Touch** \u270b - Skin lets us feel hot, cold, soft, hard",
               "examples": [
                 {
-                  "title": "Eyes See 👀",
+                  "title": "Eyes See \ud83d\udc40",
                   "description": "Help us see colors, shapes, and people",
-                  "items": ["Red apple", "Blue sky", "Happy face"]
+                  "items": [
+                    "Red apple",
+                    "Blue sky",
+                    "Happy face"
+                  ]
                 },
                 {
-                  "title": "Ears Hear 👂",
+                  "title": "Ears Hear \ud83d\udc42",
                   "description": "Help us listen to music and voices",
-                  "items": ["Music notes", "Mother's voice", "Birds singing"]
+                  "items": [
+                    "Music notes",
+                    "Mother's voice",
+                    "Birds singing"
+                  ]
                 },
                 {
-                  "title": "Nose Smells 👃",
+                  "title": "Nose Smells \ud83d\udc43",
                   "description": "Help us smell flowers and food",
-                  "items": ["Rose flower", "Cooking food", "Fresh air"]
+                  "items": [
+                    "Rose flower",
+                    "Cooking food",
+                    "Fresh air"
+                  ]
                 }
               ]
             }
@@ -522,76 +852,121 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which body part helps us THINK?",
+              "question": "Which part helps us THINK?",
               "options": [
-                "Heart ❤️",
-                "Brain 🧠",
-                "Stomach 🍽️",
-                "Bones 🦴"
+                "Heart",
+                "Brain \ud83e\udde0",
+                "Stomach",
+                "Bones"
               ],
               "correctAnswer": 1,
-              "hint": "It's inside your head!",
-              "explanation": "Brain helps us think, remember, and make decisions! It's the smartest part of our body."
+              "hint": "Inside head.",
+              "explanation": "Brain helps us think!"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which sense helps you SEE?",
+              "question": "Which sense helps us SEE?",
               "options": [
-                "Ears 👂",
-                "Nose 👃",
-                "Eyes 👀",
-                "Tongue 👅"
+                "Ears",
+                "Nose",
+                "Eyes \ud83d\udc40",
+                "Tongue"
               ],
               "correctAnswer": 2,
-              "hint": "You use this to watch TV and read books!",
-              "explanation": "Eyes help us see! They let us see colors, people, and everything around us."
+              "hint": "Watch TV with these.",
+              "explanation": "Eyes help us see!"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "What does your HEART do?",
+              "difficulty": "easy",
+              "question": "What does HEART do?",
               "options": [
-                "Digests food 🍽️",
-                "Pumps blood around body ❤️",
-                "Helps you think 🧠",
-                "Helps you smell 👃"
+                "Digests food",
+                "Pumps blood \u2764\ufe0f",
+                "Thinks",
+                "Hears"
               ],
               "correctAnswer": 1,
-              "hint": "It beats 'boom boom' inside your chest!",
-              "explanation": "Heart pumps blood to every part of your body! Blood carries oxygen and nutrients."
+              "hint": "Goes boom boom.",
+              "explanation": "Heart pumps blood!"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "Which sense helps you TASTE food?",
+              "question": "Which sense helps us TASTE?",
               "options": [
-                "Eyes 👀",
-                "Ears 👂",
-                "Tongue 👅",
-                "Bones 🦴"
+                "Eyes",
+                "Ears",
+                "Tongue \ud83d\udc45",
+                "Bones"
               ],
               "correctAnswer": 2,
-              "hint": "It's the part of your mouth that helps you taste!",
-              "explanation": "Tongue helps us taste! It can taste sweet, sour, salty, and bitter flavors."
+              "hint": "In your mouth.",
+              "explanation": "Tongue helps taste!"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "challenge",
+              "difficulty": "think",
               "question": "Why do we need BONES?",
               "options": [
-                "To taste food",
-                "To hold up body and protect organs 🦴",
+                "To taste",
+                "To hold body up \ud83e\uddb4",
                 "To pump blood",
-                "To breathe air"
+                "To breathe"
               ],
               "correctAnswer": 1,
-              "hint": "They give your body shape and structure!",
-              "explanation": "Bones hold up our body and give it shape! They also protect important organs like the heart and brain."
+              "hint": "Give body shape.",
+              "explanation": "Bones hold us up!"
+            },
+            {
+              "id": "q6",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which helps us BREATHE?",
+              "options": [
+                "Heart",
+                "Lungs \ud83d\udca8",
+                "Brain",
+                "Stomach"
+              ],
+              "correctAnswer": 1,
+              "hint": "In your chest.",
+              "explanation": "Lungs help us breathe!"
+            },
+            {
+              "id": "q7",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "What do MUSCLES do?",
+              "options": [
+                "Think",
+                "Pump blood",
+                "Help us move \ud83d\udcaa",
+                "Store food"
+              ],
+              "correctAnswer": 2,
+              "hint": "Help movement.",
+              "explanation": "Muscles help us move!"
+            },
+            {
+              "id": "q8",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "How many senses do we have?",
+              "options": [
+                "3",
+                "4",
+                "5 \ud83d\udc40",
+                "6"
+              ],
+              "correctAnswer": 2,
+              "hint": "See, hear, smell, taste, touch.",
+              "explanation": "We have 5 senses!"
             }
           ]
         },
@@ -599,27 +974,27 @@
           "id": "safety",
           "title": "Good Habits & Safety",
           "description": "Learn healthy and safe habits!",
-          "icon": "🛡️",
+          "icon": "\ud83d\udee1\ufe0f",
           "lessons": [
             {
               "id": "lesson-1-hygiene",
               "title": "Personal Hygiene",
-              "hook": "Keeping clean helps you stay healthy and strong! Let's learn good habits! 🧼",
+              "hook": "Keeping clean helps you stay healthy and strong! Let's learn good habits! \ud83e\uddfc",
               "explanation": "Good hygiene means keeping your body clean and healthy. This stops germs from making us sick.",
-              "content": "Important hygiene habits:\n\n1. **Wash Hands** 🚰 - Before eating and after bathroom (kills germs)\n2. **Brush Teeth** 🪥 - Twice a day to keep them strong\n3. **Take Bath** 🚿 - Wash your whole body with soap\n4. **Trim Nails** 💅 - Keep them short and clean\n5. **Wash Hair** 💇 - Keep scalp clean and healthy",
+              "content": "Important hygiene habits:\n\n1. **Wash Hands** \ud83d\udeb0 - Before eating and after bathroom (kills germs)\n2. **Brush Teeth** \ud83e\udea5 - Twice a day to keep them strong\n3. **Take Bath** \ud83d\udebf - Wash your whole body with soap\n4. **Trim Nails** \ud83d\udc85 - Keep them short and clean\n5. **Wash Hair** \ud83d\udc87 - Keep scalp clean and healthy",
               "examples": [
                 {
-                  "title": "Wash Hands 🚰",
+                  "title": "Wash Hands \ud83d\udeb0",
                   "description": "Before eating and after toilet",
                   "visual": "Clean hands with soap and water"
                 },
                 {
-                  "title": "Brush Teeth 🪥",
+                  "title": "Brush Teeth \ud83e\udea5",
                   "description": "Morning and before bed",
                   "visual": "Shiny white healthy teeth"
                 },
                 {
-                  "title": "Take Bath 🚿",
+                  "title": "Take Bath \ud83d\udebf",
                   "description": "Use soap to clean whole body",
                   "visual": "Clean fresh body"
                 }
@@ -628,22 +1003,22 @@
             {
               "id": "lesson-2-safety",
               "title": "Safety Rules",
-              "hook": "Playing safe keeps you from getting hurt! Learn these important rules! ⚠️",
+              "hook": "Playing safe keeps you from getting hurt! Learn these important rules! \u26a0\ufe0f",
               "explanation": "Safety rules help protect us from accidents and injuries.",
-              "content": "Important safety rules:\n\n1. **Cross Roads Safely** 🚦 - Look both ways, hold adult's hand\n2. **Don't Talk to Strangers** 🚫 - Stay close to trusted adults\n3. **Wear Helmet** 🪖 - When riding bike or scooter\n4. **Don't Play With Fire** 🔥 - Fire is dangerous!\n5. **Wear Seat Belt** 🚗 - When in a car",
+              "content": "Important safety rules:\n\n1. **Cross Roads Safely** \ud83d\udea6 - Look both ways, hold adult's hand\n2. **Don't Talk to Strangers** \ud83d\udeab - Stay close to trusted adults\n3. **Wear Helmet** \ud83e\ude96 - When riding bike or scooter\n4. **Don't Play With Fire** \ud83d\udd25 - Fire is dangerous!\n5. **Wear Seat Belt** \ud83d\ude97 - When in a car",
               "examples": [
                 {
-                  "title": "Road Safety 🚦",
+                  "title": "Road Safety \ud83d\udea6",
                   "description": "Look left, right, left before crossing",
                   "visual": "Safe crossing at zebra crossing"
                 },
                 {
-                  "title": "Wear Helmet 🪖",
+                  "title": "Wear Helmet \ud83e\ude96",
                   "description": "Protects your head when cycling",
                   "visual": "Helmet on head"
                 },
                 {
-                  "title": "Fire Safety 🔥",
+                  "title": "Fire Safety \ud83d\udd25",
                   "description": "Never play with fire or matches",
                   "visual": "Fire is dangerous"
                 }
@@ -655,76 +1030,121 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "When should you WASH your hands?",
+              "question": "When wash HANDS?",
               "options": [
                 "Before bed",
-                "Before eating 🚰",
+                "Before eating \ud83d\udeb0",
                 "After playing",
                 "Never"
               ],
               "correctAnswer": 1,
-              "hint": "Think about germs on food!",
-              "explanation": "Wash hands before eating! This removes germs and keeps you healthy. Also wash after toilet and playing."
+              "hint": "Before food!",
+              "explanation": "Wash hands before eating!"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "How many times should you BRUSH teeth?",
+              "question": "Brush teeth how many times?",
               "options": [
                 "Once a week",
-                "Once a day",
-                "Twice a day 🪥",
+                "Once daily",
+                "Twice daily \ud83e\udea5",
                 "Never"
               ],
               "correctAnswer": 2,
-              "hint": "Morning and before sleep!",
-              "explanation": "Brush teeth twice a day - morning and before bed! This keeps your teeth strong and healthy."
+              "hint": "Morning and night.",
+              "explanation": "Brush teeth twice daily!"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "What should you do before CROSSING the road?",
+              "difficulty": "easy",
+              "question": "What before crossing road?",
               "options": [
                 "Run fast",
-                "Look both ways 🚦",
+                "Look both ways \ud83d\udea6",
                 "Play in road",
                 "Don't cross"
               ],
               "correctAnswer": 1,
-              "hint": "Check for cars coming!",
-              "explanation": "Look left, right, then left again before crossing! Hold an adult's hand and cross at zebra crossing."
+              "hint": "Check for cars.",
+              "explanation": "Look both ways!"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "What should you wear when riding a bike?",
+              "question": "Wear what when biking?",
               "options": [
                 "Nothing",
-                "Helmet 🪖",
+                "Helmet \ud83e\ude96",
                 "Sunglasses",
                 "Shoes only"
               ],
               "correctAnswer": 1,
-              "hint": "It protects your head!",
-              "explanation": "Wear a helmet when riding bike or scooter! It protects your head if you fall."
+              "hint": "Protects head.",
+              "explanation": "Wear helmet!"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "challenge",
-              "question": "Why is hygiene important?",
+              "difficulty": "think",
+              "question": "Why hygiene important?",
               "options": [
-                "To look pretty",
-                "To kill germs and stay healthy 🧼",
-                "To waste time",
-                "For no reason"
+                "Look pretty",
+                "Kill germs \ud83e\uddfc",
+                "Waste time",
+                "No reason"
               ],
               "correctAnswer": 1,
-              "hint": "Think about what happens when you don't wash!",
-              "explanation": "Good hygiene kills germs and prevents sickness! It keeps your body clean and healthy."
+              "hint": "Prevents sickness.",
+              "explanation": "Kills germs!"
+            },
+            {
+              "id": "q6",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Take bath how often?",
+              "options": [
+                "Once a week",
+                "Once daily \ud83d\udebf",
+                "Never",
+                "Twice a week"
+              ],
+              "correctAnswer": 1,
+              "hint": "Keep clean.",
+              "explanation": "Bathe daily!"
+            },
+            {
+              "id": "q7",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Don't play with?",
+              "options": [
+                "Ball",
+                "Fire \ud83d\udd25",
+                "Toys",
+                "Water"
+              ],
+              "correctAnswer": 1,
+              "hint": "Very dangerous.",
+              "explanation": "Never play with fire!"
+            },
+            {
+              "id": "q8",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Wear seatbelt where?",
+              "options": [
+                "Bus",
+                "Car \ud83d\ude97",
+                "Bike",
+                "Train"
+              ],
+              "correctAnswer": 1,
+              "hint": "For safety.",
+              "explanation": "Wear seatbelt in car!"
             }
           ]
         },
@@ -732,27 +1152,27 @@
           "id": "environment",
           "title": "Air, Water & Rocks",
           "description": "Discover our natural world!",
-          "icon": "🌍",
+          "icon": "\ud83c\udf0d",
           "lessons": [
             {
               "id": "lesson-1-air",
               "title": "Air We Breathe",
-              "hook": "You breathe air every second, but can you see it? No! But it's everywhere! 💨",
+              "hook": "You breathe air every second, but can you see it? No! But it's everywhere! \ud83d\udca8",
               "explanation": "Air is all around us. We can't see it, but we need it to live.",
-              "content": "Facts about air:\n\n1. **Invisible** - We can't see air, but it's everywhere\n2. **We Breathe It** 💨 - Our lungs need oxygen from air\n3. **Wind** 🌪️ - Moving air is called wind\n4. **Has Weight** ⚖️ - Air has weight and pushes on us\n5. **Plants Need It** 🌿 - Plants use air to make food",
+              "content": "Facts about air:\n\n1. **Invisible** - We can't see air, but it's everywhere\n2. **We Breathe It** \ud83d\udca8 - Our lungs need oxygen from air\n3. **Wind** \ud83c\udf2a\ufe0f - Moving air is called wind\n4. **Has Weight** \u2696\ufe0f - Air has weight and pushes on us\n5. **Plants Need It** \ud83c\udf3f - Plants use air to make food",
               "examples": [
                 {
-                  "title": "We Breathe Air 💨",
+                  "title": "We Breathe Air \ud83d\udca8",
                   "description": "In and out, all day and night",
                   "visual": "Deep breath of fresh air"
                 },
                 {
-                  "title": "Wind Moves Air 🌪️",
+                  "title": "Wind Moves Air \ud83c\udf2a\ufe0f",
                   "description": "Moving air pushes things",
                   "visual": "Leaves blowing in wind"
                 },
                 {
-                  "title": "Air is Invisible 👻",
+                  "title": "Air is Invisible \ud83d\udc7b",
                   "description": "We can't see it but it's there",
                   "visual": "Clear but present"
                 }
@@ -761,22 +1181,30 @@
             {
               "id": "lesson-2-water",
               "title": "Water We Need",
-              "hook": "Water is everywhere! In rain, rivers, ocean - and inside you! 💧",
+              "hook": "Water is everywhere! In rain, rivers, ocean - and inside you! \ud83d\udca7",
               "explanation": "Water is essential for all life. We can see it and it has many forms.",
-              "content": "Facts about water:\n\n1. **Essential** 💧 - We need water to survive\n2. **States** 🌡️ - Ice (solid), Water (liquid), Steam (gas)\n3. **Covers Earth** 🌊 - Most of Earth is water (oceans, rivers)\n4. **In Our Body** 👤 - We are mostly water\n5. **Rain** 🌧️ - Water falls from clouds as rain",
+              "content": "Facts about water:\n\n1. **Essential** \ud83d\udca7 - We need water to survive\n2. **States** \ud83c\udf21\ufe0f - Ice (solid), Water (liquid), Steam (gas)\n3. **Covers Earth** \ud83c\udf0a - Most of Earth is water (oceans, rivers)\n4. **In Our Body** \ud83d\udc64 - We are mostly water\n5. **Rain** \ud83c\udf27\ufe0f - Water falls from clouds as rain",
               "examples": [
                 {
-                  "title": "Water States 🌡️",
+                  "title": "Water States \ud83c\udf21\ufe0f",
                   "description": "Ice cold, water liquid, steam hot",
-                  "items": ["Ice cube", "Drinking water", "Hot steam"]
+                  "items": [
+                    "Ice cube",
+                    "Drinking water",
+                    "Hot steam"
+                  ]
                 },
                 {
-                  "title": "Water Bodies 🌊",
+                  "title": "Water Bodies \ud83c\udf0a",
                   "description": "Ocean, river, lake, pond",
-                  "items": ["Big ocean", "Flowing river", "Calm lake"]
+                  "items": [
+                    "Big ocean",
+                    "Flowing river",
+                    "Calm lake"
+                  ]
                 },
                 {
-                  "title": "Rain 🌧️",
+                  "title": "Rain \ud83c\udf27\ufe0f",
                   "description": "Water falls from clouds",
                   "visual": "Raindrops falling"
                 }
@@ -790,74 +1218,119 @@
               "difficulty": "easy",
               "question": "Can you SEE air?",
               "options": [
-                "Yes, it's blue",
-                "Yes, it's white",
-                "No, it's invisible 💨",
+                "Yes blue",
+                "Yes white",
+                "No invisible \ud83d\udca8",
                 "Sometimes"
               ],
               "correctAnswer": 2,
-              "hint": "Think about looking at the sky!",
-              "explanation": "Air is invisible! We can't see it, but it's everywhere around us. We can only see what air moves (like leaves blowing)."
+              "hint": "Look at sky.",
+              "explanation": "Air is invisible!"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Why do we NEED water?",
+              "question": "Why need WATER?",
               "options": [
-                "To play",
-                "To survive 💧",
-                "To swim",
-                "For fun"
+                "Play",
+                "Survive \ud83d\udca7",
+                "Swim",
+                "Fun"
               ],
               "correctAnswer": 1,
-              "hint": "What happens if you don't drink water?",
-              "explanation": "We need water to survive! Water is in our body and keeps us healthy."
+              "hint": "Essential.",
+              "explanation": "Water is essential!"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "What is moving AIR called?",
+              "difficulty": "easy",
+              "question": "What is moving AIR?",
               "options": [
                 "Breeze",
-                "Wind 🌪️",
+                "Wind \ud83c\udf2a\ufe0f",
                 "Air flow",
-                "All of above"
+                "All"
               ],
               "correctAnswer": 1,
-              "hint": "When air moves, trees sway!",
-              "explanation": "Wind is moving air! When air moves fast, we call it wind. Wind can blow leaves and move things."
+              "hint": "Trees sway.",
+              "explanation": "Wind is moving air!"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "Which is a STATE of water?",
+              "question": "STATE of water?",
               "options": [
                 "India",
-                "Ice, water, steam 🌡️",
+                "Ice, water, steam \ud83c\udf21\ufe0f",
                 "Ocean",
                 "Rain"
               ],
               "correctAnswer": 1,
-              "hint": "Water can be solid, liquid, or gas!",
-              "explanation": "Water has three states: Ice (solid, cold), Water (liquid, normal), Steam (gas, hot). Water changes between these states."
+              "hint": "Solid, liquid, gas.",
+              "explanation": "Water has 3 states!"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "challenge",
-              "question": "Where does RAIN come from?",
+              "difficulty": "think",
+              "question": "Where RAIN from?",
               "options": [
-                "From rivers",
-                "From clouds 🌧️",
-                "From ocean only",
-                "From mountains"
+                "Rivers",
+                "Clouds \ud83c\udf27\ufe0f",
+                "Ocean only",
+                "Mountains"
               ],
               "correctAnswer": 1,
-              "hint": "Look up when it rains!",
-              "explanation": "Rain comes from clouds! Water evaporates from oceans and rivers, forms clouds, and falls as rain."
+              "hint": "From sky.",
+              "explanation": "Rain from clouds!"
+            },
+            {
+              "id": "q6",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Why air important?",
+              "options": [
+                "Look pretty",
+                "Breathe \ud83d\udca8",
+                "Play",
+                "Sleep"
+              ],
+              "correctAnswer": 1,
+              "hint": "Survival.",
+              "explanation": "Air is for breathing!"
+            },
+            {
+              "id": "q7",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Water covers Earth?",
+              "options": [
+                "Half",
+                "Little",
+                "Most \ud83c\udf0a",
+                "None"
+              ],
+              "correctAnswer": 2,
+              "hint": "Oceans big.",
+              "explanation": "Water covers most of Earth!"
+            },
+            {
+              "id": "q8",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "What is weather?",
+              "options": [
+                "Clouds",
+                "Rain",
+                "Wind and temperature \ud83c\udf24\ufe0f",
+                "All"
+              ],
+              "correctAnswer": 3,
+              "hint": "Hot, cold, wet, dry.",
+              "explanation": "Weather is air conditions!"
             }
           ]
         },
@@ -865,51 +1338,65 @@
           "id": "transport",
           "title": "Transport & Communication",
           "description": "Travel and connect with others!",
-          "icon": "🚗",
+          "icon": "\ud83d\ude97",
           "lessons": [
             {
               "id": "lesson-1-transport",
               "title": "Types of Transport",
-              "hook": "We use different vehicles to travel from place to place! 🚗",
+              "hook": "We use different vehicles to travel from place to place! \ud83d\ude97",
               "explanation": "Transport is how we move from one place to another. There are many types.",
-              "content": "Types of transport:\n\n1. **Land Transport** 🚗 - Car, bus, train, bicycle\n2. **Water Transport** 🚢 - Boat, ship, ferry\n3. **Air Transport** ✈️ - Airplane, helicopter\n4. **Public Transport** 🚌 - Buses, trains, metro for many people\n5. **Personal Transport** 🚲 - Bicycle, scooter, personal car",
+              "content": "Types of transport:\n\n1. **Land Transport** \ud83d\ude97 - Car, bus, train, bicycle\n2. **Water Transport** \ud83d\udea2 - Boat, ship, ferry\n3. **Air Transport** \u2708\ufe0f - Airplane, helicopter\n4. **Public Transport** \ud83d\ude8c - Buses, trains, metro for many people\n5. **Personal Transport** \ud83d\udeb2 - Bicycle, scooter, personal car",
               "examples": [
                 {
-                  "title": "Land Transport 🚗",
+                  "title": "Land Transport \ud83d\ude97",
                   "description": "Travel on roads and rails",
-                  "items": ["Car", "Bus", "Train", "Bicycle"]
+                  "items": [
+                    "Car",
+                    "Bus",
+                    "Train",
+                    "Bicycle"
+                  ]
                 },
                 {
-                  "title": "Water Transport 🚢",
+                  "title": "Water Transport \ud83d\udea2",
                   "description": "Travel on water",
-                  "items": ["Boat", "Ship", "Ferry", "Yacht"]
+                  "items": [
+                    "Boat",
+                    "Ship",
+                    "Ferry",
+                    "Yacht"
+                  ]
                 },
                 {
-                  "title": "Air Transport ✈️",
+                  "title": "Air Transport \u2708\ufe0f",
                   "description": "Travel in the sky",
-                  "items": ["Airplane", "Helicopter", "Hot air balloon"]
+                  "items": [
+                    "Airplane",
+                    "Helicopter",
+                    "Hot air balloon"
+                  ]
                 }
               ]
             },
             {
               "id": "lesson-2-communication",
               "title": "Ways to Communicate",
-              "hook": "How do you talk to your friends and family? There are so many ways! 📱",
+              "hook": "How do you talk to your friends and family? There are so many ways! \ud83d\udcf1",
               "explanation": "Communication is how we share information and talk to each other.",
-              "content": "Ways to communicate:\n\n1. **Face to Face** 👥 - Talk directly with people\n2. **Phone** ☎️ - Call or text messages\n3. **Letter** ✉️ - Written message sent by mail\n4. **Internet** 💻 - Email, video call, chat\n5. **Sign Language** 🙋 - Using hands to communicate",
+              "content": "Ways to communicate:\n\n1. **Face to Face** \ud83d\udc65 - Talk directly with people\n2. **Phone** \u260e\ufe0f - Call or text messages\n3. **Letter** \u2709\ufe0f - Written message sent by mail\n4. **Internet** \ud83d\udcbb - Email, video call, chat\n5. **Sign Language** \ud83d\ude4b - Using hands to communicate",
               "examples": [
                 {
-                  "title": "Face to Face 👥",
+                  "title": "Face to Face \ud83d\udc65",
                   "description": "Talk to people directly",
                   "visual": "Friends talking together"
                 },
                 {
-                  "title": "Phone & Text ☎️",
+                  "title": "Phone & Text \u260e\ufe0f",
                   "description": "Call or message someone",
                   "visual": "Talking on phone"
                 },
                 {
-                  "title": "Letter ✉️",
+                  "title": "Letter \u2709\ufe0f",
                   "description": "Written message by mail",
                   "visual": "Envelope with letter"
                 }
@@ -921,76 +1408,121 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which is LAND transport?",
+              "question": "Which LAND transport?",
               "options": [
-                "Boat 🚢",
-                "Airplane ✈️",
-                "Bus 🚌",
+                "Boat \ud83d\udea2",
+                "Airplane \u2708\ufe0f",
+                "Bus \ud83d\ude8c",
                 "Ship"
               ],
               "correctAnswer": 2,
-              "hint": "It travels on roads!",
-              "explanation": "Bus is land transport! It travels on roads. Boat, ship are water transport. Airplane is air transport."
+              "hint": "On roads.",
+              "explanation": "Bus is land transport!"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which is WATER transport?",
+              "question": "Which WATER transport?",
               "options": [
-                "Car 🚗",
-                "Train 🚂",
-                "Boat 🚢",
+                "Car",
+                "Train",
+                "Boat \ud83d\udea2",
                 "Bicycle"
               ],
               "correctAnswer": 2,
-              "hint": "It travels on water!",
-              "explanation": "Boat is water transport! It travels on water, rivers, and oceans."
+              "hint": "On water.",
+              "explanation": "Boat is water transport!"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "How do we COMMUNICATE over distance?",
+              "difficulty": "easy",
+              "question": "Which AIR transport?",
               "options": [
-                "Face to face only",
-                "Phone or internet 📱",
-                "Letter only",
-                "Sign language"
+                "Bus",
+                "Train",
+                "Airplane \u2708\ufe0f",
+                "Car"
               ],
-              "correctAnswer": 1,
-              "hint": "When someone is far away!",
-              "explanation": "Phone and internet help us communicate when we're far apart! We can call, text, or video chat."
+              "correctAnswer": 2,
+              "hint": "In sky.",
+              "explanation": "Airplane is air transport!"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "What is a PUBLIC transport?",
+              "question": "How COMMUNICATE far?",
               "options": [
-                "Your car only",
-                "Bus for many people 🚌",
-                "Bicycle",
-                "Motorcycle"
+                "Face only",
+                "Phone \ud83d\udcf1",
+                "Letter only",
+                "Signs"
               ],
               "correctAnswer": 1,
-              "hint": "Many people use it together!",
-              "explanation": "Public transport like bus and train carries many people! It's cheaper than using your own car."
+              "hint": "Over distance.",
+              "explanation": "Phone communicates far!"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "challenge",
-              "question": "Which transport is fastest for long distance?",
+              "difficulty": "think",
+              "question": "What PUBLIC transport?",
               "options": [
-                "Bicycle 🚲",
-                "Car 🚗",
-                "Airplane ✈️",
-                "Bus 🚌"
+                "Your car",
+                "Bus many \ud83d\ude8c",
+                "Bicycle",
+                "Motorcycle"
+              ],
+              "correctAnswer": 1,
+              "hint": "Many people.",
+              "explanation": "Bus carries many people!"
+            },
+            {
+              "id": "q6",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Fastest transport long?",
+              "options": [
+                "Bicycle",
+                "Car",
+                "Airplane \u2708\ufe0f",
+                "Bus"
               ],
               "correctAnswer": 2,
-              "hint": "It travels through the sky!",
-              "explanation": "Airplane is fastest for long distances! It can travel across countries in a few hours."
+              "hint": "Through sky.",
+              "explanation": "Airplane is fastest!"
+            },
+            {
+              "id": "q7",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "How write letter?",
+              "options": [
+                "Phone call",
+                "Paper \u2709\ufe0f",
+                "Video",
+                "Text"
+              ],
+              "correctAnswer": 1,
+              "hint": "Mail.",
+              "explanation": "Letter on paper!"
+            },
+            {
+              "id": "q8",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "What is train?",
+              "options": [
+                "Car",
+                "Land transport \ud83d\ude82",
+                "Air",
+                "Water"
+              ],
+              "correctAnswer": 1,
+              "hint": "Rails.",
+              "explanation": "Train is land transport on rails!"
             }
           ]
         },
@@ -998,27 +1530,32 @@
           "id": "earth",
           "title": "Earth & Universe",
           "description": "Explore our planet and space!",
-          "icon": "🌎",
+          "icon": "\ud83c\udf0e",
           "lessons": [
             {
               "id": "lesson-1-earth",
               "title": "Our Planet Earth",
-              "hook": "We live on a planet called Earth! It's round and very special! 🌍",
+              "hook": "We live on a planet called Earth! It's round and very special! \ud83c\udf0d",
               "explanation": "Earth is our home planet. It has everything we need to survive.",
-              "content": "Facts about Earth:\n\n1. **Round Planet** 🌍 - Earth is a sphere\n2. **Has Land & Water** 🏞️ - Continents, islands, and oceans\n3. **Rotates** 🌪️ - Turns to create day and night\n4. **Has Atmosphere** 💨 - Air around Earth protects us\n5. **Has Life** 🌿 - Plants, animals, and people live here",
+              "content": "Facts about Earth:\n\n1. **Round Planet** \ud83c\udf0d - Earth is a sphere\n2. **Has Land & Water** \ud83c\udfde\ufe0f - Continents, islands, and oceans\n3. **Rotates** \ud83c\udf2a\ufe0f - Turns to create day and night\n4. **Has Atmosphere** \ud83d\udca8 - Air around Earth protects us\n5. **Has Life** \ud83c\udf3f - Plants, animals, and people live here",
               "examples": [
                 {
-                  "title": "Earth is Round 🌍",
+                  "title": "Earth is Round \ud83c\udf0d",
                   "description": "Like a big ball in space",
                   "visual": "Blue and green planet"
                 },
                 {
-                  "title": "Land & Ocean 🌊",
+                  "title": "Land & Ocean \ud83c\udf0a",
                   "description": "Continents, mountains, and water",
-                  "items": ["Continents", "Mountains", "Oceans", "Rivers"]
+                  "items": [
+                    "Continents",
+                    "Mountains",
+                    "Oceans",
+                    "Rivers"
+                  ]
                 },
                 {
-                  "title": "Day & Night 🌙",
+                  "title": "Day & Night \ud83c\udf19",
                   "description": "Earth rotates to create day and night",
                   "visual": "Sun and moon"
                 }
@@ -1027,22 +1564,22 @@
             {
               "id": "lesson-2-space",
               "title": "Space & Stars",
-              "hook": "Beyond Earth is a huge space with stars, moon, and planets! 🌟",
+              "hook": "Beyond Earth is a huge space with stars, moon, and planets! \ud83c\udf1f",
               "explanation": "Space is everything beyond Earth. It's full of amazing things.",
-              "content": "Space includes:\n\n1. **Sun** ☀️ - Star that gives us light and heat\n2. **Moon** 🌙 - Orbits Earth, creates tides\n3. **Stars** ⭐ - Distant suns very far away\n4. **Planets** 🪐 - Orbit the sun (Mercury, Venus, Mars)\n5. **Galaxy** 🌌 - Millions of stars together",
+              "content": "Space includes:\n\n1. **Sun** \u2600\ufe0f - Star that gives us light and heat\n2. **Moon** \ud83c\udf19 - Orbits Earth, creates tides\n3. **Stars** \u2b50 - Distant suns very far away\n4. **Planets** \ud83e\ude90 - Orbit the sun (Mercury, Venus, Mars)\n5. **Galaxy** \ud83c\udf0c - Millions of stars together",
               "examples": [
                 {
-                  "title": "The Sun ☀️",
+                  "title": "The Sun \u2600\ufe0f",
                   "description": "Gives us light and warmth",
                   "visual": "Bright yellow star"
                 },
                 {
-                  "title": "The Moon 🌙",
+                  "title": "The Moon \ud83c\udf19",
                   "description": "Orbits Earth, lights night sky",
                   "visual": "Silver moon in night"
                 },
                 {
-                  "title": "Stars ⭐",
+                  "title": "Stars \u2b50",
                   "description": "Sparkle in night sky",
                   "visual": "Twinkling stars"
                 }
@@ -1054,76 +1591,121 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "What is the shape of Earth?",
+              "question": "Shape EARTH?",
               "options": [
-                "Flat 📄",
-                "Square 📦",
-                "Round sphere 🌍",
-                "Triangle △"
+                "Flat",
+                "Square",
+                "Round \ud83c\udf0d",
+                "Triangle"
               ],
               "correctAnswer": 2,
-              "hint": "Like a ball!",
-              "explanation": "Earth is round like a sphere! It's not flat. Astronauts can see it's round from space."
+              "hint": "Like ball.",
+              "explanation": "Earth is round!"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "What gives us LIGHT and HEAT?",
+              "question": "What LIGHT HEAT?",
               "options": [
-                "Moon 🌙",
-                "Stars ⭐",
-                "Sun ☀️",
-                "Fire 🔥"
+                "Moon",
+                "Stars",
+                "Sun \u2600\ufe0f",
+                "Fire"
               ],
               "correctAnswer": 2,
-              "hint": "It's bright during the day!",
-              "explanation": "Sun gives us light and heat! It's a star very close to Earth. Without sun, we couldn't survive."
+              "hint": "Day time.",
+              "explanation": "Sun gives light and heat!"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Why do we have DAY and NIGHT?",
+              "difficulty": "easy",
+              "question": "Why DAY NIGHT?",
               "options": [
                 "Sun disappears",
-                "Earth rotates 🌪️",
-                "Moon covers earth",
-                "Clouds come"
+                "Earth rotates \ud83c\udf2a\ufe0f",
+                "Moon covers",
+                "Clouds"
               ],
               "correctAnswer": 1,
-              "hint": "Earth is always spinning!",
-              "explanation": "Day and night happen because Earth rotates (spins)! When your place faces the sun = day. When it faces away = night."
+              "hint": "Earth spinning.",
+              "explanation": "Earth rotates!"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "What is the MOON?",
+              "question": "What MOON?",
               "options": [
-                "A planet",
-                "A star ⭐",
-                "Orbits Earth 🌙",
-                "Hot like sun"
+                "Planet",
+                "Star",
+                "Orbits Earth \ud83c\udf19",
+                "Hot"
               ],
               "correctAnswer": 2,
-              "hint": "You see it at night!",
-              "explanation": "Moon orbits Earth! It's smaller than Earth and doesn't make its own light. It reflects light from the sun."
+              "hint": "Night sky.",
+              "explanation": "Moon orbits Earth!"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "challenge",
-              "question": "What is a GALAXY?",
+              "difficulty": "think",
+              "question": "What GALAXY?",
               "options": [
-                "A planet",
+                "Planet",
                 "One star",
-                "Millions of stars together 🌌",
-                "The sun"
+                "Millions stars \ud83c\udf0c",
+                "Sun"
               ],
               "correctAnswer": 2,
-              "hint": "Look at night sky with stars!",
-              "explanation": "Galaxy is millions or billions of stars together! Our sun is one star in the Milky Way galaxy."
+              "hint": "Many stars.",
+              "explanation": "Galaxy has millions of stars!"
+            },
+            {
+              "id": "q6",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "What SPACE?",
+              "options": [
+                "Earth only",
+                "Nothing",
+                "Beyond Earth \ud83c\udf0c",
+                "Air"
+              ],
+              "correctAnswer": 2,
+              "hint": "Beyond planet.",
+              "explanation": "Space is beyond Earth!"
+            },
+            {
+              "id": "q7",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "How many PLANETS?",
+              "options": [
+                "3",
+                "5",
+                "8 \ud83e\ude90",
+                "10"
+              ],
+              "correctAnswer": 2,
+              "hint": "Include Mars.",
+              "explanation": "8 planets in solar system!"
+            },
+            {
+              "id": "q8",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "What STAR?",
+              "options": [
+                "Planet",
+                "Moon",
+                "Sun \ud83c\udf1f",
+                "Meteor"
+              ],
+              "correctAnswer": 2,
+              "hint": "Gives light.",
+              "explanation": "Sun is a star!"
             }
           ]
         }
