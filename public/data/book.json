@@ -1,0 +1,192 @@
+{
+  "bookTitle": "Olympiad Prep-Guide: Science Grade 2",
+  "grade": 2,
+  "subjects": [
+    {
+      "id": "science",
+      "title": "Science",
+      "description": "Learn amazing science concepts!",
+      "icon": "🔬",
+      "topics": [
+        {
+          "id": "plants",
+          "title": "Plants",
+          "description": "Discover the world of plants around us!",
+          "icon": "🌿",
+          "lessons": [
+            {
+              "id": "lesson-1-types",
+              "title": "Types of Plants",
+              "hook": "Did you know plants come in many different sizes? Some are tiny, some are HUGE! 🌳",
+              "explanation": "Plants can be very big or very small. We divide them into different groups based on their size and the type of stem they have. Let's explore!",
+              "content": "There are 5 main types of plants:\n\n1. **Trees** - Very big and tall with hard, brown stems called trunks. They live for many years!\n2. **Shrubs** - Medium-sized plants with strong woody stems\n3. **Herbs** - Small plants with soft green stems\n4. **Climbers** - Weak plants that need support to grow up\n5. **Creepers** - Weak plants that grow along the ground",
+              "examples": [
+                {
+                  "title": "Trees 🌳",
+                  "description": "Big, tall plants like neem, banyan, mango, and coconut trees",
+                  "visual": "Tree with brown trunk and green leaves"
+                },
+                {
+                  "title": "Shrubs 🌸",
+                  "description": "Medium-sized like rose, sunflower, cotton, and hibiscus",
+                  "visual": "Medium-sized plant with branches"
+                },
+                {
+                  "title": "Herbs 🌱",
+                  "description": "Small plants like spinach, mint, and coriander - some we eat!",
+                  "visual": "Small green leafy plant"
+                },
+                {
+                  "title": "Climbers 🏃",
+                  "description": "Weak plants that climb like money plant and grapevine",
+                  "visual": "Plant climbing up a stick"
+                },
+                {
+                  "title": "Creepers 🎃",
+                  "description": "Spread on ground like pumpkin and watermelon",
+                  "visual": "Plant spreading along ground"
+                }
+              ]
+            },
+            {
+              "id": "lesson-2-parts",
+              "title": "Parts of a Plant",
+              "hook": "Every plant is like a small factory with special parts that do different jobs! 🏭",
+              "explanation": "Plants have many parts, and each part has an important job to help the plant grow and survive.",
+              "content": "The main parts of a plant are:\n\n1. **Root** 📍 - Holds plant in soil, absorbs water and minerals\n2. **Stem** 🌿 - Carries water and food to all parts, supports the plant\n3. **Leaf** 🍃 - Makes food for the plant using air, water, and sunlight\n4. **Flower** 💐 - Produces fruits and seeds\n5. **Fruit** 🍎 - Contains seeds that grow into new plants",
+              "examples": [
+                {
+                  "title": "Root - Underground Workers 📍",
+                  "description": "Roots drink water from soil and keep plant standing tall",
+                  "food_example": "Carrot, radish, turnip - we eat roots!"
+                },
+                {
+                  "title": "Stem - The Delivery System 🌿",
+                  "description": "Stems carry water from roots to leaves and food from leaves to roots",
+                  "food_example": "Potato, sugarcane - we eat stems!"
+                },
+                {
+                  "title": "Leaf - The Kitchen 🍃",
+                  "description": "Leaves make food for plants using sunlight. It's like a plant's kitchen!",
+                  "food_example": "Cabbage, lettuce - we eat leaves!"
+                },
+                {
+                  "title": "Flower - The Fruit Maker 💐",
+                  "description": "Flowers are beautiful and they make fruits and seeds",
+                  "food_example": "Cauliflower, broccoli - we eat flowers!"
+                },
+                {
+                  "title": "Fruit - Seed Container 🍎",
+                  "description": "Fruits protect seeds inside. When seeds fall, new plants grow!",
+                  "food_example": "Apple, mango, cherry - we eat fruits!"
+                }
+              ]
+            },
+            {
+              "id": "lesson-3-usefulness",
+              "title": "Things We Get From Plants",
+              "hook": "Plants give us SO many things we use every day! Let's discover them! 🎁",
+              "explanation": "Plants are super useful! They give us food, clothes, medicine, and many other things we need.",
+              "content": "We get many important things from plants:\n\n**Food**: Rice, wheat, vegetables, fruits, spices\n**Clothes**: Cotton, jute, linen\n**Medicine**: Tulsi, neem, clove\n**Other things**: Wood, oil, rubber, paper, perfume, soap\n\nPlants also give us oxygen to breathe!",
+              "examples": [
+                {
+                  "title": "Food from Plants 🍚🥬",
+                  "items": ["Rice", "Wheat", "Vegetables", "Fruits", "Spices"]
+                },
+                {
+                  "title": "Clothes from Plants 👕",
+                  "items": ["Cotton shirts", "Jute bags", "Linen clothes"]
+                },
+                {
+                  "title": "Medicine from Plants 💊",
+                  "items": ["Tulsi for cough", "Neem for skin", "Clove for teeth"]
+                },
+                {
+                  "title": "Other Things 🛋️",
+                  "items": ["Wood for furniture", "Paper for writing", "Oil for cooking"]
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which of these is a TREE?",
+              "options": [
+                "Neem 🌳",
+                "Mint 🌱",
+                "Rose 🌸",
+                "Pumpkin 🎃"
+              ],
+              "correctAnswer": 0,
+              "hint": "Think of the biggest plants. Which one grows very tall and lives for many years?",
+              "explanation": "Neem is a tree! It's big, tall, and has a hard trunk. Mint is a herb, rose is a shrub, and pumpkin is a creeper."
+            },
+            {
+              "id": "q2",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "What does a ROOT do?",
+              "options": [
+                "Makes food for the plant",
+                "Absorbs water from soil 💧",
+                "Holds flowers and leaves",
+                "Spreads leaves in the sun"
+              ],
+              "correctAnswer": 1,
+              "hint": "Roots are underground. What do they drink?",
+              "explanation": "Roots absorb water and minerals from the soil! They also hold the plant firmly in the ground."
+            },
+            {
+              "id": "q3",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "We eat the STEM of which plant?",
+              "options": [
+                "Apple 🍎",
+                "Spinach 🥬",
+                "Potato 🥔",
+                "Carrot 🥕"
+              ],
+              "correctAnswer": 2,
+              "hint": "Think about what you eat as a vegetable that grows underground but isn't a root.",
+              "explanation": "Potato is a stem! It grows underground and we eat it. A carrot is a root, spinach is a leaf, and apple is a fruit."
+            },
+            {
+              "id": "q4",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which plant needs a STICK to grow up?",
+              "options": [
+                "Pumpkin (spreads on ground)",
+                "Money plant (climbs up) 🏃",
+                "Mint (small herb)",
+                "Coconut (tall tree)"
+              ],
+              "correctAnswer": 1,
+              "hint": "Some plants have weak stems and need help to climb up.",
+              "explanation": "Money plant is a climber! It has a weak stem and uses a stick or wall to climb up. Pumpkin is a creeper that spreads on the ground."
+            },
+            {
+              "id": "q5",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "We wear clothes made from COTTON. Cotton comes from...",
+              "options": [
+                "The root of the plant",
+                "The flower of the plant 🌸",
+                "The leaves of the plant",
+                "The stem of the plant"
+              ],
+              "correctAnswer": 1,
+              "hint": "Cotton is a soft, fluffy fiber. It surrounds the seeds. What part of the plant has this?",
+              "explanation": "Cotton comes from the flower! The fluffy cotton fibers surround the seeds inside the flower. These are spun into thread to make clothes."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
