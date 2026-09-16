@@ -11,15 +11,15 @@
         {
           "id": "plants",
           "title": "Plants",
-          "description": "Discover the world of plants around us!",
+          "description": "Learn about plants!",
           "icon": "\ud83c\udf3f",
           "lessons": [
             {
               "id": "lesson-1",
-              "title": "Types of Plants",
-              "hook": "Plants come in many different sizes and shapes!",
-              "explanation": "Plants are classified by their size and stem type",
-              "content": "Main types: Trees, Shrubs, Herbs, Climbers, Creepers",
+              "title": "Introduction to Plants",
+              "hook": "Let's explore plants!",
+              "explanation": "Understanding plants helps us learn about science",
+              "content": "Key concepts from Plants",
               "examples": []
             }
           ],
@@ -28,2131 +28,2771 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of the following is NOT a  - correct pair  sae ate mo (A) Herb - Soft stem",
+              "question": "Root of which of the following plants (B) Turmeric aa",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 13",
+              "explanation": "This question is from the Self Test 2 section",
+              "pdfSource": "page 13 (Self Test 2)"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of the following statements  is true for shrubs 4. Pranav visited a grapevine farm and  : (A) Shrubs are taller than herbs and trees. saw the pl",
+              "question": "Which of the following is E gives us __ that Is uss.",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 13",
+              "explanation": "This question is from the Self Test 2 section",
+              "pdfSource": "page 13 (Self Test 2)"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of the followi A ae     lolowing plants j renee  a herb SISNOp  (A) Grapevinnes are herbs and their weak",
+              "question": "Read the given statements and select - (A) Plants give shelter to many animals.",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 14",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 14 (Exercise)"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Sees a :  et _ hf Bok isp ey  Pues EF Brown gram Green gram Soybean Kidney beans Pulses  Turmeric cardamom chilli cinnamon clove cumin black pepper et",
+              "question": "Select the odd one out on the basis of  type.",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 14",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 14 (Exercise)"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the INCORRECT match. 2  : (A) Root - Absorbs water and minerals (C)  (D)",
+              "question": "plant is a herb.  o",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 14",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 14 (Exercise)"
             },
             {
               "id": "q6",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Root of which of the following plants (B) Turmeric aa",
+              "question": "Select the option in which odd member _(C) Rose : Bottle gourd",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 14",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 14 (Exercise)"
             },
             {
               "id": "q7",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Identity the plant shown in the",
+              "question": "We eat _(i_ of a po : 3",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 15",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 15 (Exercise)"
             },
             {
               "id": "q8",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of the following is E gives us __ that Is uss. product he following is NOT a plant to make clothes.  (A) Jute .",
+              "question": "is an example shrub. R. Maize (iii) Fruit",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 15",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 15 (Exercise)"
             },
             {
               "id": "q9",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Read the given statements and select - (A) Plants give shelter to many animals.",
+              "question": "Clothes are made up of fibres. We get  P Q R S T",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 15",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 15 (Exercise)"
             },
             {
               "id": "q10",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Given below is the list of a few items.",
+              "question": "Select the INCORRECT pair. 17. Identify the odd one in each group",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 15",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 15 (Exercise)"
             },
             {
               "id": "q11",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the pair that is similar to the . _ one given in the box based on their plant 5. Select the odd one out on the basis of  type. the type of stem",
+              "question": "Select the INCORRECT statements. (B) Pumpkin, Grass, Mango",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 15",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 15 (Exercise)"
             },
             {
               "id": "q12",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "plant is a herb.  o (A) Hibiscus (B) Banana (A) Coriander : Watermelon",
+              "question": "We eat _(i_ of a po : 3",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 15",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 15 (HOTS (Achievers))"
             },
             {
               "id": "q13",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the option in which odd member _(C) Rose : Bottle gourd",
+              "question": "is an example shrub. R. Maize (iii) Fruit",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 15",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 15 (HOTS (Achievers))"
             },
             {
               "id": "q14",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "is an example shrub. R. Maize",
+              "question": "Clothes are made up of fibres. We get  P Q R S T",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 15",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 15 (HOTS (Achievers))"
             },
             {
               "id": "q15",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Clothes are made up of fibres. We get  P Q R S T fibres like and from (A) (i) (iv) (vy) (ii) (iii)",
+              "question": "Select the INCORRECT pair. 17. Identify the odd one in each group",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 15",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 15 (HOTS (Achievers))"
             },
             {
               "id": "q16",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the INCORRECT pair. 17. Identify the odd one in each group . _ and select the correct option. (A) Root - aia wc Group I: Grapevine Money plant ",
+              "question": "Select the INCORRECT statements. (B) Pumpkin, Grass, Mango",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 15",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 15 (HOTS (Achievers))"
             },
             {
               "id": "q17",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the INCORRECT statements. (B) Pumpkin Grass Mango",
+              "question": "Refer to the given word chop table.  MW",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 16",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 16 (HOTS (Achievers))"
             },
             {
               "id": "q18",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Refer to the given figure of a plant bajra are herbs.  and select the INCORRECT statement",
+              "question": "Which of the following CANNOT be fruits in bunches. ii",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 8-15"
+              "hint": "Refer to PDF page 17",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 17 (HOTS (Achievers))"
+            },
+            {
+              "id": "q19",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "What will happen to a lemon plant if It is a small bushy plant with re a",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 17",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 17 (HOTS (Achievers))"
+            },
+            {
+              "id": "q20",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which of the following pl",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 17",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 17 (HOTS (Achievers))"
+            },
+            {
+              "id": "q21",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Refer to the given word chop table.  MW",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 16",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 16 (NSO Practice)"
+            },
+            {
+              "id": "q22",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which of the following CANNOT be fruits in bunches. ii",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 17",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 17 (NSO Practice)"
+            },
+            {
+              "id": "q23",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "What will happen to a lemon plant if It is a small bushy plant with re a",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 17",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 17 (NSO Practice)"
+            },
+            {
+              "id": "q24",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which of the following pl",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 17",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 17 (NSO Practice)"
             }
           ]
         },
         {
           "id": "animals",
           "title": "Animals",
-          "description": "Learn about amazing animals!",
+          "description": "Learn about animals!",
           "icon": "\ud83e\udd81",
           "lessons": [
             {
               "id": "lesson-1",
-              "title": "Animal Classification",
-              "hook": "Animals are everywhere - in the sky, on land, and in water!",
-              "explanation": "Animals can be classified by their characteristics",
-              "content": "Herbivores, Carnivores, Omnivores",
+              "title": "Introduction to Animals",
+              "hook": "Let's explore animals!",
+              "explanation": "Understanding animals helps us learn about science",
+              "content": "Key concepts from Animals",
               "examples": []
             }
           ],
           "questions": [
             {
-              "id": "q19",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Unscramble the given letter groups 3. Our body has bones and about  to get the name of the framework of muscles. : bones that gives shape and support ",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
-            },
-            {
-              "id": "q20",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Select the option that correctly com- muscles   pletes the word in the given statement. (A) Swimming (B) Dancing",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
-            },
-            {
-              "id": "q21",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Refer to what Priya is saying. was  H   .  O gs (D)  Riya is taller than me.",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
-            },
-            {
-              "id": "q22",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Ma with column II and used by the girl in the given picture select the correct option. Column I Column II Vo)",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
-            },
-            {
-              "id": "q23",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Four of Mr. Sisodias pupils made a 5 sky or not statement about human body parts. Which",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
-            },
-            {
-              "id": "q24",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Refer to the given classification chart. (C) Skeleton (D) None of thes",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
-            },
-            {
               "id": "q25",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of the following activities  erformed with the help of bones  Neck Heart _ muscles Elbow Brain - 7 Knee Lungs Si) G  Py 2 Mt w (B)",
+              "question": "Which of the following statements is (A) Sheep (B) Goat",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 29",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 29 (Exercise)"
             },
             {
               "id": "q26",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Refer to the given relationship and 13. While working on the computer y  select the option that correctly fills the must  blank. (A) Lean forward whil",
+              "question": "Which of the following fibres are",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 29",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 29 (Exercise)"
             },
             {
               "id": "q27",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the correct statement regarding 14. The given structure protects the part labelled as X in the given figure. y. Uj f eee Res  (A) X help to mov",
+              "question": "Which of these are obtained from : 8. Select the correct difference between.",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 29",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 29 (Exercise)"
             },
             {
               "id": "q28",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Study the given table carefully. _ Roi rn aula Organ oP (D) All of these Characteristics pQR S",
+              "question": "Which of the following is NOT made  aK M2 \u00e9 38",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 29",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 29 (Exercise)"
             },
             {
               "id": "q29",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "tion for P and Q. P Q R S the correct OP (A) Tongue Ear Heart Lungs",
+              "question": "Which animal should thisfarmertame (B) P is a carnivore and Q is a herbivore",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 29",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 29 (Exercise)"
             },
             {
               "id": "q30",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of the following CANNOT be (A) Elbow Ears _ found in the given word grid",
+              "question": "mw option. a 15. Young one of which of the following",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 30",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 30 (Exercise)"
             },
             {
               "id": "q31",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Refer to the given flow chart. WIL R  ZABE EN . Ss P rcinlolslels iol Les Yes  ele a tly 50 Helps in digesting food Q AlsclFlelxkB   iormKs7D Helps in",
+              "question": "The animal shown in the given box  \u00abaes bath",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 30",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 30 (Exercise)"
             },
             {
               "id": "q32",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "PAGE 45 (C) Sense organs that are non-functional 9  Hot Cold Soft Smooth Rouy",
+              "question": "mw option. a 15. Young one of which of the following",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 30",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 30 (HOTS (Achievers))"
             },
             {
               "id": "q33",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Read the given statements and select  LAD the option that correctly identifies the true ee Af",
+              "question": "The animal shown in the given box  \u00abaes bath",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 30",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 30 (HOTS (Achievers))"
             },
             {
               "id": "q34",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "A new born baby has 600 bones. H  Os 2. Muscles are very hard parts. ye 3. There are 200 muscles in our body. (A) d and e only",
+              "question": "Names of some animals are hidden 4. Its fur is used to make fine wog",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 31",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 31 (HOTS (Achievers))"
             },
             {
               "id": "q35",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "We should eat healthy food and do (B) e and g onl",
+              "question": "Match column I with column II and and select the one that gives the name of",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 31",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 31 (HOTS (Achievers))"
             },
             {
               "id": "q36",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Muscles and bones together work as (D)h e and f only",
+              "question": "Names of some animals are hidden 4. Its fur is used to make fine wog",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 31",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 31 (NSO Practice)"
             },
             {
               "id": "q37",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Namit is blind-folded and he is ask.. movements. to differentiate between a few pairs . yy Ce) coe eae  items. Between which of the followin GQ) tT TT",
+              "question": "Match column I with column II and and select the one that gives the name of",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
-            },
-            {
-              "id": "q38",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "In which of the following activities peti weetcr z  the bones and muscles are being used the (B) A piece of red and a piece of blue clos",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
-            },
-            {
-              "id": "q39",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Select the INCORRECT statemen: (A) (B) I regarding the given figure.",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
-            },
-            {
-              "id": "q40",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Se eialoning T statement (D) She used the sense that also helps to",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
-            },
-            {
-              "id": "q41",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Refer to the given flow chart to identify",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
-            },
-            {
-              "id": "q42",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Sakshi returned from school and while No O entering the main door of her house she Yes shouted in excitement Wow Mon it seems you have made yummy past",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
-            },
-            {
-              "id": "q43",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "not bones. Leg is not a sense organ and has  oTMK",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 41-48"
+              "hint": "Refer to PDF page 31",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 31 (NSO Practice)"
             }
           ]
         },
         {
           "id": "human-body",
           "title": "Human Body",
-          "description": "Explore how your body works!",
+          "description": "Learn about human body!",
           "icon": "\ud83d\udc64",
           "lessons": [
             {
               "id": "lesson-1",
-              "title": "Body Systems",
-              "hook": "Your body is an amazing machine!",
-              "explanation": "The human body has many parts that work together",
-              "content": "Bones, muscles, organs, and systems",
+              "title": "Introduction to Human Body",
+              "hook": "Let's explore human body!",
+              "explanation": "Understanding human body helps us learn about science",
+              "content": "Key concepts from Human Body",
               "examples": []
             }
           ],
           "questions": [
             {
+              "id": "q38",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Refer to the statement given by Soni.",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 39",
+              "explanation": "This question is from the Self Test 1 section",
+              "pdfSource": "page 39 (Self Test 1)"
+            },
+            {
+              "id": "q39",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Unscramble the given letter groups 3. Our body has bones and about\u2019",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 41",
+              "explanation": "This question is from the Self Test 2 section",
+              "pdfSource": "page 41 (Self Test 2)"
+            },
+            {
+              "id": "q40",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Select the option that correctly com- muscles?",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 41",
+              "explanation": "This question is from the Self Test 2 section",
+              "pdfSource": "page 41 (Self Test 2)"
+            },
+            {
+              "id": "q41",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Ma with column II and used by the girl in the given picture?",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 42",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 42 (Exercise)"
+            },
+            {
+              "id": "q42",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Refer to the given classification chart. (C) Skeleton (D) None of thes,",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 43",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 43 (Exercise)"
+            },
+            {
+              "id": "q43",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Study the given table carefully. _",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 44",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 44 (Exercise)"
+            },
+            {
               "id": "q44",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "not bones. Leg is not a sense organ and has  oTMK",
+              "question": "tion for P and Q. P Q R S",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 47-54"
+              "hint": "Refer to PDF page 44",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 44 (Exercise)"
             },
             {
               "id": "q45",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "We must eat food from the given   (C) oS o food group_",
+              "question": "Refer to the given flow chart. WIL R  ZABE EN",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 47-54"
+              "hint": "Refer to PDF page 44",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 44 (Exercise)"
             },
             {
               "id": "q46",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the food item that belongs to   : the same food group as the one shown w rs   in the given figure. er gee (A) Once in a month",
+              "question": "Study the given table carefully. _",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 47-54"
+              "hint": "Refer to PDF page 44",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 44 (HOTS (Achievers))"
             },
             {
               "id": "q47",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "8 a So. Bea hum Washing hands Never eat uncovered food Washing fruits Avoid eating road side food SD tS Olympiad PREP-GUIDE PAGE 54 4.5 KEEPING OUR TE",
+              "question": "tion for P and Q. P Q R S",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 47-54"
+              "hint": "Refer to PDF page 44",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 44 (HOTS (Achievers))"
             },
             {
               "id": "q48",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of these statements is NOT Madhur - Bread  Omelette  Milk cote SULorWalck:  Geetika - Bread and butter  Eggs  Apple (A) Water helps to digest ou",
+              "question": "Refer to the given flow chart. WIL R  ZABE EN",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 47-54"
+              "hint": "Refer to PDF page 44",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 44 (HOTS (Achievers))"
             },
             {
               "id": "q49",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "We cook food nd Geetika bo (D) Madhur a (A) To make it tastier :",
+              "question": "Read the given statements and select [ LAD",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 47-54"
+              "hint": "Refer to PDF page 45",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 45 (HOTS (Achievers))"
             },
             {
               "id": "q50",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Joy was eating too many sweets. His  mother said that it is NOT good for his (A) Flies (A) Teeth (B) Ears",
+              "question": "A new born baby has 600 bones. H \u00a9 Os",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 47-54"
+              "hint": "Refer to PDF page 45",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 45 (HOTS (Achievers))"
+            },
+            {
+              "id": "q51",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Muscles are very hard parts. ye",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 45",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 45 (HOTS (Achievers))"
+            },
+            {
+              "id": "q52",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "There are 200 muscles in our body. (A) d and e only",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 45",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 45 (HOTS (Achievers))"
+            },
+            {
+              "id": "q53",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "We should eat healthy food and do (B) e and g onl",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 45",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 45 (HOTS (Achievers))"
+            },
+            {
+              "id": "q54",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Muscles and bones together work as (D)h, e and f only",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 45",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 45 (HOTS (Achievers))"
+            },
+            {
+              "id": "q55",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Read the given statements and select [ LAD",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 45",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 45 (NSO Practice)"
+            },
+            {
+              "id": "q56",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "A new born baby has 600 bones. H \u00a9 Os",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 45",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 45 (NSO Practice)"
+            },
+            {
+              "id": "q57",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Muscles are very hard parts. ye",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 45",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 45 (NSO Practice)"
+            },
+            {
+              "id": "q58",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "There are 200 muscles in our body. (A) d and e only",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 45",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 45 (NSO Practice)"
+            },
+            {
+              "id": "q59",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "We should eat healthy food and do (B) e and g onl",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 45",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 45 (NSO Practice)"
+            },
+            {
+              "id": "q60",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Muscles and bones together work as (D)h, e and f only",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 45",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 45 (NSO Practice)"
+            },
+            {
+              "id": "q61",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Sakshi returned from school and while No [O]",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 46",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 46 (NSO Practice)"
             }
           ]
         },
         {
           "id": "food",
           "title": "Food",
-          "description": "Discover healthy food choices!",
+          "description": "Learn about food!",
           "icon": "\ud83c\udf4e",
           "lessons": [
             {
               "id": "lesson-1",
-              "title": "Food Groups",
-              "hook": "Food gives us energy to grow and play!",
-              "explanation": "Different foods provide different nutrients",
-              "content": "Fruits, vegetables, grains, proteins, dairy",
+              "title": "Introduction to Food",
+              "hook": "Let's explore food!",
+              "explanation": "Understanding food helps us learn about science",
+              "content": "Key concepts from Food",
               "examples": []
             }
           ],
           "questions": [
             {
-              "id": "q51",
+              "id": "q62",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "7 e 5  pe F 3 word grid of ee cee ome Navratri festival 3 i . Dandiya is 1 d 4 Fauiacloniestor oe ae oy  W. panded CMAEMEAES Pia we Harshs grandmother",
+              "question": "Read the given statements and select 4. Mira made the following Pairs",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 93-100"
+              "hint": "Refer to PDF page 55",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 55 (Exercise)"
             },
             {
-              "id": "q52",
+              "id": "q63",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "You must cut your nails once ina  i ie t  (A) Year (B) Month Fo",
+              "question": "Given below are pictures of few food (C) Drinking plenty of water y",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 93-100"
+              "hint": "Refer to PDF page 55",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 55 (Exercise)"
             },
             {
-              "id": "q53",
+              "id": "q64",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of these activities is good for N  health 3. Which of the following is a bad habit J (A) Cleaning ears with a matchstick",
+              "question": "Select the INCORRECTLY matched (C) Cabbage, Egg, Paneer",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 93-100"
+              "hint": "Refer to PDF page 55",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 55 (Exercise)"
+            },
+            {
+              "id": "q65",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Who among the following is eating a sweets.",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 56",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 56 (Exercise)"
+            },
+            {
+              "id": "q66",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Refer to the given table. QR",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 57",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 57 (Exercise)"
+            },
+            {
+              "id": "q67",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Refer to the given table. QR",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 57",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 57 (HOTS (Achievers))"
+            },
+            {
+              "id": "q68",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Food relationship based on different (S) Dee: Glan awn ie",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 59",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 59 (NSO Practice)"
             }
           ]
         },
         {
           "id": "housing",
           "title": "Housing and Clothing",
-          "description": "Learn about homes and clothes!",
+          "description": "Learn about housing and clothing!",
           "icon": "\ud83c\udfe0",
           "lessons": [
             {
               "id": "lesson-1",
-              "title": "Different Types of Homes",
-              "hook": "Homes are shelters that protect us!",
-              "explanation": "People live in different types of homes",
-              "content": "Houses, apartments, huts, igloos, houseboats",
+              "title": "Introduction to Housing and Clothing",
+              "hook": "Let's explore housing and clothing!",
+              "explanation": "Understanding housing and clothing helps us learn about science",
+              "content": "Key concepts from Housing and Clothing",
               "examples": []
             }
           ],
           "questions": [
             {
-              "id": "q54",
+              "id": "q69",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "We y ang . (D): Sleep gives our body rest and the road at the zebra Crossing 4 an Cro",
+              "question": "Select the house that is made from (A) EHVOQUPSTERBJOUAXT",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 107-114"
+              "hint": "Refer to PDF page 65",
+              "explanation": "This question is from the Self Test 1 section",
+              "pdfSource": "page 65 (Self Test 1)"
             },
             {
-              "id": "q55",
+              "id": "q70",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "John is a tourist from London. Which icarry heavy loads from one place to means of transport he must choose to   another reach India early  (A) Bus i",
+              "question": "Which of the following is used to!",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 107-114"
+              "hint": "Refer to PDF page 65",
+              "explanation": "This question is from the Self Test 1 section",
+              "pdfSource": "page 65 (Self Test 1)"
             },
             {
-              "id": "q56",
+              "id": "q71",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of these vehicles runs on  Say electricity Class-2  Science r PAGE 113  (B) Fire truck - Carries Police",
+              "question": "Starting from first letter strike out (B) Bungalow, Apartment",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 107-114"
+              "hint": "Refer to PDF page 65",
+              "explanation": "This question is from the Self Test 1 section",
+              "pdfSource": "page 65 (Self Test 1)"
             },
             {
-              "id": "q57",
+              "id": "q72",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the odd one out on th   4. Select the CORRECT match. of what they carry.  basi (A) Ambulance - Carries patients to (4) Cargo ship (B) Goods ae",
+              "question": "Unscramble the given letter groups",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 107-114"
+              "hint": "Refer to PDF page 69",
+              "explanation": "This question is from the Self Test 2 section",
+              "pdfSource": "page 69 (Self Test 2)"
+            },
+            {
+              "id": "q73",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Refer to what Priya is saying. Column I Column II",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 70",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 70 (Exercise)"
+            },
+            {
+              "id": "q74",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Read the given statements and fillin (q4)F F F 1",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 71",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 71 (Exercise)"
+            },
+            {
+              "id": "q75",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "The clothes shown in the given picture une ee ONE a ueao ac ODject:",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 71",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 71 (Exercise)"
+            },
+            {
+              "id": "q76",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Read the following statements and (CC) Linen (D) Jute",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 71",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 71 (Exercise)"
+            },
+            {
+              "id": "q77",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Read the given statements and fillin (q4)F F F 1",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 71",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 71 (HOTS (Achievers))"
+            },
+            {
+              "id": "q78",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "The clothes shown in the given picture une ee ONE a ueao ac ODject:",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 71",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 71 (HOTS (Achievers))"
+            },
+            {
+              "id": "q79",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Read the following statements and (CC) Linen (D) Jute",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 71",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 71 (HOTS (Achievers))"
+            },
+            {
+              "id": "q80",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which of the ue me is NOT hidden whereas Y could be obtained from",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 72",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 72 (HOTS (Achievers))"
+            },
+            {
+              "id": "q81",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Refer to the given diagram and select \\ fresh air to enter.",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 72",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 72 (HOTS (Achievers))"
+            },
+            {
+              "id": "q82",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Th mi iven picture = Cys",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 73",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 73 (HOTS (Achievers))"
+            },
+            {
+              "id": "q83",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Neelima lives in a place where rains It",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 73",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 73 (HOTS (Achievers))"
+            },
+            {
+              "id": "q84",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Aheli is residing in a hilly area where (C) Stilt house (D) Tent",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 73",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 73 (HOTS (Achievers))"
+            },
+            {
+              "id": "q85",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Select the clothing item that is made felLiwixizlplt",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 73",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 73 (HOTS (Achievers))"
+            },
+            {
+              "id": "q86",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Th mi iven picture = Cys",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 73",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 73 (NSO Practice)"
+            },
+            {
+              "id": "q87",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Neelima lives in a place where rains It",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 73",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 73 (NSO Practice)"
+            },
+            {
+              "id": "q88",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Aheli is residing in a hilly area where (C) Stilt house (D) Tent",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 73",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 73 (NSO Practice)"
+            },
+            {
+              "id": "q89",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Select the clothing item that is made felLiwixizlplt",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 73",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 73 (NSO Practice)"
             }
           ]
         },
         {
           "id": "family",
           "title": "Family and Festivals",
-          "description": "Celebrate family and traditions!",
+          "description": "Learn about family and festivals!",
           "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
           "lessons": [
             {
               "id": "lesson-1",
-              "title": "Family Relations",
-              "hook": "Family is important in our lives!",
-              "explanation": "Families have different members with different roles",
-              "content": "Parents, siblings, grandparents, relationships",
+              "title": "Introduction to Family and Festivals",
+              "hook": "Let's explore family and festivals!",
+              "explanation": "Understanding family and festivals helps us learn about science",
+              "content": "Key concepts from Family and Festivals",
               "examples": []
             }
           ],
           "questions": [
             {
-              "id": "q58",
+              "id": "q90",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of these isa means of mass 3. A mobile phone CANNOY communication used to ee tay incor) (A) Talk and listen",
+              "question": "vot a part of a nuclear ane (B) Surname",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 80",
+              "explanation": "This question is from the Self Test 1 section",
+              "pdfSource": "page 80 (Self Test 1)"
             },
             {
-              "id": "q59",
+              "id": "q91",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Aayush is writing a letter to his _ eae a the se codes Must   eee Sas : entantheceimos mentioned to help a letter to reach",
+              "question": "mater\u2019 father, howasonls you (B) Anshu\u2019s and Dhairya\u2019s grandparents",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 88",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 88 (Exercise)"
             },
             {
-              "id": "q60",
+              "id": "q92",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "To send e-mails our computer mine  (A) Write grandfathers address on the be connected to",
+              "question": "De oe a the man wearing a tie. > The family in the given picture is of a",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 88",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 88 (Exercise)"
             },
             {
-              "id": "q61",
+              "id": "q93",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "The given road sign says . (C) Fax is a means of mass",
+              "question": "The given birthday cake was ordered no Wwhicofthe following Practicg",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 89",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 89 (Exercise)"
             },
             {
-              "id": "q62",
+              "id": "q94",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the road sign that Tepresen ) OMNIA SU school ahead. ent 2. A sign language is used as a means  of communication by the people who (A) A (B) i",
+              "question": "This is Ms Sharma returning from ea SAle s",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 89",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 89 (Exercise)"
             },
             {
-              "id": "q63",
+              "id": "q95",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the correct statement. 5. Niharika is facing the rising Sun with   (A) The needle of the compass always both her arms stretched. Which directio",
+              "question": "The given bouquet of flowers is (r) Pongal 3. Kerala",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 89",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 89 (Exercise)"
             },
             {
-              "id": "q64",
+              "id": "q96",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "coaches. I carry hundreds of peoP p) at a time. (D) Zea Who am I",
+              "question": "Select the correct statement. (B) Q could be Baisakhi which marks the",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 90",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 90 (Exercise)"
             },
             {
-              "id": "q65",
+              "id": "q97",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the suitable heading for 8 pyre rcard (B) Fax X and group Y.",
+              "question": "Select the correct statement. (B) Q could be Baisakhi which marks the",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 90",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 90 (HOTS (Achievers))"
             },
             {
-              "id": "q66",
+              "id": "q98",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "el act 0SS the sea ae 2 an (B) Aeroplane Group X",
+              "question": "Refer to the given word grid. (iii) Traditions ofa family g",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 91",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 91 (HOTS (Achievers))"
             },
             {
-              "id": "q67",
+              "id": "q99",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of the following is NOT a pont ae Mass special means of transport munication   communication 3 (A) SB)",
+              "question": "Rohan classified games into two groups peste eaten",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 91",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 91 (HOTS (Achievers))"
             },
             {
-              "id": "q68",
+              "id": "q100",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Shalini and Pooja live iy Delp  (B) Post van carries letters and parcels is going to the local market with ha tal",
+              "question": "Vibhor and Shaurya are broth",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 91",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 91 (HOTS (Achievers))"
             },
             {
-              "id": "q69",
+              "id": "q101",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "In which of the following groups odd (A) i a ae",
+              "question": "Read the given statements and identify ( o cae",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 91",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 91 (HOTS (Achievers))"
             },
             {
-              "id": "q70",
+              "id": "q102",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the correct match (D) Bicycle Tonga Bullock cart (A)  No parkin",
+              "question": "Refer to the given word grid. (iii) Traditions ofa family g",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 91",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 91 (NSO Practice)"
             },
             {
-              "id": "q71",
+              "id": "q103",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Fill in the blanks in the following sentence by selecting the correct option. X_ is an audio-visual means of mass_",
+              "question": "Rohan classified games into two groups peste eaten",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 91",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 91 (NSO Practice)"
             },
             {
-              "id": "q72",
+              "id": "q104",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Identify the road signs shown in the 15. Refer to the given conversation among picture and select the correct option. _ three friends. \u00e9 -- a) Long ag",
+              "question": "Vibhor and Shaurya are broth",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 91",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 91 (NSO Practice)"
             },
             {
-              "id": "q73",
+              "id": "q105",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "What q  2 j ection",
+              "question": "Read the given statements and identify ( o cae",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
-            },
-            {
-              "id": "q74",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Hospital ahead 2c li h 2. Slippery road ahead etters X 3. Pedestrian crossing elect the option that correctly identifies 4. Speed breaker ahead WX Y a",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
-            },
-            {
-              "id": "q75",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "How many words related to land and  7. Study the given map ofa locality and water transport are hiaden in the given  lect the correct statement regard",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
-            },
-            {
-              "id": "q76",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Study the given map of  vee  20. Study the given diagram carefully. select the INCORRECT Option regan  it. dip Runs Mode  Satya Rashmie 8 power transp",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
-            },
-            {
-              "id": "q77",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Which of the following road signs tells sports complex. 4 ou that there is a hospital ahead on the Sits P 5. Select the odd one out among the followin",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 115-122"
+              "hint": "Refer to PDF page 91",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 91 (NSO Practice)"
             }
           ]
         },
         {
           "id": "safety",
           "title": "Good Habits and Safety",
-          "description": "Stay safe and healthy!",
+          "description": "Learn about good habits and safety!",
           "icon": "\ud83d\udee1\ufe0f",
           "lessons": [
             {
               "id": "lesson-1",
-              "title": "Safety Rules",
-              "hook": "Safety is everyone's responsibility!",
-              "explanation": "Good habits keep us healthy and safe",
-              "content": "Hygiene, safety rules, traffic rules",
+              "title": "Introduction to Good Habits and Safety",
+              "hook": "Let's explore good habits and safety!",
+              "explanation": "Understanding good habits and safety helps us learn about science",
+              "content": "Key concepts from Good Habits and Safety",
               "examples": []
             }
           ],
           "questions": [
             {
-              "id": "q78",
+              "id": "q106",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "The given road sign says . (C) Fax is a means of mass",
+              "question": ": fas he mame wtava flies when the vehicle is in motion.",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 102",
+              "explanation": "This question is from the Self Test 2 section",
+              "pdfSource": "page 102 (Self Test 2)"
             },
             {
-              "id": "q79",
+              "id": "q107",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the road sign that Tepresen ) OMNIA SU school ahead. ent 2. A sign language is used as a means  of communication by the people who (A) A (B) i",
+              "question": "Where should we walk ona busy road? identifies the ones that he]",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 103",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 103 (Exercise)"
             },
             {
-              "id": "q80",
+              "id": "q108",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the correct statement. 5. Niharika is facing the rising Sun with   (A) The needle of the compass always both her arms stretched. Which directio",
+              "question": "Zebracrossing and subways are made _ (A) (i), (ii) and (iii) ) ,",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 103",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 103 (Exercise)"
             },
             {
-              "id": "q81",
+              "id": "q109",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "coaches. I carry hundreds of peoP p) at a time. (D) Zea Who am I",
+              "question": "We can cross the road at the zebra 7. What will happen to your",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 103",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 103 (Exercise)"
             },
             {
-              "id": "q82",
+              "id": "q110",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the suitable heading for 8 pyre rcard (B) Fax X and group Y.",
+              "question": "Which of these statements is NOT (D) They may become Sharp,",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 103",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 103 (Exercise)"
             },
             {
-              "id": "q83",
+              "id": "q111",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "el act 0SS the sea ae 2 an (B) Aeroplane Group X",
+              "question": "What is shown in the given picture? 9. Which of the following ACTIVI tie ;",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 103",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 103 (Exercise)"
             },
             {
-              "id": "q84",
+              "id": "q112",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of the following is NOT a pont ae Mass special means of transport munication   communication 3 (A) SB)",
+              "question": "Few items are shown in the given (\u00a9) ME (D) Both (A) and(\u00a2",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 103",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 103 (Exercise)"
             },
             {
-              "id": "q85",
+              "id": "q113",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Shalini and Pooja live iy Delp  (B) Post van carries letters and parcels is going to the local market with ha tal",
+              "question": "Which of the following activities is 5- Donottouch 2. On Holi",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 104",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 104 (Exercise)"
             },
             {
-              "id": "q86",
+              "id": "q114",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "In which of the following groups odd (A) i a ae",
+              "question": "Which of the following activities is 5- Donottouch 2. On Holi",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 104",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 104 (HOTS (Achievers))"
             },
             {
-              "id": "q87",
+              "id": "q115",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the correct match (D) Bicycle Tonga Bullock cart (A)  No parkin",
+              "question": "Refer to the statements given by three I. BINNAC) 2. Ding",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 105",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 105 (HOTS (Achievers))"
             },
             {
-              "id": "q88",
+              "id": "q116",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Fill in the blanks in the following sentence by selecting the correct option. X_ is an audio-visual means of mass_",
+              "question": "How many safety equipments that Ee apie sees OF the clas",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 105",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 105 (HOTS (Achievers))"
             },
             {
-              "id": "q89",
+              "id": "q117",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Identify the road signs shown in the 15. Refer to the given conversation among picture and select the correct option. _ three friends. \u00e9 -- a) Long ag",
+              "question": "Names of some safe and some unsafe __ Nitin : I bite my nails to keep them short,",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 105",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 105 (HOTS (Achievers))"
             },
             {
-              "id": "q90",
+              "id": "q118",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "What q  2 j ection",
+              "question": "Refer to the statements given by three I. BINNAC) 2. Ding",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 105",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 105 (NSO Practice)"
             },
             {
-              "id": "q91",
+              "id": "q119",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Hospital ahead 2c li h 2. Slippery road ahead etters X 3. Pedestrian crossing elect the option that correctly identifies 4. Speed breaker ahead WX Y a",
+              "question": "How many safety equipments that Ee apie sees OF the clas",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 105",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 105 (NSO Practice)"
             },
             {
-              "id": "q92",
+              "id": "q120",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "How many words related to land and  7. Study the given map ofa locality and water transport are hiaden in the given  lect the correct statement regard",
+              "question": "Names of some safe and some unsafe __ Nitin : I bite my nails to keep them short,",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
-            },
-            {
-              "id": "q93",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Study the given map of  vee  20. Study the given diagram carefully. select the INCORRECT Option regan  it. dip Runs Mode  Satya Rashmie 8 power transp",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
-            },
-            {
-              "id": "q94",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Which of the following road signs tells sports complex. 4 ou that there is a hospital ahead on the Sits P 5. Select the odd one out among the followin",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 117-124"
+              "hint": "Refer to PDF page 105",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 105 (NSO Practice)"
             }
           ]
         },
         {
           "id": "transport",
           "title": "Transport and Communication",
-          "description": "Explore how we travel and connect!",
+          "description": "Learn about transport and communication!",
           "icon": "\ud83d\ude97",
           "lessons": [
             {
               "id": "lesson-1",
-              "title": "Ways to Travel",
-              "hook": "We use different vehicles to move around!",
-              "explanation": "Transportation helps us travel from place to place",
-              "content": "Land, water, and air transport",
+              "title": "Introduction to Transport and Communication",
+              "hook": "Let's explore transport and communication!",
+              "explanation": "Understanding transport and communication helps us learn about science",
+              "content": "Key concepts from Transport and Communication",
               "examples": []
             }
           ],
           "questions": [
             {
-              "id": "q95",
+              "id": "q121",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Whichofthe followingisINCORRECT nse option which gives the about air ei ae fast moving wind. (A) Air helps us to dry wet clothes.",
+              "question": "Select the odd one out on th",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 123-130"
+              "hint": "Refer to PDF page 113",
+              "explanation": "This question is from the Self Test 1 section",
+              "pdfSource": "page 113 (Self Test 1)"
+            },
+            {
+              "id": "q122",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Aayush is writing a letter to his _ eae a the se codes Must }",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 115",
+              "explanation": "This question is from the Self Test 2 section",
+              "pdfSource": "page 115 (Self Test 2)"
+            },
+            {
+              "id": "q123",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "el act 0SS the sea? ae",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 118",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 118 (Exercise)"
+            },
+            {
+              "id": "q124",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "In which of the following groups odd (A) i a ae",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 119",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 119 (Exercise)"
+            },
+            {
+              "id": "q125",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Fill in the blanks in the following",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 119",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 119 (Exercise)"
+            },
+            {
+              "id": "q126",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Identify the road signs shown in the 15. Refer to the given conversation among",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 119",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 119 (Exercise)"
+            },
+            {
+              "id": "q127",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Study the given diagram carefully. select the INCORRECT Option regan\u2019",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 121",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 121 (HOTS (Achievers))"
+            },
+            {
+              "id": "q128",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which of the following road signs tells sports complex. 4",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 121",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 121 (HOTS (Achievers))"
+            },
+            {
+              "id": "q129",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Full form of PIN is : (C) ae  fm (D) fae 1 CES",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 121",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 121 (HOTS (Achievers))"
+            },
+            {
+              "id": "q130",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Study the given diagram carefully. select the INCORRECT Option regan\u2019",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 121",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 121 (NSO Practice)"
+            },
+            {
+              "id": "q131",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which of the following road signs tells sports complex. 4",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 121",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 121 (NSO Practice)"
+            },
+            {
+              "id": "q132",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Full form of PIN is : (C) ae  fm (D) fae 1 CES",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 121",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 121 (NSO Practice)"
             }
           ]
         },
         {
           "id": "air-water",
           "title": "Air, Water and Rocks",
-          "description": "Understand natural resources!",
+          "description": "Learn about air, water and rocks!",
           "icon": "\ud83d\udca7",
           "lessons": [
             {
               "id": "lesson-1",
-              "title": "Natural Resources",
-              "hook": "Air, water, and rocks are essential resources!",
-              "explanation": "Nature provides important resources we use daily",
-              "content": "Air, water, soil, rocks and minerals",
+              "title": "Introduction to Air, Water and Rocks",
+              "hook": "Let's explore air, water and rocks!",
+              "explanation": "Understanding air, water and rocks helps us learn about science",
+              "content": "Key concepts from Air, Water and Rocks",
               "examples": []
             }
           ],
           "questions": [
             {
-              "id": "q96",
+              "id": "q133",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Unscramble the given letter groups",
+              "question": "We use water for (C) By making dams and canajy",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 131",
+              "explanation": "This question is from the Self Test 2 section",
+              "pdfSource": "page 131 (Self Test 2)"
             },
             {
-              "id": "q97",
+              "id": "q134",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "The Red Fort in Delhi is made up of Cy) renee:  doors of (A) Sandstone (B) Granite (i) (ii) (iii) (iv)",
+              "question": "How does river water get dirty? (A) ae (D) Well",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 131",
+              "explanation": "This question is from the Self Test 2 section",
+              "pdfSource": "page 131 (Self Test 2)"
             },
             {
-              "id": "q98",
+              "id": "q135",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "The monument shown here is made (B)T F T F",
+              "question": "Water exists in nature in ______ (C) Steam ec",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 133",
+              "explanation": "This question is from the Self Test 3 section",
+              "pdfSource": "page 133 (Self Test 3)"
             },
             {
-              "id": "q99",
+              "id": "q136",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of the following is made up  (C) Marble va at J. of rocks or minerals :",
+              "question": "Unscramble the given letter groups (i) Rocks are found only on beacheg",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 135",
+              "explanation": "This question is from the Self Test 4 section",
+              "pdfSource": "page 135 (Self Test 4)"
             },
             {
-              "id": "q100",
+              "id": "q137",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Read the given statements and select (A) (eo we)",
+              "question": "Read the given statements and select (A) (eo! we)",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 135",
+              "explanation": "This question is from the Self Test 4 section",
+              "pdfSource": "page 135 (Self Test 4)"
             },
             {
-              "id": "q101",
+              "id": "q138",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Read the statements given by four (D) children. Who among them has made an",
+              "question": "Unscramble the given letter groupsand (A) Process X is FESPONSIb g f ]",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 137",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 137 (Exercise)"
             },
             {
-              "id": "q102",
+              "id": "q139",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Raju classified rocks into two groups",
+              "question": "Refer to the given picture and select wet clothes when hung on clon Sah",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 137",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 137 (Exercise)"
             },
             {
-              "id": "q103",
+              "id": "q140",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Unscramble the given letter groupsand (A) Process X is FESPONSIb g f",
+              "question": "Select the option that correctly identifies 2 va & ee",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 137",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 137 (Exercise)"
             },
             {
-              "id": "q104",
+              "id": "q141",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Refer to the given picture and select wet clothes when hung on clon Sah the correct statement regarding it. under the Sun sling - (D) Process X is res",
+              "question": "Select the correct statement regarding a",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 137",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 137 (Exercise)"
             },
             {
-              "id": "q105",
+              "id": "q142",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "How can we keep the aj  j p Ir Clean  (A) By planting more trees",
+              "question": "Refer to the given diagram and select (b) Rock used for 2. Tale",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 139",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 139 (HOTS (Achievers))"
             },
             {
-              "id": "q106",
+              "id": "q143",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "What is being proved by the o: ll our houses to store rainwater. figure Biven 9. Select the option that correctly identifies 2 va  ee X Y and Z in the",
+              "question": "Fill in the blanks. (A) <p (B) ad",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 139",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 139 (HOTS (Achievers))"
             },
             {
-              "id": "q107",
+              "id": "q144",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Select the correct statement regarding a the process X shown in the given figure.  ie Y Select the correct option regarding it B Fig (A) It is made up",
+              "question": "Match column I with column II and engines",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 139",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 139 (HOTS (Achievers))"
             },
             {
-              "id": "q108",
+              "id": "q145",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "R  ip ie that correctly ide i the ae mick Bo eee ee cae 0 n that is NOT f o a perme : hard rock No  oundin it i) A ar It is 4 Yes Yes a We lale Rw s a",
+              "question": "Refer to the given diagram and select (b) Rock used for 2. Tale",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 139",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 139 (NSO Practice)"
             },
             {
-              "id": "q109",
+              "id": "q146",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Refer to the given diagram and select",
+              "question": "Fill in the blanks. (A) <p (B) ad",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 139",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 139 (NSO Practice)"
             },
             {
-              "id": "q110",
+              "id": "q147",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Tale the correct option regarding X Y and Z. making blackboards Air is Water is",
+              "question": "Match column I with column II and engines",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
-            },
-            {
-              "id": "q111",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Graph: od fe : : Ph ee co needed for",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
-            },
-            {
-              "id": "q112",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Cog as this activit this activity 0a to make lead X Ww A of pencils (A) Washing car Flyinga Inflating a (B) (a)-4 (b)-2 (c)-3 (d)-1",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
-            },
-            {
-              "id": "q113",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Which of the following objects : (D) Cleaning Inflating a Washing used to show that air moves thingss",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
-            },
-            {
-              "id": "q114",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Fill in the blanks. (A) p (B) ad",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
-            },
-            {
-              "id": "q115",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Select the odd one out. release a lot of in air. (A) Tube well (B) Well",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
-            },
-            {
-              "id": "q116",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Match column I with column Ir (A) Storm Dispersal Germs Water elect the correct option.",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
-            },
-            {
-              "id": "q117",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Cost  y met (C) Breeze Dispersal Smoke Water used for mak",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
-            },
-            {
-              "id": "q118",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Used for mak SOF NSO 2019 QUESTIONS glass  eee",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
-            },
-            {
-              "id": "q119",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Match column I with column II and engines select the correct option. (A) (a)-3 (b)-1 (c)-2",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
-            },
-            {
-              "id": "q120",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Slate (C) (a)-2 (b)-3 (c)-1",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
-            },
-            {
-              "id": "q121",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "D): Ai 9 Ss DIAMON Z -Dia sae Ulloa ee is the hardest known mineral. Mon 4. (D): Planting trees helps to purify the 2. (A)",
-              "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
-              ],
-              "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 135-142"
+              "hint": "Refer to PDF page 139",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 139 (NSO Practice)"
             }
           ]
         },
         {
           "id": "earth",
           "title": "Earth and Universe",
-          "description": "Discover our planet and space!",
+          "description": "Learn about earth and universe!",
           "icon": "\ud83c\udf0d",
           "lessons": [
             {
               "id": "lesson-1",
-              "title": "Our Planet Earth",
-              "hook": "Earth is our home in the universe!",
-              "explanation": "Earth has day and night, seasons, and natural phenomena",
-              "content": "Day, night, seasons, weather, stars",
+              "title": "Introduction to Earth and Universe",
+              "hook": "Let's explore earth and universe!",
+              "explanation": "Understanding earth and universe helps us learn about science",
+              "content": "Key concepts from Earth and Universe",
               "examples": []
             }
           ],
           "questions": [
             {
-              "id": "q122",
+              "id": "q148",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "D): Ai 9 Ss DIAMON Z -Dia sae Ulloa ee is the hardest known mineral. Mon 4. (D): Planting trees helps to purify the 2. (A)",
+              "question": "Identify this land form. 5. How many Objects in th i: ; I",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 141-148"
+              "hint": "Refer to PDF page 151",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 151 (Exercise)"
             },
             {
-              "id": "q123",
+              "id": "q149",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "X is a natural satellite of Earth. va   1  fan eR ech of salty water. Identify X and select the correct option Nb ia eo Sie regarding it.  iM i (B) Ri",
+              "question": "Which of the following is NOT a BCs oN A",
               "options": [
-                "[Options from PDF]",
-                "[to be extracted]",
-                "[separately]",
-                "[from images]"
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
               ],
               "correctAnswer": 0,
-              "hint": "See the PDF for this question",
-              "explanation": "This question was extracted from the PDF",
-              "pdfSource": "page 141-148"
+              "hint": "Refer to PDF page 151",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 151 (Exercise)"
+            },
+            {
+              "id": "q150",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Refer to the given fi d sel days.",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 152",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 152 (Exercise)"
+            },
+            {
+              "id": "q151",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Anu\u2019s teacher brought this to her class. Identify p, QR ware",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 153",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 153 (Exercise)"
+            },
+            {
+              "id": "q152",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which of the following has three- (C) Rmay bea Remo ee 5. ofA",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 153",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 153 (Exercise)"
+            },
+            {
+              "id": "q153",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Read the given statements and identify x Ww meet",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 153",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 153 (Exercise)"
+            },
+            {
+              "id": "q154",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Refer to the given flow chart. the given word grid?",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 153",
+              "explanation": "This question is from the Exercise section",
+              "pdfSource": "page 153 (Exercise)"
+            },
+            {
+              "id": "q155",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Anu\u2019s teacher brought this to her class. Identify p, QR ware",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 153",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 153 (HOTS (Achievers))"
+            },
+            {
+              "id": "q156",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which of the following has three- (C) Rmay bea Remo ee 5. ofA",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 153",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 153 (HOTS (Achievers))"
+            },
+            {
+              "id": "q157",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Read the given statements and identify x Ww meet",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 153",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 153 (HOTS (Achievers))"
+            },
+            {
+              "id": "q158",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Refer to the given flow chart. the given word grid?",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 153",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 153 (HOTS (Achievers))"
+            },
+            {
+              "id": "q159",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Four students Kirti, Roma, Rahul and",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 154",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 154 (HOTS (Achievers))"
+            },
+            {
+              "id": "q160",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Read the given paragraph. Rahul Deep",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 154",
+              "explanation": "This question is from the HOTS (Achievers) section",
+              "pdfSource": "page 154 (HOTS (Achievers))"
+            },
+            {
+              "id": "q161",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Four students Kirti, Roma, Rahul and",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 154",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 154 (NSO Practice)"
+            },
+            {
+              "id": "q162",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Read the given paragraph. Rahul Deep",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 154",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 154 (NSO Practice)"
+            },
+            {
+              "id": "q163",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Tanmay took three balls P, Q and R",
+              "options": [
+                "(A) See PDF for options",
+                "(B) Question from actual book",
+                "(C) Extract visual/audio separately",
+                "(D) Verify with PDF"
+              ],
+              "correctAnswer": 0,
+              "hint": "Refer to PDF page 155",
+              "explanation": "This question is from the NSO Practice section",
+              "pdfSource": "page 155 (NSO Practice)"
             }
           ]
         }
