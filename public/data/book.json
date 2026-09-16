@@ -15,115 +15,12 @@
           "icon": "\ud83c\udf3f",
           "lessons": [
             {
-              "id": "lesson-1-types",
+              "id": "lesson-1",
               "title": "Types of Plants",
-              "hook": "Did you know plants come in many different sizes? Some are tiny, some are HUGE! \ud83c\udf33",
-              "explanation": "Plants can be very big or very small. We divide them into different groups based on their size and the type of stem they have. Let's explore!",
-              "content": "There are 5 main types of plants:\n\n1. **Trees** - Very big and tall with hard, brown stems called trunks. They live for many years!\n2. **Shrubs** - Medium-sized plants with strong woody stems\n3. **Herbs** - Small plants with soft green stems\n4. **Climbers** - Weak plants that need support to grow up\n5. **Creepers** - Weak plants that grow along the ground",
-              "examples": [
-                {
-                  "title": "Trees \ud83c\udf33",
-                  "description": "Big, tall plants like neem, banyan, mango, and coconut trees",
-                  "visual": "Tree with brown trunk and green leaves"
-                },
-                {
-                  "title": "Shrubs \ud83c\udf38",
-                  "description": "Medium-sized like rose, sunflower, cotton, and hibiscus",
-                  "visual": "Medium-sized plant with branches"
-                },
-                {
-                  "title": "Herbs \ud83c\udf31",
-                  "description": "Small plants like spinach, mint, and coriander - some we eat!",
-                  "visual": "Small green leafy plant"
-                },
-                {
-                  "title": "Climbers \ud83c\udfc3",
-                  "description": "Weak plants that climb like money plant and grapevine",
-                  "visual": "Plant climbing up a stick"
-                },
-                {
-                  "title": "Creepers \ud83c\udf83",
-                  "description": "Spread on ground like pumpkin and watermelon",
-                  "visual": "Plant spreading along ground"
-                }
-              ]
-            },
-            {
-              "id": "lesson-2-parts",
-              "title": "Parts of a Plant",
-              "hook": "Every plant is like a small factory with special parts that do different jobs! \ud83c\udfed",
-              "explanation": "Plants have many parts, and each part has an important job to help the plant grow and survive.",
-              "content": "The main parts of a plant are:\n\n1. **Root** \ud83d\udccd - Holds plant in soil, absorbs water and minerals\n2. **Stem** \ud83c\udf3f - Carries water and food to all parts, supports the plant\n3. **Leaf** \ud83c\udf43 - Makes food for the plant using air, water, and sunlight\n4. **Flower** \ud83d\udc90 - Produces fruits and seeds\n5. **Fruit** \ud83c\udf4e - Contains seeds that grow into new plants",
-              "examples": [
-                {
-                  "title": "Root - Underground Workers \ud83d\udccd",
-                  "description": "Roots drink water from soil and keep plant standing tall",
-                  "food_example": "Carrot, radish, turnip - we eat roots!"
-                },
-                {
-                  "title": "Stem - The Delivery System \ud83c\udf3f",
-                  "description": "Stems carry water from roots to leaves and food from leaves to roots",
-                  "food_example": "Potato, sugarcane - we eat stems!"
-                },
-                {
-                  "title": "Leaf - The Kitchen \ud83c\udf43",
-                  "description": "Leaves make food for plants using sunlight. It's like a plant's kitchen!",
-                  "food_example": "Cabbage, lettuce - we eat leaves!"
-                },
-                {
-                  "title": "Flower - The Fruit Maker \ud83d\udc90",
-                  "description": "Flowers are beautiful and they make fruits and seeds",
-                  "food_example": "Cauliflower, broccoli - we eat flowers!"
-                },
-                {
-                  "title": "Fruit - Seed Container \ud83c\udf4e",
-                  "description": "Fruits protect seeds inside. When seeds fall, new plants grow!",
-                  "food_example": "Apple, mango, cherry - we eat fruits!"
-                }
-              ]
-            },
-            {
-              "id": "lesson-3-usefulness",
-              "title": "Things We Get From Plants",
-              "hook": "Plants give us SO many things we use every day! Let's discover them! \ud83c\udf81",
-              "explanation": "Plants are super useful! They give us food, clothes, medicine, and many other things we need.",
-              "content": "We get many important things from plants:\n\n**Food**: Rice, wheat, vegetables, fruits, spices\n**Clothes**: Cotton, jute, linen\n**Medicine**: Tulsi, neem, clove\n**Other things**: Wood, oil, rubber, paper, perfume, soap\n\nPlants also give us oxygen to breathe!",
-              "examples": [
-                {
-                  "title": "Food from Plants \ud83c\udf5a\ud83e\udd6c",
-                  "items": [
-                    "Rice",
-                    "Wheat",
-                    "Vegetables",
-                    "Fruits",
-                    "Spices"
-                  ]
-                },
-                {
-                  "title": "Clothes from Plants \ud83d\udc55",
-                  "items": [
-                    "Cotton shirts",
-                    "Jute bags",
-                    "Linen clothes"
-                  ]
-                },
-                {
-                  "title": "Medicine from Plants \ud83d\udc8a",
-                  "items": [
-                    "Tulsi for cough",
-                    "Neem for skin",
-                    "Clove for teeth"
-                  ]
-                },
-                {
-                  "title": "Other Things \ud83d\udecb\ufe0f",
-                  "items": [
-                    "Wood for furniture",
-                    "Paper for writing",
-                    "Oil for cooking"
-                  ]
-                }
-              ]
+              "hook": "Plants come in many different sizes and shapes!",
+              "explanation": "Plants are classified by their size and stem type.",
+              "content": "Main types: Trees, Shrubs, Herbs, Climbers, Creepers",
+              "examples": []
             }
           ],
           "questions": [
@@ -131,226 +28,130 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which of these is a TREE?",
+              "question": "Hard skin of the tree trunk is called",
               "options": [
-                "Neem \ud83c\udf33",
-                "Mint \ud83c\udf31",
-                "Rose \ud83c\udf38",
-                "Pumpkin \ud83c\udf83"
+                "Bark",
+                "Spine",
+                "Branch",
+                "Bud"
               ],
               "correctAnswer": 0,
-              "hint": "Trees are big and tall.",
-              "explanation": "Neem is a tree! Trees are big and tall with hard trunks."
+              "hint": "Outer covering",
+              "explanation": "Bark is the hard outer skin of tree trunks.",
+              "pdfSource": "page 14"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "What does a ROOT do?",
-              "options": [
-                "Makes food",
-                "Absorbs water from soil \ud83d\udca7",
-                "Holds flowers",
-                "Spreads leaves"
-              ],
-              "correctAnswer": 1,
-              "hint": "Roots are underground.",
-              "explanation": "Roots absorb water and minerals from soil!"
-            },
-            {
-              "id": "q3",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Which is a SHRUB?",
-              "options": [
-                "Neem tree",
-                "Rose plant \ud83c\udf38",
-                "Grass",
-                "Pumpkin"
-              ],
-              "correctAnswer": 1,
-              "hint": "Shrubs are medium-sized.",
-              "explanation": "Rose is a shrub! Shrubs are medium-sized with woody stems."
-            },
-            {
-              "id": "q4",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "What is the STEM?",
-              "options": [
-                "Underground part",
-                "Green above-ground part that carries water \ud83c\udf3f",
-                "Flower part",
-                "Seed holder"
-              ],
-              "correctAnswer": 1,
-              "hint": "Stems carry water and food.",
-              "explanation": "The stem carries water and food to all parts of the plant."
-            },
-            {
-              "id": "q5",
-              "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Which PLANT part do we EAT as a root?",
-              "options": [
-                "Spinach",
-                "Carrot \ud83e\udd55",
-                "Apple",
-                "Banana"
-              ],
-              "correctAnswer": 1,
-              "hint": "Orange and crunchy!",
-              "explanation": "Carrot is a root we eat! Spinach is a leaf, apple is a fruit."
-            },
-            {
-              "id": "q6",
-              "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Select the INCORRECT pair.",
-              "options": [
-                "Root - absorbs water",
-                "Stem - fixes plant to soil",
-                "Leaf - makes food",
-                "Flower - produces seeds"
-              ],
-              "correctAnswer": 1,
-              "hint": "What REALLY fixes plant to soil?",
-              "explanation": "Stem does NOT fix the plant - that's the ROOT's job! Stem carries water."
-            },
-            {
-              "id": "q7",
-              "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Which plant part do we EAT as a STEM?",
-              "options": [
-                "Apple",
-                "Potato \ud83e\udd54",
-                "Spinach",
-                "Carrot"
-              ],
-              "correctAnswer": 1,
-              "hint": "Underground and grows underground.",
-              "explanation": "Potato is a stem! It stores food underground."
-            },
-            {
-              "id": "q8",
-              "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Which plant needs a STICK to grow UP?",
-              "options": [
-                "Pumpkin",
-                "Money plant \ud83c\udfc3",
-                "Mint",
-                "Coconut"
-              ],
-              "correctAnswer": 1,
-              "hint": "Climbers need support.",
-              "explanation": "Money plant is a climber! It has weak stems and needs support."
-            },
-            {
-              "id": "q9",
-              "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "We wear clothes made from COTTON. What part is it?",
-              "options": [
-                "Root",
-                "Flower \ud83c\udf38",
-                "Leaf",
-                "Stem"
-              ],
-              "correctAnswer": 1,
-              "hint": "Fluffy and surrounds seeds.",
-              "explanation": "Cotton comes from the flower! The fluffy fibers are spun into thread."
-            },
-            {
-              "id": "q10",
-              "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Which part of the plant is BARK?",
-              "options": [
-                "Hard skin of tree \ud83c\udf33",
-                "Soft inside",
-                "Green leaf",
-                "Root"
-              ],
-              "correctAnswer": 0,
-              "hint": "Outer covering of trunk.",
-              "explanation": "Bark is the hard outer skin of tree trunk! It protects the tree."
-            },
-            {
-              "id": "q11",
-              "type": "multiple-choice",
-              "difficulty": "challenge",
-              "question": "Which is NOT a SPICE?",
+              "question": "Which of the following is NOT a spice?",
               "options": [
                 "Cinnamon",
-                "Almond \ud83e\udd5c",
+                "Almond",
                 "Coriander",
                 "Cumin"
               ],
               "correctAnswer": 1,
-              "hint": "Spices are used in cooking for flavor.",
-              "explanation": "Almond is a nut/seed, not a spice! Cinnamon, coriander, and cumin are spices."
+              "hint": "Spices flavor food",
+              "explanation": "Almond is a nut, not a spice.",
+              "pdfSource": "page 17"
             },
             {
-              "id": "q12",
+              "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "challenge",
-              "question": "Which part of plant makes FOOD for the plant?",
+              "difficulty": "think",
+              "question": "We eat the STEM of which plant?",
               "options": [
-                "Root",
-                "Stem",
-                "Leaf \ud83c\udf43",
-                "Fruit"
+                "Radish",
+                "Potato",
+                "Apple",
+                "Spinach"
               ],
-              "correctAnswer": 2,
-              "hint": "Green and makes food with sunlight.",
-              "explanation": "Leaf makes food! It's called the 'kitchen of the plant' because it uses sunlight to make food."
+              "correctAnswer": 1,
+              "hint": "Underground food storage",
+              "explanation": "Potato is a stem that stores food underground.",
+              "pdfSource": "page 15"
             },
             {
-              "id": "q13",
+              "id": "q4",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "We eat the ROOT of which plant?",
+              "options": [
+                "Spinach",
+                "Carrot",
+                "Potato",
+                "Apple"
+              ],
+              "correctAnswer": 1,
+              "hint": "Orange vegetable",
+              "explanation": "Carrot is a root we eat.",
+              "pdfSource": "page 15"
+            },
+            {
+              "id": "q5",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which is an example of a shrub?",
+              "options": [
+                "Coriander",
+                "Tulsi",
+                "Palm",
+                "Mustard"
+              ],
+              "correctAnswer": 1,
+              "hint": "Sacred plant",
+              "explanation": "Tulsi is an example of a shrub.",
+              "pdfSource": "page 19"
+            },
+            {
+              "id": "q6",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "Which plant part stores FOOD for later use?",
+              "question": "Which statement is INCORRECT about mushrooms?",
               "options": [
-                "Potato \ud83e\udd54",
-                "Leaf",
-                "Flower",
-                "Root"
+                "Can prepare own food",
+                "Are fungi",
+                "Depend on dead matter",
+                "Not plants"
               ],
               "correctAnswer": 0,
-              "hint": "Underground food storage.",
-              "explanation": "Potato is a special stem that stores food! This helps the plant survive."
+              "hint": "Mushrooms are not plants",
+              "explanation": "Mushrooms cannot prepare their own food - they are fungi.",
+              "pdfSource": "page 18",
+              "imageUrl": "/images/questions/chapter-q-page-13.png"
             },
             {
-              "id": "q14",
+              "id": "q7",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "What is the function of FLOWERS?",
+              "question": "Which fibers come from plants?",
               "options": [
-                "Store food",
-                "Absorb water",
-                "Make fruits and seeds \ud83c\udf3c",
-                "Carry water"
+                "Silk and wool",
+                "Jute and cotton",
+                "Nylon",
+                "Polyester"
               ],
-              "correctAnswer": 2,
-              "hint": "Flowers eventually become fruits.",
-              "explanation": "Flowers make fruits and seeds! Inside fruits are seeds that grow into new plants."
+              "correctAnswer": 1,
+              "hint": "Plant-based fibers",
+              "explanation": "Jute and cotton are plant fibers. Silk and wool come from animals.",
+              "pdfSource": "page 19"
             },
             {
-              "id": "q15",
+              "id": "q8",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "Which plant is a CREEPER?",
+              "question": "Unscramble: IPUMKPN",
               "options": [
-                "Rose tree",
-                "Mint plant",
-                "Pumpkin \ud83c\udf83",
-                "Neem tree"
+                "Mango",
+                "Pumpkin",
+                "Carrot",
+                "Potato"
               ],
-              "correctAnswer": 2,
-              "hint": "Creepers spread on the ground.",
-              "explanation": "Pumpkin is a creeper! It spreads along the ground with heavy fruits."
+              "correctAnswer": 1,
+              "hint": "A creeping plant",
+              "explanation": "IPUMKPN unscrambles to PUMPKIN.",
+              "pdfSource": "page 14"
             }
           ]
         },
@@ -361,72 +162,12 @@
           "icon": "\ud83e\udd81",
           "lessons": [
             {
-              "id": "lesson-1-types",
+              "id": "lesson-1",
               "title": "Types of Animals",
-              "hook": "The world is full of amazing animals! Some walk, some fly, some swim! \ud83c\udf0d",
-              "explanation": "Animals are living things that can move around. We can group them by what they eat or where they live.",
-              "content": "Main groups of animals:\n\n1. **Wild Animals** - Live in forests, jungles, and deserts (lion, tiger, bear)\n2. **Domestic Animals** - Live with humans (dog, cat, cow)\n3. **Birds** - Have wings and can fly (parrot, crow, eagle)\n4. **Water Animals** - Live in water (fish, dolphin, crocodile)\n5. **Insects** - Tiny creatures with 6 legs (butterfly, bee, ant)",
-              "examples": [
-                {
-                  "title": "Wild Animals \ud83e\udd81",
-                  "description": "Tiger, lion, elephant - live in nature",
-                  "visual": "Big powerful animal in jungle"
-                },
-                {
-                  "title": "Domestic Animals \ud83d\udc15",
-                  "description": "Dog, cat, cow - live with people",
-                  "visual": "Friendly pet animal with family"
-                },
-                {
-                  "title": "Birds \ud83e\udd85",
-                  "description": "Parrot, crow, peacock - have feathers and wings",
-                  "visual": "Colorful bird flying in sky"
-                },
-                {
-                  "title": "Water Animals \ud83d\udc20",
-                  "description": "Fish, turtle, crocodile - live in water",
-                  "visual": "Animal swimming in water"
-                }
-              ]
-            },
-            {
-              "id": "lesson-2-habitat",
-              "title": "Where Animals Live",
-              "hook": "Different animals live in different places! Where would YOU find a fish? \ud83c\udfdc\ufe0f",
-              "explanation": "Animals live in homes called habitats. Each habitat has what the animal needs to survive.",
-              "content": "Different habitats:\n\n1. **Forest** - Trees, shade, wet ground (monkeys, deer, birds)\n2. **Desert** - Hot, dry, sandy (camel, snake, scorpion)\n3. **Ocean** - Salt water (whale, shark, octopus)\n4. **Pond/Lake** - Fresh water (frog, duck, fish)\n5. **Mountain** - High, cold (eagle, snow leopard, yak)",
-              "examples": [
-                {
-                  "title": "Forest Habitat \ud83c\udf33",
-                  "description": "Wet, shady with lots of trees",
-                  "items": [
-                    "Monkeys",
-                    "Tigers",
-                    "Birds",
-                    "Deer"
-                  ]
-                },
-                {
-                  "title": "Desert Habitat \ud83c\udfdc\ufe0f",
-                  "description": "Hot, dry with sand",
-                  "items": [
-                    "Camel",
-                    "Snake",
-                    "Scorpion",
-                    "Lizard"
-                  ]
-                },
-                {
-                  "title": "Ocean Habitat \ud83c\udf0a",
-                  "description": "Deep salt water",
-                  "items": [
-                    "Whale",
-                    "Shark",
-                    "Octopus",
-                    "Dolphin"
-                  ]
-                }
-              ]
+              "hook": "Animals are everywhere!",
+              "explanation": "Animals can be wild or domestic.",
+              "content": "Different animal types and habitats",
+              "examples": []
             }
           ],
           "questions": [
@@ -434,222 +175,147 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which is a WILD animal?",
+              "question": "Where does a dog live?",
               "options": [
-                "Dog \ud83d\udc15",
-                "Tiger \ud83d\udc2f",
-                "Cat \ud83d\udc31",
-                "Cow \ud83d\udc04"
+                "Den",
+                "Hutch",
+                "Kennel",
+                "Stable"
               ],
-              "correctAnswer": 1,
-              "hint": "Wild animals live in forests.",
-              "explanation": "Tiger is wild! It lives in jungles."
+              "correctAnswer": 2,
+              "hint": "Pet animal home",
+              "explanation": "Dogs live in kennels.",
+              "pdfSource": "page 24"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Where do FISH live?",
+              "question": "A young buffalo is called",
               "options": [
-                "In trees \ud83c\udf33",
-                "In water \ud83d\udca7",
-                "In sand \ud83c\udfdc\ufe0f",
-                "In air \u2601\ufe0f"
+                "Kid",
+                "Calf",
+                "Pup",
+                "Lamb"
               ],
               "correctAnswer": 1,
-              "hint": "Fish need water.",
-              "explanation": "Fish live in water!"
+              "hint": "Baby farm animal",
+              "explanation": "Young buffalo is called a calf.",
+              "pdfSource": "page 34"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Which animal is DOMESTIC?",
+              "difficulty": "think",
+              "question": "Which is a domestic animal?",
               "options": [
-                "Tiger",
-                "Lion",
-                "Dog \ud83d\udc15",
-                "Elephant"
+                "Crocodile",
+                "Monkey",
+                "Sheep",
+                "Eagle"
               ],
               "correctAnswer": 2,
-              "hint": "Lives with people.",
-              "explanation": "Dog is domestic! It lives with humans."
+              "hint": "Raised by humans",
+              "explanation": "Sheep is a domestic animal.",
+              "pdfSource": "page 33"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "What do we call where an animal lives?",
+              "question": "Animal that lives in a tree",
               "options": [
-                "Home",
-                "Habitat \ud83c\udf0d",
-                "Zoo",
-                "Park"
+                "Fish",
+                "Crocodile",
+                "Monkey",
+                "Snake"
               ],
-              "correctAnswer": 1,
-              "hint": "Special word for wild animal homes.",
-              "explanation": "Habitat is where wild animals live!"
+              "correctAnswer": 2,
+              "hint": "Climbs trees",
+              "explanation": "Monkeys live in trees.",
+              "pdfSource": "page 34"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Which animal lives in DESERT?",
+              "difficulty": "challenge",
+              "question": "Young one of a frog is called",
               "options": [
-                "Penguin",
-                "Camel \ud83d\udc2a",
-                "Dolphin",
-                "Duck"
+                "Tadpole",
+                "Caterpillar",
+                "Pupa",
+                "Nymph"
               ],
-              "correctAnswer": 1,
-              "hint": "Can live without much water.",
-              "explanation": "Camels live in deserts!"
+              "correctAnswer": 0,
+              "hint": "Aquatic larva",
+              "explanation": "Young frog is called tadpole.",
+              "pdfSource": "page 34",
+              "imageUrl": "/images/questions/chapter-q-page-29.png"
             },
             {
               "id": "q6",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Which animal can fly?",
+              "difficulty": "challenge",
+              "question": "Which provides wool?",
               "options": [
+                "Cow",
                 "Horse",
-                "Eagle \ud83e\udd85",
-                "Fish",
-                "Turtle"
+                "Sheep",
+                "Chicken"
               ],
-              "correctAnswer": 1,
-              "hint": "Has wings.",
-              "explanation": "Eagles can fly!"
+              "correctAnswer": 2,
+              "hint": "Woolly animal",
+              "explanation": "Sheep provide wool.",
+              "pdfSource": "page 31",
+              "imageUrl": "/images/questions/chapter-q-page-30.png"
             },
             {
               "id": "q7",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Which is a BIRD?",
+              "difficulty": "challenge",
+              "question": "What sound does a crow make?",
               "options": [
-                "Dog",
-                "Parrot \ud83e\udd9c",
-                "Fish",
-                "Tiger"
+                "Moo",
+                "Caw",
+                "Bark",
+                "Bleat"
               ],
               "correctAnswer": 1,
-              "hint": "Has feathers and wings.",
-              "explanation": "Parrot is a bird!"
+              "hint": "CAW CAW",
+              "explanation": "A crow caws.",
+              "pdfSource": "page 28"
             },
             {
               "id": "q8",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "Which animal lives in WATER?",
+              "question": "Dried dung used as fuel from",
               "options": [
-                "Lion",
-                "Eagle",
-                "Crocodile \ud83d\udc0a",
-                "Rabbit"
-              ],
-              "correctAnswer": 2,
-              "hint": "Water reptile.",
-              "explanation": "Crocodiles live in water!"
-            },
-            {
-              "id": "q9",
-              "type": "multiple-choice",
-              "difficulty": "challenge",
-              "question": "How many legs do INSECTS have?",
-              "options": [
-                "4",
-                "6 \ud83e\udd97",
-                "8",
-                "10"
-              ],
-              "correctAnswer": 1,
-              "hint": "Small creatures.",
-              "explanation": "Insects have 6 legs!"
-            },
-            {
-              "id": "q10",
-              "type": "multiple-choice",
-              "difficulty": "challenge",
-              "question": "Which animal gives us MILK?",
-              "options": [
-                "Chicken",
-                "Cow \ud83d\udc04",
                 "Sheep",
-                "Horse"
+                "Buffalo",
+                "Goat",
+                "All"
               ],
-              "correctAnswer": 1,
-              "hint": "Farm animal.",
-              "explanation": "Cows give us milk!"
+              "correctAnswer": 3,
+              "hint": "Farm animal dung",
+              "explanation": "Cow, buffalo, and goat dung is used as fuel.",
+              "pdfSource": "page 33"
             }
           ]
         },
         {
           "id": "food",
           "title": "Food & Nutrition",
-          "description": "Discover the food we eat and why we need it!",
+          "description": "Food fuels our bodies!",
           "icon": "\ud83c\udf4e",
           "lessons": [
             {
-              "id": "lesson-1-types",
-              "title": "Types of Food",
-              "hook": "What's your favorite food? Every food helps your body in a special way! \ud83c\udf7d\ufe0f",
-              "explanation": "We eat different types of food. Each type helps our body in different ways.",
-              "content": "Main food groups:\n\n1. **Fruits & Vegetables** \ud83e\udd6c - Give us vitamins and energy (apple, carrot, spinach)\n2. **Grains & Cereals** \ud83c\udf3e - Give us energy (rice, wheat, bread)\n3. **Protein Foods** \ud83e\udd5a - Help our body grow (egg, milk, beans)\n4. **Healthy Fats** \ud83e\udd51 - Keep our body warm (nuts, oil)\n5. **Sugars & Sweets** \ud83c\udf6a - Give quick energy (but eat less of these!)",
-              "examples": [
-                {
-                  "title": "Fruits & Vegetables \ud83e\udd55",
-                  "description": "Colorful and full of vitamins",
-                  "items": [
-                    "Apple",
-                    "Carrot",
-                    "Spinach",
-                    "Banana"
-                  ]
-                },
-                {
-                  "title": "Grains \ud83c\udf3e",
-                  "description": "Give us energy for running and playing",
-                  "items": [
-                    "Rice",
-                    "Wheat",
-                    "Bread",
-                    "Cereal"
-                  ]
-                },
-                {
-                  "title": "Proteins \ud83e\udd5a",
-                  "description": "Help our body grow strong",
-                  "items": [
-                    "Eggs",
-                    "Milk",
-                    "Beans",
-                    "Chicken"
-                  ]
-                }
-              ]
-            },
-            {
-              "id": "lesson-2-nutrition",
-              "title": "Why We Need Food",
-              "hook": "Your body is like a machine! Food is the fuel that keeps it running! \u26a1",
-              "explanation": "Food gives our body energy and helps it grow, stay healthy, and fight sickness.",
-              "content": "Food helps us:\n\n1. **Grow** - Our bones, muscles, and body need food to get bigger\n2. **Get Energy** - We need energy to run, play, study, and think\n3. **Stay Healthy** - Food keeps our skin, teeth, and eyes strong\n4. **Fight Sickness** - Healthy food helps our body fight germs\n5. **Repair** - When we get hurt, food helps our body heal",
-              "examples": [
-                {
-                  "title": "For Growing \ud83d\udccf",
-                  "description": "Milk, eggs, beans help us get taller",
-                  "visual": "Child growing taller"
-                },
-                {
-                  "title": "For Energy \u26a1",
-                  "description": "Rice, bread, fruit give us power",
-                  "visual": "Child running and playing"
-                },
-                {
-                  "title": "To Stay Healthy \ud83d\udcaa",
-                  "description": "Vegetables and fruits keep us strong",
-                  "visual": "Healthy strong child"
-                }
-              ]
+              "id": "lesson-1",
+              "title": "Food Types",
+              "hook": "Food is essential!",
+              "explanation": "Different foods have different purposes.",
+              "content": "Food groups and nutrition",
+              "examples": []
             }
           ],
           "questions": [
@@ -657,194 +323,147 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which is a FRUIT?",
+              "question": "Which internal organ helps digest food?",
               "options": [
-                "Rice",
-                "Apple \ud83c\udf4e",
-                "Bread",
-                "Milk"
+                "Heart",
+                "Stomach",
+                "Brain",
+                "Lungs"
               ],
               "correctAnswer": 1,
-              "hint": "Sweet and grows on trees.",
-              "explanation": "Apple is a fruit!"
+              "hint": "Digestion organ",
+              "explanation": "Stomach breaks down and digests food.",
+              "pdfSource": "page 39"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Why do we eat FOOD?",
+              "question": "Bread is made from",
               "options": [
-                "For fun",
-                "To get energy and grow \ud83d\udcaa",
-                "To sleep",
-                "To look pretty"
+                "Wheat",
+                "Corn",
+                "Rice",
+                "Oats"
               ],
-              "correctAnswer": 1,
-              "hint": "Food gives power.",
-              "explanation": "Food gives energy and helps us grow!"
+              "correctAnswer": 0,
+              "hint": "Flour comes from this",
+              "explanation": "Bread is made from wheat flour.",
+              "pdfSource": "page 60"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Which food helps us GROW?",
+              "difficulty": "think",
+              "question": "Which is NOT a good food habit?",
               "options": [
-                "Candy",
-                "Soda",
-                "Milk & Eggs \ud83e\udd5a",
-                "Ice cream"
+                "Eating fruits",
+                "Chewing slowly",
+                "Eating junk food",
+                "Drinking milk"
               ],
               "correctAnswer": 2,
-              "hint": "Protein helps growth.",
-              "explanation": "Milk and eggs have protein!"
+              "hint": "Avoid unhealthy",
+              "explanation": "Junk food is not good for health.",
+              "pdfSource": "page 69"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "Which is a VEGETABLE?",
+              "question": "Which meal combination is good?",
               "options": [
-                "Apple",
-                "Carrot \ud83e\udd55",
-                "Banana",
-                "Mango"
+                "Only candy",
+                "Only soda",
+                "Rice with vegetables",
+                "Only ice cream"
               ],
-              "correctAnswer": 1,
-              "hint": "Grows in gardens.",
-              "explanation": "Carrot is a vegetable!"
+              "correctAnswer": 2,
+              "hint": "Balanced meal",
+              "explanation": "Rice with vegetables is a balanced meal.",
+              "pdfSource": "page 70"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "What is a healthy meal?",
+              "difficulty": "challenge",
+              "question": "Most meals should include",
               "options": [
-                "Only candy",
-                "Only soda",
-                "Rice, vegetables, egg \ud83c\udf5a",
-                "Only chocolate"
+                "Sweets",
+                "Vegetables",
+                "Fried food",
+                "Candy"
               ],
-              "correctAnswer": 2,
-              "hint": "Different food types.",
-              "explanation": "Balanced meals have different foods!"
+              "correctAnswer": 1,
+              "hint": "Healthy eating",
+              "explanation": "Meals should include vegetables for nutrition.",
+              "pdfSource": "page 71",
+              "imageUrl": "/images/questions/chapter-q-page-69.png"
             },
             {
               "id": "q6",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Which food is a GRAIN?",
+              "difficulty": "challenge",
+              "question": "Protein helps body",
               "options": [
-                "Apple",
-                "Milk",
-                "Rice \ud83c\udf5a",
-                "Egg"
+                "Think",
+                "Grow strong",
+                "See clearly",
+                "Hear better"
               ],
-              "correctAnswer": 2,
-              "hint": "Gives energy.",
-              "explanation": "Rice is a grain!"
+              "correctAnswer": 1,
+              "hint": "Muscle building",
+              "explanation": "Protein helps body grow strong.",
+              "pdfSource": "page 72"
             },
             {
               "id": "q7",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "Which food group gives us PROTEIN?",
+              "question": "Which food has vitamin C?",
               "options": [
-                "Fruits",
-                "Vegetables",
-                "Eggs \ud83e\udd5a",
+                "Milk",
+                "Orange",
+                "Rice",
                 "Bread"
               ],
-              "correctAnswer": 2,
-              "hint": "Helps muscles grow.",
-              "explanation": "Eggs have protein!"
+              "correctAnswer": 1,
+              "hint": "Citrus fruit",
+              "explanation": "Orange has vitamin C.",
+              "pdfSource": "page 73"
             },
             {
               "id": "q8",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "Why is water important?",
+              "question": "Water is essential for",
               "options": [
-                "For taste",
-                "To survive \ud83d\udca7",
-                "To sleep",
-                "For decoration"
+                "Staying awake",
+                "Survival",
+                "Playing",
+                "Learning"
               ],
               "correctAnswer": 1,
-              "hint": "Essential for life.",
-              "explanation": "Water is essential for survival!"
+              "hint": "Life necessity",
+              "explanation": "Water is essential for survival.",
+              "pdfSource": "page 74",
+              "imageUrl": "/images/questions/chapter-q-page-70.png"
             }
           ]
         },
         {
           "id": "human-body",
           "title": "Human Body",
-          "description": "Learn about your amazing body!",
+          "description": "Your body is amazing!",
           "icon": "\ud83d\udc64",
           "lessons": [
             {
-              "id": "lesson-1-body-parts",
-              "title": "Body Parts & Functions",
-              "hook": "Your body has amazing parts that work together! Let's discover them! \ud83e\udde0",
-              "explanation": "Our body has many parts. Each part does a special job to keep us alive and healthy.",
-              "content": "Main body parts and what they do:\n\n1. **Head** \ud83e\udde0 - Contains brain (thinking) and eyes (seeing)\n2. **Heart** \u2764\ufe0f - Pumps blood around our body\n3. **Lungs** \ud83d\udca8 - Help us breathe air\n4. **Stomach** \ud83c\udf7d\ufe0f - Digests (breaks down) food\n5. **Bones** \ud83e\uddb4 - Give our body shape and support\n6. **Muscles** \ud83d\udcaa - Help us move and stay strong",
-              "examples": [
-                {
-                  "title": "Brain \ud83e\udde0",
-                  "description": "Helps us think, remember, and make decisions",
-                  "visual": "Smart child thinking"
-                },
-                {
-                  "title": "Heart \u2764\ufe0f",
-                  "description": "Pumps blood to every part of body",
-                  "visual": "Heart beating inside chest"
-                },
-                {
-                  "title": "Lungs \ud83d\udca8",
-                  "description": "Help us breathe fresh air",
-                  "visual": "Deep breath of fresh air"
-                },
-                {
-                  "title": "Bones \ud83e\uddb4",
-                  "description": "Hold our body up and protect organs",
-                  "visual": "Strong skeleton frame"
-                }
-              ]
-            },
-            {
-              "id": "lesson-2-senses",
-              "title": "Our Five Senses",
-              "hook": "You can see, hear, smell, taste, and touch! These are your superpowers! \ud83d\udc40",
-              "explanation": "We have five senses that help us understand the world around us.",
-              "content": "Our five senses:\n\n1. **Sight** \ud83d\udc40 - Eyes let us see colors and shapes\n2. **Hearing** \ud83d\udc42 - Ears let us hear sounds\n3. **Smell** \ud83d\udc43 - Nose lets us smell things\n4. **Taste** \ud83d\udc45 - Tongue lets us taste sweet, sour, salty, bitter\n5. **Touch** \u270b - Skin lets us feel hot, cold, soft, hard",
-              "examples": [
-                {
-                  "title": "Eyes See \ud83d\udc40",
-                  "description": "Help us see colors, shapes, and people",
-                  "items": [
-                    "Red apple",
-                    "Blue sky",
-                    "Happy face"
-                  ]
-                },
-                {
-                  "title": "Ears Hear \ud83d\udc42",
-                  "description": "Help us listen to music and voices",
-                  "items": [
-                    "Music notes",
-                    "Mother's voice",
-                    "Birds singing"
-                  ]
-                },
-                {
-                  "title": "Nose Smells \ud83d\udc43",
-                  "description": "Help us smell flowers and food",
-                  "items": [
-                    "Rose flower",
-                    "Cooking food",
-                    "Fresh air"
-                  ]
-                }
-              ]
+              "id": "lesson-1",
+              "title": "Body Parts",
+              "hook": "Know your body!",
+              "explanation": "Body has many parts.",
+              "content": "Organs and systems",
+              "examples": []
             }
           ],
           "questions": [
@@ -852,177 +471,148 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which part helps us THINK?",
+              "question": "Heart pumps",
               "options": [
-                "Heart",
-                "Brain \ud83e\udde0",
-                "Stomach",
-                "Bones"
+                "Air",
+                "Blood",
+                "Food",
+                "Water"
               ],
               "correctAnswer": 1,
-              "hint": "Inside head.",
-              "explanation": "Brain helps us think!"
+              "hint": "Red liquid",
+              "explanation": "Heart pumps blood.",
+              "pdfSource": "page 80"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which sense helps us SEE?",
+              "question": "We breathe with",
               "options": [
-                "Ears",
-                "Nose",
-                "Eyes \ud83d\udc40",
-                "Tongue"
+                "Heart",
+                "Lungs",
+                "Brain",
+                "Stomach"
               ],
-              "correctAnswer": 2,
-              "hint": "Watch TV with these.",
-              "explanation": "Eyes help us see!"
+              "correctAnswer": 1,
+              "hint": "In chest",
+              "explanation": "Lungs help us breathe.",
+              "pdfSource": "page 87"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "What does HEART do?",
+              "difficulty": "think",
+              "question": "Brain helps us",
               "options": [
-                "Digests food",
-                "Pumps blood \u2764\ufe0f",
-                "Thinks",
-                "Hears"
+                "Breathe",
+                "Think",
+                "Digest",
+                "Pump"
               ],
               "correctAnswer": 1,
-              "hint": "Goes boom boom.",
-              "explanation": "Heart pumps blood!"
+              "hint": "Thinking organ",
+              "explanation": "Brain helps us think.",
+              "pdfSource": "page 88"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "Which sense helps us TASTE?",
+              "question": "Bones support",
               "options": [
-                "Eyes",
-                "Ears",
-                "Tongue \ud83d\udc45",
-                "Bones"
+                "Digestion",
+                "Body",
+                "Breathing",
+                "Thinking"
               ],
-              "correctAnswer": 2,
-              "hint": "In your mouth.",
-              "explanation": "Tongue helps taste!"
+              "correctAnswer": 1,
+              "hint": "Skeleton",
+              "explanation": "Bones support our body.",
+              "pdfSource": "page 89"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Why do we need BONES?",
+              "difficulty": "challenge",
+              "question": "Eyes help us",
               "options": [
-                "To taste",
-                "To hold body up \ud83e\uddb4",
-                "To pump blood",
-                "To breathe"
+                "Hear",
+                "See",
+                "Taste",
+                "Touch"
               ],
               "correctAnswer": 1,
-              "hint": "Give body shape.",
-              "explanation": "Bones hold us up!"
+              "hint": "Vision",
+              "explanation": "Eyes help us see.",
+              "pdfSource": "page 90",
+              "imageUrl": "/images/questions/chapter-q-page-87.png"
             },
             {
               "id": "q6",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Which helps us BREATHE?",
+              "difficulty": "challenge",
+              "question": "Ears help us",
               "options": [
-                "Heart",
-                "Lungs \ud83d\udca8",
-                "Brain",
-                "Stomach"
+                "See",
+                "Hear",
+                "Taste",
+                "Feel"
               ],
               "correctAnswer": 1,
-              "hint": "In your chest.",
-              "explanation": "Lungs help us breathe!"
+              "hint": "Sound",
+              "explanation": "Ears help us hear.",
+              "pdfSource": "page 93",
+              "imageUrl": "/images/questions/chapter-q-page-88.png"
             },
             {
               "id": "q7",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "What do MUSCLES do?",
+              "question": "Muscles help us",
               "options": [
                 "Think",
-                "Pump blood",
-                "Help us move \ud83d\udcaa",
-                "Store food"
+                "Move",
+                "Breathe",
+                "See"
               ],
-              "correctAnswer": 2,
-              "hint": "Help movement.",
-              "explanation": "Muscles help us move!"
+              "correctAnswer": 1,
+              "hint": "Movement",
+              "explanation": "Muscles help us move.",
+              "pdfSource": "page 94"
             },
             {
               "id": "q8",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "How many senses do we have?",
+              "question": "Tongue helps us",
               "options": [
-                "3",
-                "4",
-                "5 \ud83d\udc40",
-                "6"
+                "See",
+                "Hear",
+                "Taste",
+                "Feel"
               ],
               "correctAnswer": 2,
-              "hint": "See, hear, smell, taste, touch.",
-              "explanation": "We have 5 senses!"
+              "hint": "Taste",
+              "explanation": "Tongue helps us taste.",
+              "pdfSource": "page 103",
+              "imageUrl": "/images/questions/chapter-q-page-90.png"
             }
           ]
         },
         {
           "id": "safety",
           "title": "Good Habits & Safety",
-          "description": "Learn healthy and safe habits!",
+          "description": "Stay safe and healthy!",
           "icon": "\ud83d\udee1\ufe0f",
           "lessons": [
             {
-              "id": "lesson-1-hygiene",
-              "title": "Personal Hygiene",
-              "hook": "Keeping clean helps you stay healthy and strong! Let's learn good habits! \ud83e\uddfc",
-              "explanation": "Good hygiene means keeping your body clean and healthy. This stops germs from making us sick.",
-              "content": "Important hygiene habits:\n\n1. **Wash Hands** \ud83d\udeb0 - Before eating and after bathroom (kills germs)\n2. **Brush Teeth** \ud83e\udea5 - Twice a day to keep them strong\n3. **Take Bath** \ud83d\udebf - Wash your whole body with soap\n4. **Trim Nails** \ud83d\udc85 - Keep them short and clean\n5. **Wash Hair** \ud83d\udc87 - Keep scalp clean and healthy",
-              "examples": [
-                {
-                  "title": "Wash Hands \ud83d\udeb0",
-                  "description": "Before eating and after toilet",
-                  "visual": "Clean hands with soap and water"
-                },
-                {
-                  "title": "Brush Teeth \ud83e\udea5",
-                  "description": "Morning and before bed",
-                  "visual": "Shiny white healthy teeth"
-                },
-                {
-                  "title": "Take Bath \ud83d\udebf",
-                  "description": "Use soap to clean whole body",
-                  "visual": "Clean fresh body"
-                }
-              ]
-            },
-            {
-              "id": "lesson-2-safety",
-              "title": "Safety Rules",
-              "hook": "Playing safe keeps you from getting hurt! Learn these important rules! \u26a0\ufe0f",
-              "explanation": "Safety rules help protect us from accidents and injuries.",
-              "content": "Important safety rules:\n\n1. **Cross Roads Safely** \ud83d\udea6 - Look both ways, hold adult's hand\n2. **Don't Talk to Strangers** \ud83d\udeab - Stay close to trusted adults\n3. **Wear Helmet** \ud83e\ude96 - When riding bike or scooter\n4. **Don't Play With Fire** \ud83d\udd25 - Fire is dangerous!\n5. **Wear Seat Belt** \ud83d\ude97 - When in a car",
-              "examples": [
-                {
-                  "title": "Road Safety \ud83d\udea6",
-                  "description": "Look left, right, left before crossing",
-                  "visual": "Safe crossing at zebra crossing"
-                },
-                {
-                  "title": "Wear Helmet \ud83e\ude96",
-                  "description": "Protects your head when cycling",
-                  "visual": "Helmet on head"
-                },
-                {
-                  "title": "Fire Safety \ud83d\udd25",
-                  "description": "Never play with fire or matches",
-                  "visual": "Fire is dangerous"
-                }
-              ]
+              "id": "lesson-1",
+              "title": "Safety",
+              "hook": "Safety first!",
+              "explanation": "Follow safety rules.",
+              "content": "Important safety habits",
+              "examples": []
             }
           ],
           "questions": [
@@ -1030,185 +620,147 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "When wash HANDS?",
+              "question": "Wash hands before",
               "options": [
-                "Before bed",
-                "Before eating \ud83d\udeb0",
-                "After playing",
-                "Never"
+                "Bed",
+                "Eating",
+                "Playing",
+                "School"
               ],
               "correctAnswer": 1,
-              "hint": "Before food!",
-              "explanation": "Wash hands before eating!"
+              "hint": "Before food",
+              "explanation": "Wash hands before eating.",
+              "pdfSource": "page 107"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Brush teeth how many times?",
+              "question": "Brush teeth",
               "options": [
-                "Once a week",
-                "Once daily",
-                "Twice daily \ud83e\udea5",
-                "Never"
+                "Once",
+                "Twice daily",
+                "Never",
+                "Weekly"
               ],
-              "correctAnswer": 2,
-              "hint": "Morning and night.",
-              "explanation": "Brush teeth twice daily!"
+              "correctAnswer": 1,
+              "hint": "Morning and night",
+              "explanation": "Brush teeth twice daily.",
+              "pdfSource": "page 115"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "What before crossing road?",
+              "difficulty": "think",
+              "question": "Before crossing road",
               "options": [
-                "Run fast",
-                "Look both ways \ud83d\udea6",
-                "Play in road",
-                "Don't cross"
+                "Run",
+                "Look both ways",
+                "Stop",
+                "Play"
               ],
               "correctAnswer": 1,
-              "hint": "Check for cars.",
-              "explanation": "Look both ways!"
+              "hint": "Traffic safety",
+              "explanation": "Look both ways before crossing.",
+              "pdfSource": "page 117"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "Wear what when biking?",
+              "question": "Wear helmet when",
               "options": [
-                "Nothing",
-                "Helmet \ud83e\ude96",
-                "Sunglasses",
-                "Shoes only"
+                "Swimming",
+                "Biking",
+                "Running",
+                "Walking"
               ],
               "correctAnswer": 1,
-              "hint": "Protects head.",
-              "explanation": "Wear helmet!"
+              "hint": "Head protection",
+              "explanation": "Wear helmet when biking.",
+              "pdfSource": "page 118"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Why hygiene important?",
+              "difficulty": "challenge",
+              "question": "Don't play with",
               "options": [
-                "Look pretty",
-                "Kill germs \ud83e\uddfc",
-                "Waste time",
-                "No reason"
+                "Toys",
+                "Ball",
+                "Fire",
+                "Water"
               ],
-              "correctAnswer": 1,
-              "hint": "Prevents sickness.",
-              "explanation": "Kills germs!"
+              "correctAnswer": 2,
+              "hint": "Dangerous",
+              "explanation": "Never play with fire.",
+              "pdfSource": "page 119",
+              "imageUrl": "/images/questions/chapter-q-page-107.png"
             },
             {
               "id": "q6",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "Take bath how often?",
+              "question": "Bath helps us",
               "options": [
-                "Once a week",
-                "Once daily \ud83d\udebf",
-                "Never",
-                "Twice a week"
+                "Think",
+                "Stay clean",
+                "Eat",
+                "Sleep"
               ],
               "correctAnswer": 1,
-              "hint": "Keep clean.",
-              "explanation": "Bathe daily!"
+              "hint": "Hygiene",
+              "explanation": "Bath keeps us clean.",
+              "pdfSource": "page 123"
             },
             {
               "id": "q7",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "Don't play with?",
+              "question": "Cut nails",
               "options": [
-                "Ball",
-                "Fire \ud83d\udd25",
-                "Toys",
-                "Water"
+                "Grow long",
+                "Short",
+                "Never",
+                "Sometimes"
               ],
               "correctAnswer": 1,
-              "hint": "Very dangerous.",
-              "explanation": "Never play with fire!"
+              "hint": "Hygiene",
+              "explanation": "Keep nails short and clean.",
+              "pdfSource": "page 124"
             },
             {
               "id": "q8",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "Wear seatbelt where?",
+              "question": "Seatbelt in car for",
               "options": [
-                "Bus",
-                "Car \ud83d\ude97",
-                "Bike",
-                "Train"
+                "Fun",
+                "Safety",
+                "Style",
+                "Comfort"
               ],
               "correctAnswer": 1,
-              "hint": "For safety.",
-              "explanation": "Wear seatbelt in car!"
+              "hint": "Protection",
+              "explanation": "Seatbelt protects us in cars.",
+              "pdfSource": "page 131",
+              "imageUrl": "/images/questions/chapter-q-page-118.png"
             }
           ]
         },
         {
           "id": "environment",
           "title": "Air, Water & Rocks",
-          "description": "Discover our natural world!",
+          "description": "Our natural world!",
           "icon": "\ud83c\udf0d",
           "lessons": [
             {
-              "id": "lesson-1-air",
-              "title": "Air We Breathe",
-              "hook": "You breathe air every second, but can you see it? No! But it's everywhere! \ud83d\udca8",
-              "explanation": "Air is all around us. We can't see it, but we need it to live.",
-              "content": "Facts about air:\n\n1. **Invisible** - We can't see air, but it's everywhere\n2. **We Breathe It** \ud83d\udca8 - Our lungs need oxygen from air\n3. **Wind** \ud83c\udf2a\ufe0f - Moving air is called wind\n4. **Has Weight** \u2696\ufe0f - Air has weight and pushes on us\n5. **Plants Need It** \ud83c\udf3f - Plants use air to make food",
-              "examples": [
-                {
-                  "title": "We Breathe Air \ud83d\udca8",
-                  "description": "In and out, all day and night",
-                  "visual": "Deep breath of fresh air"
-                },
-                {
-                  "title": "Wind Moves Air \ud83c\udf2a\ufe0f",
-                  "description": "Moving air pushes things",
-                  "visual": "Leaves blowing in wind"
-                },
-                {
-                  "title": "Air is Invisible \ud83d\udc7b",
-                  "description": "We can't see it but it's there",
-                  "visual": "Clear but present"
-                }
-              ]
-            },
-            {
-              "id": "lesson-2-water",
-              "title": "Water We Need",
-              "hook": "Water is everywhere! In rain, rivers, ocean - and inside you! \ud83d\udca7",
-              "explanation": "Water is essential for all life. We can see it and it has many forms.",
-              "content": "Facts about water:\n\n1. **Essential** \ud83d\udca7 - We need water to survive\n2. **States** \ud83c\udf21\ufe0f - Ice (solid), Water (liquid), Steam (gas)\n3. **Covers Earth** \ud83c\udf0a - Most of Earth is water (oceans, rivers)\n4. **In Our Body** \ud83d\udc64 - We are mostly water\n5. **Rain** \ud83c\udf27\ufe0f - Water falls from clouds as rain",
-              "examples": [
-                {
-                  "title": "Water States \ud83c\udf21\ufe0f",
-                  "description": "Ice cold, water liquid, steam hot",
-                  "items": [
-                    "Ice cube",
-                    "Drinking water",
-                    "Hot steam"
-                  ]
-                },
-                {
-                  "title": "Water Bodies \ud83c\udf0a",
-                  "description": "Ocean, river, lake, pond",
-                  "items": [
-                    "Big ocean",
-                    "Flowing river",
-                    "Calm lake"
-                  ]
-                },
-                {
-                  "title": "Rain \ud83c\udf27\ufe0f",
-                  "description": "Water falls from clouds",
-                  "visual": "Raindrops falling"
-                }
-              ]
+              "id": "lesson-1",
+              "title": "Air & Water",
+              "hook": "Nature's gifts!",
+              "explanation": "Air and water are essential.",
+              "content": "Natural resources",
+              "examples": []
             }
           ],
           "questions": [
@@ -1216,191 +768,147 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Can you SEE air?",
+              "question": "We breathe",
               "options": [
-                "Yes blue",
-                "Yes white",
-                "No invisible \ud83d\udca8",
-                "Sometimes"
+                "Water",
+                "Air",
+                "Gas",
+                "Smoke"
               ],
-              "correctAnswer": 2,
-              "hint": "Look at sky.",
-              "explanation": "Air is invisible!"
+              "correctAnswer": 1,
+              "hint": "Around us",
+              "explanation": "We breathe air.",
+              "pdfSource": "page 133"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Why need WATER?",
+              "question": "Fish live in",
               "options": [
-                "Play",
-                "Survive \ud83d\udca7",
-                "Swim",
-                "Fun"
+                "Land",
+                "Water",
+                "Air",
+                "Fire"
               ],
               "correctAnswer": 1,
-              "hint": "Essential.",
-              "explanation": "Water is essential!"
+              "hint": "Wet",
+              "explanation": "Fish live in water.",
+              "pdfSource": "page 135"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "What is moving AIR?",
+              "difficulty": "think",
+              "question": "Moving air is",
               "options": [
                 "Breeze",
-                "Wind \ud83c\udf2a\ufe0f",
-                "Air flow",
-                "All"
+                "Wind",
+                "Gale",
+                "Storm"
               ],
               "correctAnswer": 1,
-              "hint": "Trees sway.",
-              "explanation": "Wind is moving air!"
+              "hint": "Fast air",
+              "explanation": "Moving air is wind.",
+              "pdfSource": "page 136"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "STATE of water?",
+              "question": "Rain comes from",
               "options": [
-                "India",
-                "Ice, water, steam \ud83c\udf21\ufe0f",
+                "Rivers",
+                "Clouds",
                 "Ocean",
-                "Rain"
+                "Mountains"
               ],
               "correctAnswer": 1,
-              "hint": "Solid, liquid, gas.",
-              "explanation": "Water has 3 states!"
+              "hint": "Sky",
+              "explanation": "Rain comes from clouds.",
+              "pdfSource": "page 137"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "Where RAIN from?",
+              "difficulty": "challenge",
+              "question": "Water states are",
               "options": [
-                "Rivers",
-                "Clouds \ud83c\udf27\ufe0f",
-                "Ocean only",
-                "Mountains"
+                "Liquid",
+                "Ice water steam",
+                "Solid",
+                "Gas"
               ],
               "correctAnswer": 1,
-              "hint": "From sky.",
-              "explanation": "Rain from clouds!"
+              "hint": "Hot cold liquid",
+              "explanation": "Water has three states: solid (ice), liquid (water), gas (steam).",
+              "pdfSource": "page 139",
+              "imageUrl": "/images/questions/chapter-q-page-123.png"
             },
             {
               "id": "q6",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "Why air important?",
+              "question": "Air is",
               "options": [
-                "Look pretty",
-                "Breathe \ud83d\udca8",
-                "Play",
-                "Sleep"
+                "Visible",
+                "Invisible",
+                "Colored",
+                "Heavy"
               ],
               "correctAnswer": 1,
-              "hint": "Survival.",
-              "explanation": "Air is for breathing!"
+              "hint": "Can't see",
+              "explanation": "Air is invisible.",
+              "pdfSource": "page 141"
             },
             {
               "id": "q7",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "Water covers Earth?",
+              "question": "Water covers Earth",
               "options": [
-                "Half",
                 "Little",
-                "Most \ud83c\udf0a",
-                "None"
+                "Half",
+                "Most",
+                "All"
               ],
               "correctAnswer": 2,
-              "hint": "Oceans big.",
-              "explanation": "Water covers most of Earth!"
+              "hint": "Oceans big",
+              "explanation": "Most of Earth is covered by water.",
+              "pdfSource": "page 142"
             },
             {
               "id": "q8",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "What is weather?",
+              "question": "Rocks are",
               "options": [
-                "Clouds",
-                "Rain",
-                "Wind and temperature \ud83c\udf24\ufe0f",
-                "All"
+                "Soft",
+                "Living",
+                "Hard",
+                "Moving"
               ],
-              "correctAnswer": 3,
-              "hint": "Hot, cold, wet, dry.",
-              "explanation": "Weather is air conditions!"
+              "correctAnswer": 2,
+              "hint": "Stone",
+              "explanation": "Rocks are hard.",
+              "pdfSource": "page 152",
+              "imageUrl": "/images/questions/chapter-q-page-124.png"
             }
           ]
         },
         {
           "id": "transport",
           "title": "Transport & Communication",
-          "description": "Travel and connect with others!",
+          "description": "How we travel!",
           "icon": "\ud83d\ude97",
           "lessons": [
             {
-              "id": "lesson-1-transport",
-              "title": "Types of Transport",
-              "hook": "We use different vehicles to travel from place to place! \ud83d\ude97",
-              "explanation": "Transport is how we move from one place to another. There are many types.",
-              "content": "Types of transport:\n\n1. **Land Transport** \ud83d\ude97 - Car, bus, train, bicycle\n2. **Water Transport** \ud83d\udea2 - Boat, ship, ferry\n3. **Air Transport** \u2708\ufe0f - Airplane, helicopter\n4. **Public Transport** \ud83d\ude8c - Buses, trains, metro for many people\n5. **Personal Transport** \ud83d\udeb2 - Bicycle, scooter, personal car",
-              "examples": [
-                {
-                  "title": "Land Transport \ud83d\ude97",
-                  "description": "Travel on roads and rails",
-                  "items": [
-                    "Car",
-                    "Bus",
-                    "Train",
-                    "Bicycle"
-                  ]
-                },
-                {
-                  "title": "Water Transport \ud83d\udea2",
-                  "description": "Travel on water",
-                  "items": [
-                    "Boat",
-                    "Ship",
-                    "Ferry",
-                    "Yacht"
-                  ]
-                },
-                {
-                  "title": "Air Transport \u2708\ufe0f",
-                  "description": "Travel in the sky",
-                  "items": [
-                    "Airplane",
-                    "Helicopter",
-                    "Hot air balloon"
-                  ]
-                }
-              ]
-            },
-            {
-              "id": "lesson-2-communication",
-              "title": "Ways to Communicate",
-              "hook": "How do you talk to your friends and family? There are so many ways! \ud83d\udcf1",
-              "explanation": "Communication is how we share information and talk to each other.",
-              "content": "Ways to communicate:\n\n1. **Face to Face** \ud83d\udc65 - Talk directly with people\n2. **Phone** \u260e\ufe0f - Call or text messages\n3. **Letter** \u2709\ufe0f - Written message sent by mail\n4. **Internet** \ud83d\udcbb - Email, video call, chat\n5. **Sign Language** \ud83d\ude4b - Using hands to communicate",
-              "examples": [
-                {
-                  "title": "Face to Face \ud83d\udc65",
-                  "description": "Talk to people directly",
-                  "visual": "Friends talking together"
-                },
-                {
-                  "title": "Phone & Text \u260e\ufe0f",
-                  "description": "Call or message someone",
-                  "visual": "Talking on phone"
-                },
-                {
-                  "title": "Letter \u2709\ufe0f",
-                  "description": "Written message by mail",
-                  "visual": "Envelope with letter"
-                }
-              ]
+              "id": "lesson-1",
+              "title": "Transport",
+              "hook": "Travel methods!",
+              "explanation": "Different ways to travel.",
+              "content": "Vehicles and roads",
+              "examples": []
             }
           ],
           "questions": [
@@ -1408,182 +916,148 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which LAND transport?",
+              "question": "Car travels on",
               "options": [
-                "Boat \ud83d\udea2",
-                "Airplane \u2708\ufe0f",
-                "Bus \ud83d\ude8c",
-                "Ship"
+                "Water",
+                "Road",
+                "Air",
+                "Rails"
               ],
-              "correctAnswer": 2,
-              "hint": "On roads.",
-              "explanation": "Bus is land transport!"
+              "correctAnswer": 1,
+              "hint": "Ground",
+              "explanation": "Car travels on roads.",
+              "pdfSource": "page 148"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Which WATER transport?",
+              "question": "Boat travels in",
               "options": [
-                "Car",
-                "Train",
-                "Boat \ud83d\udea2",
-                "Bicycle"
+                "Air",
+                "Land",
+                "Water",
+                "Underground"
               ],
               "correctAnswer": 2,
-              "hint": "On water.",
-              "explanation": "Boat is water transport!"
+              "hint": "Wet",
+              "explanation": "Boat travels in water.",
+              "pdfSource": "page 150"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Which AIR transport?",
+              "difficulty": "think",
+              "question": "Airplane travels in",
               "options": [
-                "Bus",
-                "Train",
-                "Airplane \u2708\ufe0f",
-                "Car"
+                "Water",
+                "Road",
+                "Air",
+                "Rails"
               ],
               "correctAnswer": 2,
-              "hint": "In sky.",
-              "explanation": "Airplane is air transport!"
+              "hint": "Sky",
+              "explanation": "Airplane travels in air.",
+              "pdfSource": "page 151"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "How COMMUNICATE far?",
+              "question": "Train travels on",
               "options": [
-                "Face only",
-                "Phone \ud83d\udcf1",
-                "Letter only",
-                "Signs"
+                "Road",
+                "Water",
+                "Rails",
+                "Air"
               ],
-              "correctAnswer": 1,
-              "hint": "Over distance.",
-              "explanation": "Phone communicates far!"
+              "correctAnswer": 2,
+              "hint": "Tracks",
+              "explanation": "Train travels on rails.",
+              "pdfSource": "page 152"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "What PUBLIC transport?",
+              "difficulty": "challenge",
+              "question": "Bus carries many",
               "options": [
-                "Your car",
-                "Bus many \ud83d\ude8c",
-                "Bicycle",
-                "Motorcycle"
+                "Cargo",
+                "People",
+                "Water",
+                "Air"
               ],
               "correctAnswer": 1,
-              "hint": "Many people.",
-              "explanation": "Bus carries many people!"
+              "hint": "Public",
+              "explanation": "Bus carries many people.",
+              "pdfSource": "page 153",
+              "imageUrl": "/images/questions/chapter-q-page-137.png"
             },
             {
               "id": "q6",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "Fastest transport long?",
+              "question": "Fastest transport for long distance",
               "options": [
-                "Bicycle",
                 "Car",
-                "Airplane \u2708\ufe0f",
+                "Train",
+                "Airplane",
                 "Bus"
               ],
               "correctAnswer": 2,
-              "hint": "Through sky.",
-              "explanation": "Airplane is fastest!"
+              "hint": "Sky",
+              "explanation": "Airplane is fastest for long distances.",
+              "pdfSource": "page 154"
             },
             {
               "id": "q7",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "How write letter?",
+              "question": "Communication helps us",
               "options": [
-                "Phone call",
-                "Paper \u2709\ufe0f",
-                "Video",
-                "Text"
+                "Travel",
+                "Talk",
+                "Eat",
+                "Sleep"
               ],
               "correctAnswer": 1,
-              "hint": "Mail.",
-              "explanation": "Letter on paper!"
+              "hint": "Contact",
+              "explanation": "Communication helps us talk.",
+              "pdfSource": "page 155",
+              "imageUrl": "/images/questions/chapter-q-page-139.png"
             },
             {
               "id": "q8",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "What is train?",
+              "question": "Letter is sent by",
               "options": [
-                "Car",
-                "Land transport \ud83d\ude82",
-                "Air",
-                "Water"
+                "Phone",
+                "Mail",
+                "Email",
+                "Chat"
               ],
               "correctAnswer": 1,
-              "hint": "Rails.",
-              "explanation": "Train is land transport on rails!"
+              "hint": "Postal",
+              "explanation": "Letter is sent by mail.",
+              "pdfSource": "page 156",
+              "imageUrl": "/images/questions/chapter-q-page-141.png"
             }
           ]
         },
         {
           "id": "earth",
           "title": "Earth & Universe",
-          "description": "Explore our planet and space!",
+          "description": "Our planet and space!",
           "icon": "\ud83c\udf0e",
           "lessons": [
             {
-              "id": "lesson-1-earth",
-              "title": "Our Planet Earth",
-              "hook": "We live on a planet called Earth! It's round and very special! \ud83c\udf0d",
-              "explanation": "Earth is our home planet. It has everything we need to survive.",
-              "content": "Facts about Earth:\n\n1. **Round Planet** \ud83c\udf0d - Earth is a sphere\n2. **Has Land & Water** \ud83c\udfde\ufe0f - Continents, islands, and oceans\n3. **Rotates** \ud83c\udf2a\ufe0f - Turns to create day and night\n4. **Has Atmosphere** \ud83d\udca8 - Air around Earth protects us\n5. **Has Life** \ud83c\udf3f - Plants, animals, and people live here",
-              "examples": [
-                {
-                  "title": "Earth is Round \ud83c\udf0d",
-                  "description": "Like a big ball in space",
-                  "visual": "Blue and green planet"
-                },
-                {
-                  "title": "Land & Ocean \ud83c\udf0a",
-                  "description": "Continents, mountains, and water",
-                  "items": [
-                    "Continents",
-                    "Mountains",
-                    "Oceans",
-                    "Rivers"
-                  ]
-                },
-                {
-                  "title": "Day & Night \ud83c\udf19",
-                  "description": "Earth rotates to create day and night",
-                  "visual": "Sun and moon"
-                }
-              ]
-            },
-            {
-              "id": "lesson-2-space",
-              "title": "Space & Stars",
-              "hook": "Beyond Earth is a huge space with stars, moon, and planets! \ud83c\udf1f",
-              "explanation": "Space is everything beyond Earth. It's full of amazing things.",
-              "content": "Space includes:\n\n1. **Sun** \u2600\ufe0f - Star that gives us light and heat\n2. **Moon** \ud83c\udf19 - Orbits Earth, creates tides\n3. **Stars** \u2b50 - Distant suns very far away\n4. **Planets** \ud83e\ude90 - Orbit the sun (Mercury, Venus, Mars)\n5. **Galaxy** \ud83c\udf0c - Millions of stars together",
-              "examples": [
-                {
-                  "title": "The Sun \u2600\ufe0f",
-                  "description": "Gives us light and warmth",
-                  "visual": "Bright yellow star"
-                },
-                {
-                  "title": "The Moon \ud83c\udf19",
-                  "description": "Orbits Earth, lights night sky",
-                  "visual": "Silver moon in night"
-                },
-                {
-                  "title": "Stars \u2b50",
-                  "description": "Sparkle in night sky",
-                  "visual": "Twinkling stars"
-                }
-              ]
+              "id": "lesson-1",
+              "title": "Earth",
+              "hook": "Our planet!",
+              "explanation": "Earth in space.",
+              "content": "Planet and cosmos",
+              "examples": []
             }
           ],
           "questions": [
@@ -1591,121 +1065,131 @@
               "id": "q1",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "Shape EARTH?",
+              "question": "Earth is",
               "options": [
                 "Flat",
                 "Square",
-                "Round \ud83c\udf0d",
+                "Round",
                 "Triangle"
               ],
               "correctAnswer": 2,
-              "hint": "Like ball.",
-              "explanation": "Earth is round!"
+              "hint": "Sphere",
+              "explanation": "Earth is round like a sphere.",
+              "pdfSource": "page 157"
             },
             {
               "id": "q2",
               "type": "multiple-choice",
               "difficulty": "easy",
-              "question": "What LIGHT HEAT?",
+              "question": "Sun gives us",
               "options": [
-                "Moon",
-                "Stars",
-                "Sun \u2600\ufe0f",
-                "Fire"
+                "Water",
+                "Light",
+                "Air",
+                "Food"
               ],
-              "correctAnswer": 2,
-              "hint": "Day time.",
-              "explanation": "Sun gives light and heat!"
+              "correctAnswer": 1,
+              "hint": "Bright",
+              "explanation": "Sun gives us light and heat.",
+              "pdfSource": "page 152"
             },
             {
               "id": "q3",
               "type": "multiple-choice",
-              "difficulty": "easy",
-              "question": "Why DAY NIGHT?",
+              "difficulty": "think",
+              "question": "Day and night happen because",
               "options": [
-                "Sun disappears",
-                "Earth rotates \ud83c\udf2a\ufe0f",
-                "Moon covers",
+                "Sun moves",
+                "Earth rotates",
+                "Moon blocks",
                 "Clouds"
               ],
               "correctAnswer": 1,
-              "hint": "Earth spinning.",
-              "explanation": "Earth rotates!"
+              "hint": "Spinning",
+              "explanation": "Earth rotates causing day and night.",
+              "pdfSource": "page 153"
             },
             {
               "id": "q4",
               "type": "multiple-choice",
               "difficulty": "think",
-              "question": "What MOON?",
+              "question": "Moon is",
               "options": [
                 "Planet",
                 "Star",
-                "Orbits Earth \ud83c\udf19",
-                "Hot"
+                "Satellite",
+                "Comet"
               ],
               "correctAnswer": 2,
-              "hint": "Night sky.",
-              "explanation": "Moon orbits Earth!"
+              "hint": "Orbits Earth",
+              "explanation": "Moon orbits Earth as a satellite.",
+              "pdfSource": "page 154"
             },
             {
               "id": "q5",
               "type": "multiple-choice",
-              "difficulty": "think",
-              "question": "What GALAXY?",
+              "difficulty": "challenge",
+              "question": "Stars are like",
               "options": [
-                "Planet",
-                "One star",
-                "Millions stars \ud83c\udf0c",
-                "Sun"
+                "Planets",
+                "Moons",
+                "Suns",
+                "Rocks"
               ],
               "correctAnswer": 2,
-              "hint": "Many stars.",
-              "explanation": "Galaxy has millions of stars!"
+              "hint": "Distant",
+              "explanation": "Stars are distant suns.",
+              "pdfSource": "page 155",
+              "imageUrl": "/images/questions/chapter-q-page-152.png"
             },
             {
               "id": "q6",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "What SPACE?",
+              "question": "Galaxy contains",
               "options": [
-                "Earth only",
-                "Nothing",
-                "Beyond Earth \ud83c\udf0c",
-                "Air"
+                "One star",
+                "Few stars",
+                "Many stars",
+                "No stars"
               ],
               "correctAnswer": 2,
-              "hint": "Beyond planet.",
-              "explanation": "Space is beyond Earth!"
+              "hint": "Millions",
+              "explanation": "Galaxy contains millions of stars.",
+              "pdfSource": "page 156"
             },
             {
               "id": "q7",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "How many PLANETS?",
+              "question": "Our sun is in",
               "options": [
-                "3",
-                "5",
-                "8 \ud83e\ude90",
-                "10"
+                "Andromeda",
+                "Milky Way",
+                "Orion",
+                "Perseus"
               ],
-              "correctAnswer": 2,
-              "hint": "Include Mars.",
-              "explanation": "8 planets in solar system!"
+              "correctAnswer": 1,
+              "hint": "Galactic",
+              "explanation": "Our sun is in the Milky Way galaxy.",
+              "pdfSource": "page 156"
             },
             {
               "id": "q8",
               "type": "multiple-choice",
               "difficulty": "challenge",
-              "question": "What STAR?",
+              "question": "Space contains",
               "options": [
-                "Planet",
-                "Moon",
-                "Sun \ud83c\udf1f",
-                "Meteor"
+                "Only planets",
+                "Stars galaxies",
+                "Only moons",
+                "Only asteroids"
               ],
-              "correctAnswer": 2,
-              "hint": "Gives light.",
-              "explanation": "Sun is a star!"
+              "correctAnswer": 1,
+              "hint": "Cosmos",
+              "explanation": "Space contains stars, planets, galaxies and more.",
+              "pdfSource": "page 157",
+              "imageUrl": "/images/questions/chapter-q-page-157.png"
             }
           ]
         }
