@@ -164,7 +164,17 @@ export default function QuizView({
             </span>
           </div>
 
-          {/* Question */}
+          {/* Question - Text or Visual */}
+          {currentQuestion.imageUrl && (
+            <div className="mb-8 text-center">
+              <img
+                src={currentQuestion.imageUrl}
+                alt="Question"
+                className="max-w-full h-auto rounded-lg border-2 border-blue-300 mx-auto max-h-96"
+              />
+            </div>
+          )}
+
           <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-8 leading-relaxed">
             {currentQuestion.question}
           </h2>
