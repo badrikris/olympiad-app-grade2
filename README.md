@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎓 Olympiad Prep - Interactive Learning App
 
-## Getting Started
+A delightful, child-friendly web app for Grade 2 students to learn and practice Olympiad science concepts through interactive lessons and quizzes.
 
-First, run the development server:
+## Features
+
+✨ **Beautiful UI**
+- Gradient backgrounds and smooth animations
+- Large, tappable buttons for mobile
+- Emoji-rich, playful design
+- Responsive across all devices
+
+📚 **Interactive Lessons**
+- Hook to grab attention
+- Clear explanations for 7-8 year olds
+- Concrete examples with emojis
+- Expandable example cards
+
+🧪 **Smart Quiz System**
+- Difficulty levels (Easy, Think, Challenge)
+- Immediate feedback with encouragement
+- Helpful hints for each question
+- Score tracking
+
+🎉 **Celebration Screen**
+- Star ratings based on performance
+- Encouraging messages
+- Option to retry or choose another topic
+- Confetti animation
+
+## Quick Start
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deploy to Vercel
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Option 1: Using Vercel CLI
 
-## Learn More
+```bash
+npm install -g vercel
+vercel
+```
 
-To learn more about Next.js, take a look at the following resources:
+### Option 2: GitHub + Vercel Dashboard
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Push to GitHub
+2. Go to vercel.com → New Project
+3. Import your GitHub repo
+4. Click Deploy
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Content
 
-## Deploy on Vercel
+All content is in `public/data/book.json` - easily edit to add more topics!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Next.js 16 + TypeScript
+- Tailwind CSS
+- Lucide Icons
+- Mobile-first responsive design
+
+---
+
+**Made with ❤️ for curious young learners!**
