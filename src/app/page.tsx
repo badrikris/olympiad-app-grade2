@@ -17,10 +17,7 @@ interface BookData {
       title: string;
       description: string;
       icon: string;
-      lessons: Array<{
-        id: string;
-        title: string;
-      }>;
+      lessons: Array<any>;
       questions: Array<any>;
     }>;
   }>;
