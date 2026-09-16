@@ -185,6 +185,277 @@
               "explanation": "Cotton comes from the flower! The fluffy cotton fibers surround the seeds inside the flower. These are spun into thread to make clothes."
             }
           ]
+        },
+        {
+          "id": "animals",
+          "title": "Animals",
+          "description": "Learn about creatures big and small!",
+          "icon": "🦁",
+          "lessons": [
+            {
+              "id": "lesson-1-types",
+              "title": "Types of Animals",
+              "hook": "The world is full of amazing animals! Some walk, some fly, some swim! 🌍",
+              "explanation": "Animals are living things that can move around. We can group them by what they eat or where they live.",
+              "content": "Main groups of animals:\n\n1. **Wild Animals** - Live in forests, jungles, and deserts (lion, tiger, bear)\n2. **Domestic Animals** - Live with humans (dog, cat, cow)\n3. **Birds** - Have wings and can fly (parrot, crow, eagle)\n4. **Water Animals** - Live in water (fish, dolphin, crocodile)\n5. **Insects** - Tiny creatures with 6 legs (butterfly, bee, ant)",
+              "examples": [
+                {
+                  "title": "Wild Animals 🦁",
+                  "description": "Tiger, lion, elephant - live in nature",
+                  "visual": "Big powerful animal in jungle"
+                },
+                {
+                  "title": "Domestic Animals 🐕",
+                  "description": "Dog, cat, cow - live with people",
+                  "visual": "Friendly pet animal with family"
+                },
+                {
+                  "title": "Birds 🦅",
+                  "description": "Parrot, crow, peacock - have feathers and wings",
+                  "visual": "Colorful bird flying in sky"
+                },
+                {
+                  "title": "Water Animals 🐠",
+                  "description": "Fish, turtle, crocodile - live in water",
+                  "visual": "Animal swimming in water"
+                }
+              ]
+            },
+            {
+              "id": "lesson-2-habitat",
+              "title": "Where Animals Live",
+              "hook": "Different animals live in different places! Where would YOU find a fish? 🏜️",
+              "explanation": "Animals live in homes called habitats. Each habitat has what the animal needs to survive.",
+              "content": "Different habitats:\n\n1. **Forest** - Trees, shade, wet ground (monkeys, deer, birds)\n2. **Desert** - Hot, dry, sandy (camel, snake, scorpion)\n3. **Ocean** - Salt water (whale, shark, octopus)\n4. **Pond/Lake** - Fresh water (frog, duck, fish)\n5. **Mountain** - High, cold (eagle, snow leopard, yak)",
+              "examples": [
+                {
+                  "title": "Forest Habitat 🌳",
+                  "description": "Wet, shady with lots of trees",
+                  "items": ["Monkeys", "Tigers", "Birds", "Deer"]
+                },
+                {
+                  "title": "Desert Habitat 🏜️",
+                  "description": "Hot, dry with sand",
+                  "items": ["Camel", "Snake", "Scorpion", "Lizard"]
+                },
+                {
+                  "title": "Ocean Habitat 🌊",
+                  "description": "Deep salt water",
+                  "items": ["Whale", "Shark", "Octopus", "Dolphin"]
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which animal is a WILD animal?",
+              "options": [
+                "Dog 🐕",
+                "Tiger 🐯",
+                "Cat 🐱",
+                "Cow 🐄"
+              ],
+              "correctAnswer": 1,
+              "hint": "Wild animals live in forests, not with people.",
+              "explanation": "Tiger is a wild animal! It lives in forests and jungles. Dog, cat, and cow live with people - they are domestic animals."
+            },
+            {
+              "id": "q2",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Where do FISH live?",
+              "options": [
+                "In trees 🌳",
+                "In water 💧",
+                "In sand 🏜️",
+                "In air ☁️"
+              ],
+              "correctAnswer": 1,
+              "hint": "Think about where you see fish!",
+              "explanation": "Fish live in water! They need water to breathe and survive."
+            },
+            {
+              "id": "q3",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which animal would you find in a DESERT?",
+              "options": [
+                "Penguin ❄️",
+                "Camel 🐪",
+                "Dolphin 🐬",
+                "Duck 🦆"
+              ],
+              "correctAnswer": 1,
+              "hint": "Deserts are hot and dry. Which animal can live without much water?",
+              "explanation": "Camels live in deserts! They can go without water for a long time and their feet are perfect for walking on sand."
+            },
+            {
+              "id": "q4",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "What do we call the place where an animal lives?",
+              "options": [
+                "Home 🏠",
+                "Habitat 🌍",
+                "Zoo 🦁",
+                "School 🎓"
+              ],
+              "correctAnswer": 1,
+              "hint": "It's a special word for where wild animals live.",
+              "explanation": "Habitat is the home of a wild animal! It has everything the animal needs like food, water, and shelter."
+            },
+            {
+              "id": "q5",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Which animal can live in BOTH water and on land?",
+              "options": [
+                "Eagle 🦅",
+                "Snake 🐍",
+                "Frog 🐸",
+                "Elephant 🐘"
+              ],
+              "correctAnswer": 2,
+              "hint": "It starts as a tadpole in water, then grows legs!",
+              "explanation": "Frogs live in both water and on land! Baby frogs (tadpoles) live in water with a tail. Adult frogs jump on land but need to stay near water."
+            }
+          ]
+        },
+        {
+          "id": "food",
+          "title": "Food & Nutrition",
+          "description": "Discover the food we eat and why we need it!",
+          "icon": "🍎",
+          "lessons": [
+            {
+              "id": "lesson-1-types",
+              "title": "Types of Food",
+              "hook": "What's your favorite food? Every food helps your body in a special way! 🍽️",
+              "explanation": "We eat different types of food. Each type helps our body in different ways.",
+              "content": "Main food groups:\n\n1. **Fruits & Vegetables** 🥬 - Give us vitamins and energy (apple, carrot, spinach)\n2. **Grains & Cereals** 🌾 - Give us energy (rice, wheat, bread)\n3. **Protein Foods** 🥚 - Help our body grow (egg, milk, beans)\n4. **Healthy Fats** 🥑 - Keep our body warm (nuts, oil)\n5. **Sugars & Sweets** 🍪 - Give quick energy (but eat less of these!)",
+              "examples": [
+                {
+                  "title": "Fruits & Vegetables 🥕",
+                  "description": "Colorful and full of vitamins",
+                  "items": ["Apple", "Carrot", "Spinach", "Banana"]
+                },
+                {
+                  "title": "Grains 🌾",
+                  "description": "Give us energy for running and playing",
+                  "items": ["Rice", "Wheat", "Bread", "Cereal"]
+                },
+                {
+                  "title": "Proteins 🥚",
+                  "description": "Help our body grow strong",
+                  "items": ["Eggs", "Milk", "Beans", "Chicken"]
+                }
+              ]
+            },
+            {
+              "id": "lesson-2-nutrition",
+              "title": "Why We Need Food",
+              "hook": "Your body is like a machine! Food is the fuel that keeps it running! ⚡",
+              "explanation": "Food gives our body energy and helps it grow, stay healthy, and fight sickness.",
+              "content": "Food helps us:\n\n1. **Grow** - Our bones, muscles, and body need food to get bigger\n2. **Get Energy** - We need energy to run, play, study, and think\n3. **Stay Healthy** - Food keeps our skin, teeth, and eyes strong\n4. **Fight Sickness** - Healthy food helps our body fight germs\n5. **Repair** - When we get hurt, food helps our body heal",
+              "examples": [
+                {
+                  "title": "For Growing 📏",
+                  "description": "Milk, eggs, beans help us get taller",
+                  "visual": "Child growing taller"
+                },
+                {
+                  "title": "For Energy ⚡",
+                  "description": "Rice, bread, fruit give us power",
+                  "visual": "Child running and playing"
+                },
+                {
+                  "title": "To Stay Healthy 💪",
+                  "description": "Vegetables and fruits keep us strong",
+                  "visual": "Healthy strong child"
+                }
+              ]
+            }
+          ],
+          "questions": [
+            {
+              "id": "q1",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Which food is a FRUIT?",
+              "options": [
+                "Rice 🍚",
+                "Apple 🍎",
+                "Bread 🍞",
+                "Milk 🥛"
+              ],
+              "correctAnswer": 1,
+              "hint": "Fruits grow on trees and are usually sweet!",
+              "explanation": "Apple is a fruit! It grows on trees and is full of vitamins. Rice, bread, and milk are other food types."
+            },
+            {
+              "id": "q2",
+              "type": "multiple-choice",
+              "difficulty": "easy",
+              "question": "Why do we need to eat food?",
+              "options": [
+                "To play video games",
+                "To get energy and grow 💪",
+                "To sleep better",
+                "To look pretty"
+              ],
+              "correctAnswer": 1,
+              "hint": "Food gives our body power!",
+              "explanation": "We eat food to get energy for running, playing, studying, and growing! Food keeps our body healthy and strong."
+            },
+            {
+              "id": "q3",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which food helps your body GROW strong?",
+              "options": [
+                "Candy 🍬",
+                "Soda 🥤",
+                "Milk & Eggs 🥚",
+                "Ice cream 🍦"
+              ],
+              "correctAnswer": 2,
+              "hint": "What helps your bones and muscles grow?",
+              "explanation": "Milk and eggs have protein! Protein helps your body grow and become strong. Candy and sweets taste good but don't help you grow."
+            },
+            {
+              "id": "q4",
+              "type": "multiple-choice",
+              "difficulty": "think",
+              "question": "Which is a HEALTHY lunch?",
+              "options": [
+                "Only candy",
+                "Only soda",
+                "Rice, vegetables, and egg 🍚",
+                "Only chocolate"
+              ],
+              "correctAnswer": 2,
+              "hint": "A healthy meal has different types of food.",
+              "explanation": "Rice, vegetables, and egg make a healthy meal! You get grains, vitamins, and protein all together."
+            },
+            {
+              "id": "q5",
+              "type": "multiple-choice",
+              "difficulty": "challenge",
+              "question": "Your body is like a machine. What is food?",
+              "options": [
+                "The water",
+                "The fuel ⛽",
+                "The wheels",
+                "The brakes"
+              ],
+              "correctAnswer": 1,
+              "hint": "What makes a machine run? What makes your body run?",
+              "explanation": "Food is the fuel for your body! Just like a car needs fuel to run, your body needs food to have energy and grow."
+            }
+          ]
         }
       ]
     }
